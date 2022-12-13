@@ -36,6 +36,10 @@ The release notes of the current and all previous versions is just given for you
   * 📅 Released on: January 2018
   * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEng-15.0.pdf) | [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEsp-15.0.pdf) | [Por](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesPor-15.0.pdf))
   * 📝 [Detailed changelog](sddp15.0.md)
+* Version 14.0
+  * 📅 Released on: July 2015
+  * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEng-14.0.pdf) | [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEsp-14.0.pdf) | [Por](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesPor-14.0.pdf))
+  * 📝 [Detailed changelog](sddp14.0.md)
 
 # Support or contact
 
