@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Release notes
-nav_order: 1
-description: "SDDP release notes"
+title: SDDP 14.0
+nav_order: 8
+description: "SDDP 14.0 (detailed changelog)"
 permalink: /
 ---
 

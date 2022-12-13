@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Release notes
+title: Home
 nav_order: 1
-description: "SDDP release notes"
+description: "SDDP releases"
 permalink: /
 ---
 
