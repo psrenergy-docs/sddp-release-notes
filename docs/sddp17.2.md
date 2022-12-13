@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDDP 17.2
+title: "SDDP 17.2"
 nav_order: 2
 description: "SDDP 17.2 (detailed changelog)"
 permalink: /

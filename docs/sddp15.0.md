@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SDDP 15.0
-nav_order: 1
+title: "SDDP 15.0"
+nav_order: 7
 description: "SDDP 15.0 (detailed changelog)"
 permalink: /
 ---
