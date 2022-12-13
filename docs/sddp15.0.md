@@ -3,7 +3,7 @@ layout: default
 title: "SDDP 15.0"
 nav_order: 7
 description: "SDDP 15.0 (detailed changelog)"
-permalink: "/:collection/:path/"
+#permalink: "/:collection/:path/"
 ---
 
 # SDDP 15.0.4 (2018-09-28)
