@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "SDDP 15.1"
 nav_order: 6
-description: "SDDP 15.1 (detailed changelog)"
-permalink: "/sddp15.1"
 ---
 
 # SDDP 15.1.13 (2020-05-25)

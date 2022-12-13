@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "SDDP 16.0"
 nav_order: 5
-description: "SDDP 16.0 (detailed changelog)"
-permalink: "/sddp16.0"
 ---
 
 # SDDP 16.0.8 (2021-10-06)

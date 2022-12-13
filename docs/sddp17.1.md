@@ -1,9 +1,7 @@
 ---
-layout: default
 title: "SDDP 17.1"
 nav_order: 3
-description: "SDDP 17.1 (detailed changelog)"
-permalink: "/sddp17.1"
+permalink: sddp17.1.md
 ---
 
 # SDDP 17.1.3rc13 (2022-11-29)
