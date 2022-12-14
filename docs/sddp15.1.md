@@ -14,7 +14,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc9-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the representation of Junin lake constraints
@@ -25,7 +25,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc8-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -36,7 +36,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc7-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -53,7 +53,7 @@ Official release
   * Hourly representation
     * new outputs: circuit marginal cost and bus angle
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in block aggregation for coordinated studies
@@ -73,7 +73,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -99,7 +99,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the representation of renewable plants with O&M cost
@@ -122,7 +122,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error in the Graph module that prevent creating new graphs
@@ -139,7 +139,7 @@ Official release
     * improvements in the mathematical modelling of hydro plant non-controllable
       spillage representation
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error converting demand data from MW to GWh with detailed
@@ -168,7 +168,7 @@ Official release
   * added the representation of hydro seasonal tables of turbining x efficiency
     and storage x maximum turbining
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the representation of renewable plants in circuit flow 
@@ -179,7 +179,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc14-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc14-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * improvement in the fuel contract internal representation to avoid numerical
@@ -204,7 +204,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc12-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * improvement in the network representation
@@ -214,7 +214,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc11-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * added a new check to ensure that the stages have the correct number of hours
@@ -229,7 +229,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc10-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the integration with Optgen
@@ -239,7 +239,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc9-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -251,7 +251,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc8-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * added a new check to ensure that historical inflow data is consistent with
@@ -265,7 +265,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc7-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -277,7 +277,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc6-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -289,7 +289,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc5-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * the interface is now saving the changes in the number of processes, even if the
@@ -299,7 +299,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an issue that caused an error in the modeling of hourly problem with the
@@ -332,7 +332,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -343,7 +343,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed a configuration issue that cause the graph module to incorrectly
@@ -361,7 +361,7 @@ Official release
 * Model
   * added new macro-agent for renewable per area
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed the “Contract cost” output in order to disregard Take-or-Pay costs
@@ -375,7 +375,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc5-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -386,7 +386,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed a configuration issue that cause the graph module to incorrectly
@@ -400,7 +400,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -443,7 +443,7 @@ Official release
     please edit the sddpclear.cfg file located in the Oper folder located in
     SDDP installation directory.
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -460,7 +460,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * added a new option for setting the default parameters for the optimization solver
@@ -472,7 +472,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Graph (updated to version 3.0.3)
   * fixed an error in the preparation of graphs that have the "Aggregate stages by year"
@@ -485,7 +485,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -504,7 +504,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -517,7 +517,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error for cases with historical inflows
@@ -532,7 +532,7 @@ Official release
 * Model
   * implemented dynamic memory allocation for thermal fuels
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error which may cause infeasibilities for cases
@@ -544,7 +544,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Hydrology > Parameter estimation
   * fixed an error while reading the weighting factor associated to
@@ -562,7 +562,7 @@ Official release
     * representation of joint reservoir constraints
     * new output: DC Link losses
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -586,7 +586,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc7-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Graph (updated to version 3.0.2)
   * fixed an error in the definition of the starting date of a graph when its 
@@ -610,7 +610,7 @@ Official release
   * the output type "Costs & indicators" has been split into two separate
     types: "Costs" and "Indicators"
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in maximum operative storage violation output
@@ -630,7 +630,7 @@ Official release
   * added forward compatibility due to changes in data resolution options for
     elastic demand price
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an internal error that could make SDDP print several
@@ -643,7 +643,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation: update internal of libraries
@@ -658,7 +658,7 @@ Official release
 * Model
   * New output: DC link loading
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error when adding new data to demand price table
@@ -668,7 +668,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -679,7 +679,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in CORAL in the calculation of marginal reliability of
@@ -701,7 +701,7 @@ Official release
 * GUI
   * improvement in the export/import functionality for load per bus data
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error that could make the program crash during parallel executions
@@ -725,7 +725,7 @@ Official release
 * Model
   * implemented dynamic memory allocation for DC links
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error that could lead to imprecise investment cut coefficients
@@ -736,7 +736,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the creation of terminal FCF integration file
@@ -779,7 +779,7 @@ Official release
 *** PLEASE CONSIDER UPDATING TO THIS NEW VERSION ***
 *** PROMPTLY TO HAVE THIS ISSUE SOLVED           ***
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the model in cases having at least one thermal plant
@@ -801,7 +801,7 @@ Official release
 * GUI
   * added export/import function for secondary reserve data
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error while calculating marginal costs for cases with risk aversion
@@ -813,7 +813,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed a memory allocation error in CORAL for simulations for selected blocks
@@ -823,7 +823,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -834,7 +834,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -845,7 +845,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the initialization of the cluster of the Markov
@@ -856,7 +856,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error while exporting chronological data for cases with large
@@ -878,7 +878,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an internal error that could prevent execution for cases with hot start
@@ -888,7 +888,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an issue in the calculation of the contribution of hydro plants for the
@@ -930,7 +930,7 @@ Official release
   * it is now possible to insert negative values for lower/upper bounds
     in the sum of interconnections screen
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error while showing and saving renewable scenarios
@@ -941,7 +941,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc13-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the "Final generation" summary report
@@ -960,7 +960,7 @@ Official release
     * improvement in the representation of initial condition for thermal
       plants with minimum downtime/uptime representation
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -990,7 +990,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc9-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the "Viol. cost of gen. constraints" output
@@ -1019,7 +1019,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc7-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the output "Circuit flow sum constraint"
@@ -1031,7 +1031,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc6-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * removed incorrect data verification in secondary reserve screen
@@ -1041,7 +1041,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc5-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1077,7 +1077,7 @@ Official release
     * added batteries in reserve representation
 * Graph (updated to version 2.30)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed some minor issues
@@ -1089,7 +1089,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1112,7 +1112,7 @@ Official release
 * GUI
   * added export/import function for hydro and thermal secondary reserve data
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error for cases with coordinated operative mode representation
@@ -1153,7 +1153,7 @@ Official release
   * automation of the execution of Time Series Lab on PSR Cloud
 * PowerView updated to version 1.17.0
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1171,7 +1171,7 @@ Official release
   * increased the maximum number of circuits in sum of circuit flows constraint
     from 25 to 100
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1191,7 +1191,7 @@ Official release
       * Load per system * maximum
       * Load per class * benefit
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1202,7 +1202,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc5-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * GUI
   * fixed an error when pasting data on grid control of modification screens
@@ -1214,7 +1214,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc4-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -1235,7 +1235,7 @@ Official release
   * detailed report option has been discontinued
   * execution warnings report is now accessible via the Reports menu
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error while printing the following output reports:
@@ -1262,7 +1262,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed the penalties of minimum spillage constraints of future hydro plants

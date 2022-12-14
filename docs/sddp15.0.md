@@ -16,7 +16,7 @@ nav_order: 7
   * added export/import function for hydro and thermal spinning reserve data
 * PowerView updated to version 1.15.0
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the modeling of batteries with minimum storage modification data
@@ -36,7 +36,7 @@ nav_order: 7
   * added an option to extend future cost functions in order to extend simulation horizon
 * Graph (updated to version 2.28)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed a random error while reading the hour-block mapping
@@ -80,7 +80,7 @@ nav_order: 7
   * added new data for single reservoir constraints: maximum operative storage
   * changed the control to set circuit status on circuit modification screen
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the calculation of the surplus of forced generation
@@ -116,7 +116,7 @@ nav_order: 7
   * added new data for georeferencing information (latitude and longitude)
     of generation agents such as hydro, thermal and renewable plants and batteries
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -150,7 +150,7 @@ nav_order: 7
   * number of interconnections and circuits between systems increased to 700
   * implemented dynamic memory allocation for electric areas data
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the sum of circuit flows constraints
@@ -171,7 +171,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -183,7 +183,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -200,7 +200,7 @@ nav_order: 7
   * disabled the maximum number of processes in parallel runs with more than
     one computer in the cluster
 
-# Fixed Bugs
+## Fixed Bugs
 
 -GUI
   * fixed an error while saving empty hourly scenario files which was causing
@@ -220,7 +220,7 @@ nav_order: 7
     one computer. The cluster configuration can be defined in the
     "Run > Cluster configuration" menu
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -250,7 +250,7 @@ nav_order: 7
     "View operation costs" functionality in "Thermal plants configuration"
     screen
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -275,7 +275,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -309,7 +309,7 @@ nav_order: 7
     aiming at improving stability and speed
 
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed a specific error that makes the program crash in coordinated cases in which
@@ -327,7 +327,7 @@ nav_order: 7
 * Documentation
   * included documentation for batteries
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -349,7 +349,7 @@ nav_order: 7
   * improved memory management for master process in parallel executions (less
     RAM memory usage)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * Hourly representation
@@ -362,7 +362,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * removed some debug/log messages that have been added incorrectly and that slowed down
@@ -385,7 +385,7 @@ nav_order: 7
       stability problems
     * several enhancements in the solution quality verification process
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error for cases in which the first system has no renewable plant but
@@ -417,7 +417,7 @@ nav_order: 7
   * increased the number of decimal places of the weights for the Markov inflow model
 * Graph (updated from version 2.21 to 2.22)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error in the hot-start functionality
@@ -432,7 +432,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error while running along with OptGen or CSV option
@@ -442,7 +442,7 @@ nav_order: 7
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup-linux.zip)
 
-# Fixed Bugs
+## Fixed Bugs
 
 * Model
   * fixed an error while reading the file of Markov clusters for inflows

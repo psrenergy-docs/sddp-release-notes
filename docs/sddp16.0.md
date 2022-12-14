@@ -14,7 +14,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.8rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.8rc2-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * Hourly representation
@@ -25,7 +25,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.8rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.8rc1-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * new output: energy lost by hydro spillage
@@ -35,7 +35,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * added option for optimizing thermal combined cycle state in the block resolution
@@ -47,7 +47,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc30-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc30-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * increased the maximum number of renewable plants from 5,000 to 6,000
@@ -111,7 +111,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc24-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc24-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * integration with PSRIO tool
@@ -190,7 +190,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc17-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc17-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * conversion of parallel execution management tool in Linux for Python3
@@ -341,7 +341,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.7rc3-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * increased an internal dimension related to the maximum number of demands
@@ -395,7 +395,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc12-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * Hourly representation
@@ -472,7 +472,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc6-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * created outputs for the penalty costs of the three joint reservoir constraints:
@@ -507,7 +507,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.6rc3-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * new outputs: current renewal of integral fuel contract, carry forward
@@ -679,7 +679,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc13-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * GUI
   * improved the copy and paste in chronological data grids
@@ -695,7 +695,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc12-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * introduced the possibility of violating the chronological thermal minimum
@@ -740,7 +740,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc8-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * new output: battery nominal capacity
@@ -770,7 +770,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc6-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * Hourly representation
@@ -787,7 +787,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc5-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * Hourly representation
@@ -809,7 +809,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc4-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * added new macro-agent for renewable source technology type
@@ -820,7 +820,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.4rc3-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * GUI
   * included the automatic deletion of temporary files from hourly executions
@@ -898,7 +898,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.2rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.2rc5-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * New option for printing FCF file in Excel format
@@ -951,7 +951,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.2rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.2rc1-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * Model
   * added the exclusion of temporary files from the hourly model at the end of the execution
@@ -970,7 +970,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.1-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * GUI
   * added the possibility to include files generated by TSL in the compact case data option
@@ -1020,7 +1020,7 @@ Official release
 
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0.1rc1-setup-linux.zip)
 
-# New features and improvements
+## New features and improvements
 
 * GUI
   * started saving the SDDP renewable scenarios data defined for stations with TSL data source selected 
