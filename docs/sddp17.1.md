@@ -3,8 +3,9 @@ title: "SDDP 17.1"
 nav_order: 3
 ---
 
-# SDDP 17.1.3rc13 (2022-11-29)
+# SDDP 17.1.3rc13
 
+📅 Date: 2022-11-29
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc13-setup-linux.zip)
 
 ## New features and improvements
@@ -13,8 +14,9 @@ nav_order: 3
   * improved the importation/exportation of bus configuration and connections data
 
 
-# SDDP 17.1.3rc12 (2022-11-25)
+# SDDP 17.1.3rc12
 
+📅 Date: 2022-11-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc12-setup-linux.zip)
 
 ## Fixed bugs
@@ -23,8 +25,9 @@ nav_order: 3
   * included the consideration of Netplan global constants
 
 
-# SDDP 17.1.3rc11 (2022-11-17)
+# SDDP 17.1.3rc11
 
+📅 Date: 2022-11-17
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc11-setup-linux.zip)
 
 ## Fixed bugs
@@ -33,8 +36,9 @@ nav_order: 3
   * fixed data conversion in NetPlan data integration
 
 
-# SDDP 17.1.3rc10 (2022-11-16)
+# SDDP 17.1.3rc10
 
+📅 Date: 2022-11-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc10-setup-linux.zip)
 
 ## Fixed bugs
@@ -46,8 +50,9 @@ nav_order: 3
   * fixed the length limitation of area names, passing from 10 to 12 characters
 
 
-# SDDP 17.1.3rc9 (2022-11-08)
+# SDDP 17.1.3rc9
 
+📅 Date: 2022-11-08
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc9-setup-linux.zip)
 
 ## Fixed bugs
@@ -57,8 +62,9 @@ nav_order: 3
     than hydro plants
 
 
-# SDDP 17.1.3rc8 (2022-11-07)
+# SDDP 17.1.3rc8
 
+📅 Date: 2022-11-07
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc8-setup-linux.zip)
 
 ## New features and improvements
@@ -67,8 +73,9 @@ nav_order: 3
   * included warnings during the importation of load-per-bus data defined incorrectly
 
 
-# SDDP 17.1.3rc7 (2022-11-04)
+# SDDP 17.1.3rc7
 
+📅 Date: 2022-11-04
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc7-setup-linux.zip)
 
 ## New features and improvements
@@ -77,8 +84,9 @@ nav_order: 3
   * removed limitation on number of modifications represented in the case
 
 
-# SDDP 17.1.3rc6 (2022-11-01)
+# SDDP 17.1.3rc6
 
+📅 Date: 2022-11-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc6-setup-linux.zip)
 
 ## New features and improvements
@@ -88,8 +96,9 @@ nav_order: 3
     * minor adjustments in hourly model
 
 
-# SDDP 17.1.3rc5 (2022-11-01)
+# SDDP 17.1.3rc5
 
+📅 Date: 2022-11-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc5-setup-linux.zip)
 
 ## New features and improvements
@@ -98,8 +107,9 @@ nav_order: 3
   * removed limitation on number of hydro plants represented in the case
 
 
-# SDDP 17.1.3rc4 (2022-10-31)
+# SDDP 17.1.3rc4
 
+📅 Date: 2022-10-31
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc4-setup-linux.zip)
 
 ## New features and improvements
@@ -109,8 +119,9 @@ nav_order: 3
     with Netplan integration
 
 
-# SDDP 17.1.3rc3 (2022-10-18)
+# SDDP 17.1.3rc3
 
+📅 Date: 2022-10-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc3-setup-linux.zip)
 
 ## New features and improvements
@@ -120,8 +131,9 @@ nav_order: 3
     * minor adjustments in hourly model
 
 
-# SDDP 17.1.3rc2 (2022-10-13)
+# SDDP 17.1.3rc2
 
+📅 Date: 2022-10-13
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc2-setup-linux.zip)
 
 ## Fixed bugs
@@ -131,8 +143,9 @@ nav_order: 3
     interconnection modification screen
 
 
-# SDDP 17.1.3rc1 (2022-10-04)
+# SDDP 17.1.3rc1
 
+📅 Date: 2022-10-04
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc1-setup-linux.zip)
 
 ## Fixed bugs
@@ -142,8 +155,9 @@ nav_order: 3
     * fixed the consideration of the Take-or-Pay cost of fuel contracts
 
 
-# SDDP 17.1.2 (2022-09-29)
+# SDDP 17.1.2
 
+📅 Date: 2022-09-29
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2-setup-linux.zip)
 
 ## Fixed bugs
@@ -153,8 +167,9 @@ nav_order: 3
     in databases with Netplan integration
 
 
-# SDDP 17.1.2rc16 (2022-09-19)
+# SDDP 17.1.2rc16
 
+📅 Date: 2022-09-19
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc16-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc16-setup-linux.zip)
 
 ## Fixed bugs
@@ -163,8 +178,9 @@ nav_order: 3
   * removed unnecessary data validations regarding the inflow x turbining hydro table
 
 
-# SDDP 17.1.2rc15 (2022-09-16)
+# SDDP 17.1.2rc15
 
+📅 Date: 2022-09-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc15-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc15-setup-linux.zip)
 
 ## New features and improvements
@@ -173,8 +189,9 @@ nav_order: 3
   * included extra data validations regarding the inflow x turbining hydro table
 
 
-# SDDP 17.1.2rc14 (2022-09-16)
+# SDDP 17.1.2rc14
 
+📅 Date: 2022-09-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc14-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc14-setup-linux.zip)
 
 ## New features and improvements
@@ -183,8 +200,9 @@ nav_order: 3
   * updated to version 3.1.4
 
 
-# SDDP 17.1.2rc13 (2022-09-15)
+# SDDP 17.1.2rc13
 
+📅 Date: 2022-09-15
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc13-setup-linux.zip)
 
 ## New features and improvements
@@ -194,8 +212,9 @@ nav_order: 3
     equal to zero in large reservoirs
 
 
-# SDDP 17.1.2rc12 (2022-09-15)
+# SDDP 17.1.2rc12
 
+📅 Date: 2022-09-15
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc12-setup-linux.zip)
 
 ## Fixed bugs
@@ -204,8 +223,9 @@ nav_order: 3
   * fixed an error loading the reserve data in hourly cases
 
 
-# SDDP 17.1.2rc11 (2022-09-08)
+# SDDP 17.1.2rc11
 
+📅 Date: 2022-09-08
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc11-setup-linux.zip)
 
 ## Fixed bugs
@@ -214,8 +234,9 @@ nav_order: 3
   * fixed option to avoid backing up the FCF file at the end of each iteration on linux
 
 
-# SDDP 17.1.2rc10 (2022-08-30)
+# SDDP 17.1.2rc10
 
+📅 Date: 2022-08-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc10-setup-linux.zip)
 
 ## Fixed bugs
@@ -225,8 +246,9 @@ nav_order: 3
     chronological blocks
 
 
-# SDDP 17.1.2rc9 (2022-08-25)
+# SDDP 17.1.2rc9
 
+📅 Date: 2022-08-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc9-setup-linux.zip)
 
 ## New features and improvements
@@ -236,8 +258,9 @@ nav_order: 3
     time can take relevant time for cases with a very large FCF file.
 
 
-# SDDP 17.1.2rc8 (2022-08-24)
+# SDDP 17.1.2rc8
 
+📅 Date: 2022-08-24
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc8-setup-linux.zip)
 
 ## Fixed bugs
@@ -246,8 +269,9 @@ nav_order: 3
     when using user-defined data for the additional years
 
 
-# SDDP 17.1.2rc7 (2022-08-19)
+# SDDP 17.1.2rc7
 
+📅 Date: 2022-08-19
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc7-setup-linux.zip)
 
 ## Fixed bugs
@@ -257,8 +281,9 @@ nav_order: 3
   * fixed the contribution of reserve constraints in OptGen cut coefficients for hydro plants
 
 
-# SDDP 17.1.2rc6 (2022-08-17)
+# SDDP 17.1.2rc6
 
+📅 Date: 2022-08-17
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc6-setup-linux.zip)
 
 ## New features and improvements
@@ -267,8 +292,9 @@ nav_order: 3
   * removed an unnecessary validation of the renewable source generation scenarios from TSL
 
 
-# SDDP 17.1.2rc5 (2022-08-11)
+# SDDP 17.1.2rc5
 
+📅 Date: 2022-08-11
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc5-setup-linux.zip)
 
 ## Fixed bugs
@@ -277,8 +303,9 @@ nav_order: 3
   * fixed the reading of the thermal combined cycle operative state data for weekly studies
 
 
-# SDDP 17.1.2rc4 (2022-08-09)
+# SDDP 17.1.2rc4
 
+📅 Date: 2022-08-09
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc4-setup-linux.zip)
 
 ## Fixed bugs
@@ -294,8 +321,9 @@ nav_order: 3
     when using the hour-block remap
 
 
-# SDDP 17.1.2rc3 (2022-08-04)
+# SDDP 17.1.2rc3
 
+📅 Date: 2022-08-04
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc3-setup-linux.zip)
 
 ## Fixed bugs
@@ -308,8 +336,9 @@ nav_order: 3
   * fixed a memory allocation issue in hourly simulations with network security constraints 
 
 
-# SDDP 17.1.2rc2 (2022-07-28)
+# SDDP 17.1.2rc2
 
+📅 Date: 2022-07-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc2-setup-linux.zip)
 
 ## New features and improvements
@@ -323,8 +352,9 @@ nav_order: 3
   * fixed currency labels for O&M Cost and Spilling penalty in renewable source configuration
 
 
-# SDDP 17.1.2rc1 (2022-07-26)
+# SDDP 17.1.2rc1
 
+📅 Date: 2022-07-26
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.2rc1-setup-linux.zip)
 
 ## Fixed bugs
@@ -333,8 +363,9 @@ nav_order: 3
   * fixed demand data for static configurations
 
 
-# SDDP 17.1.1 (2022-07-21)
+# SDDP 17.1.1
 
+📅 Date: 2022-07-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1-setup-linux.zip)
 
 ## Fixed bugs
@@ -345,8 +376,9 @@ nav_order: 3
     * fixed an issue in the addition of circuit flow limit constraints
 
 
-# SDDP 17.1.1rc2 (2022-07-15)
+# SDDP 17.1.1rc2
 
+📅 Date: 2022-07-15
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1rc2-setup-linux.zip)
 
 ## New features and improvements
@@ -363,8 +395,9 @@ nav_order: 3
     joint reserve hourly requirement
 
 
-# SDDP 17.1.1rc1 (2022-07-04)
+# SDDP 17.1.1rc1
 
+📅 Date: 2022-07-04
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.1rc1-setup-linux.zip)
 
 ## Fixed bugs
@@ -376,8 +409,9 @@ nav_order: 3
     elastic demands
 
 
-# SDDP 17.1 (2022-06-30)
+# SDDP 17.1
 
+📅 Date: 2022-06-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1-setup-linux.zip)
 
 Please refer to the [release site](http://psr-energy.com/software/sddp-17.1.html) for further information.

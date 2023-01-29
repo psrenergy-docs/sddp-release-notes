@@ -3,15 +3,17 @@ title: "SDDP 15.1"
 nav_order: 6
 ---
 
-# SDDP 15.1.13 (2020-05-25)
+# SDDP 15.1.13
 
+📅 Date: 2020-05-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13-setup-linux.zip)
 
 Official release
 
 
-# SDDP 15.1.13rc9 (2020-05-24)
+# SDDP 15.1.13rc9
 
+📅 Date: 2020-05-24
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc9-setup-linux.zip)
 
 ## Fixed Bugs
@@ -21,8 +23,9 @@ Official release
     (especific of Peru system) in parallel execution
 
 
-# SDDP 15.1.13rc8 (2020-05-06)
+# SDDP 15.1.13rc8
 
+📅 Date: 2020-05-06
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc8-setup-linux.zip)
 
 ## Fixed Bugs
@@ -32,8 +35,9 @@ Official release
     * improvement in the DC link loading output
 
 
-# SDDP 15.1.13rc7 (2020-04-30)
+# SDDP 15.1.13rc7
 
+📅 Date: 2020-04-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc7-setup-linux.zip)
 
 ## Fixed Bugs
@@ -43,8 +47,9 @@ Official release
     * fixed an error in the circuit marginal cost output
 
 
-# SDDP 15.1.13rc6 (2020-04-30)
+# SDDP 15.1.13rc6
 
+📅 Date: 2020-04-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc6-setup-linux.zip)
 
 ## New Features and Improvements
@@ -59,8 +64,9 @@ Official release
   * fixed an error in block aggregation for coordinated studies
 
 
-# SDDP 15.1.13rc5 (2020-04-13)
+# SDDP 15.1.13rc5
 
+📅 Date: 2020-04-13
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc5-setup-linux.zip)
 
 ## New Features and Improvements
@@ -69,8 +75,9 @@ Official release
   * increased the maximum number of batteries from 200 to 500
 
 
-# SDDP 15.1.13rc4 (2020-04-09)
+# SDDP 15.1.13rc4
 
+📅 Date: 2020-04-09
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -81,8 +88,9 @@ Official release
       specific cases
 
 
-# SDDP 15.1.13rc3 (2020-04-08)
+# SDDP 15.1.13rc3
 
+📅 Date: 2020-04-08
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -95,8 +103,9 @@ Official release
       infeasibilities in some specific cases
 
 
-# SDDP 15.1.13rc2 (2020-04-05)
+# SDDP 15.1.13rc2
 
+📅 Date: 2020-04-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc2-setup-linux.zip)
 
 ## Fixed Bugs
@@ -106,8 +115,9 @@ Official release
     or spilling penalty in circuit flow constraints
 
 
-# SDDP 15.1.13rc1 (2020-04-05)
+# SDDP 15.1.13rc1
 
+📅 Date: 2020-04-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.13rc1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -118,8 +128,9 @@ Official release
       and outflow
 
 
-# SDDP 15.1.12 (2020-04-02)
+# SDDP 15.1.12
 
+📅 Date: 2020-04-02
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12-setup-linux.zip)
 
 ## Fixed Bugs
@@ -128,8 +139,9 @@ Official release
   * fixed an error in the Graph module that prevent creating new graphs
 
 
-# SDDP 15.1.12rc2 (2020-04-01)
+# SDDP 15.1.12rc2
 
+📅 Date: 2020-04-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -146,8 +158,9 @@ Official release
     hour-block mapping data
 
 
-# SDDP 15.1.12rc1 (2019-03-17)
+# SDDP 15.1.12rc1
 
+📅 Date: 2019-03-17
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.12rc1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -158,8 +171,9 @@ Official release
       constraints
 
 
-# SDDP 15.1.11 (2019-03-13)
+# SDDP 15.1.11
 
+📅 Date: 2019-03-13
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11-setup-linux.zip)
 
 ## New Features and Improvements
@@ -175,8 +189,9 @@ Official release
     constraints
 
 
-# SDDP 15.1.11rc14 (2020-03-11)
+# SDDP 15.1.11rc14
 
+📅 Date: 2020-03-11
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc14-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc14-setup-linux.zip)
 
 ## Fixed Bugs
@@ -189,8 +204,9 @@ Official release
       of multi-fuel thermal plants are involved
 
 
-# SDDP 15.1.11rc13 (2020-03-09)
+# SDDP 15.1.11rc13
 
+📅 Date: 2020-03-09
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc13-setup-linux.zip)
 
 ## New Features and Improvements
@@ -200,8 +216,9 @@ Official release
 * Graph (updated to version 3.0.9)
 
 
-# SDDP 15.1.11rc12 (2020-02-19)
+# SDDP 15.1.11rc12
 
+📅 Date: 2020-02-19
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc12-setup-linux.zip)
 
 ## Fixed Bugs
@@ -210,8 +227,9 @@ Official release
   * improvement in the network representation
 
 
-# SDDP 15.1.11rc11 (2020-02-17)
+# SDDP 15.1.11rc11
 
+📅 Date: 2020-02-17
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc11-setup-linux.zip)
 
 ## Fixed Bugs
@@ -225,8 +243,9 @@ Official release
   * minor correction and improvements in the MPI integration
 
 
-# SDDP 15.1.11rc10 (2020-01-28)
+# SDDP 15.1.11rc10
 
+📅 Date: 2020-01-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc10-setup-linux.zip)
 
 ## Fixed Bugs
@@ -235,8 +254,9 @@ Official release
   * fixed an error in the integration with Optgen
 
 
-# SDDP 15.1.11rc9 (2020-01-28)
+# SDDP 15.1.11rc9
 
+📅 Date: 2020-01-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc9-setup-linux.zip)
 
 ## Fixed Bugs
@@ -247,8 +267,9 @@ Official release
       unfinished
 
 
-# SDDP 15.1.11rc8 (2020-01-23)
+# SDDP 15.1.11rc8
 
+📅 Date: 2020-01-23
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc8-setup-linux.zip)
 
 ## Fixed Bugs
@@ -261,8 +282,9 @@ Official release
   * fixed an error in the verification of the hardlock licensing key in linux version
 
 
-# SDDP 15.1.11rc7 (2020-01-21)
+# SDDP 15.1.11rc7
 
+📅 Date: 2020-01-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc7-setup-linux.zip)
 
 ## Fixed Bugs
@@ -273,8 +295,9 @@ Official release
       infeasibilities are detected
 
 
-# SDDP 15.1.11rc6 (2020-01-16)
+# SDDP 15.1.11rc6
 
+📅 Date: 2020-01-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc6-setup-linux.zip)
 
 ## Fixed Bugs
@@ -285,8 +308,9 @@ Official release
       is equal to the final storage, reproducing a complete cycle at each stage
 
 
-# SDDP 15.1.11rc5 (2020-01-16)
+# SDDP 15.1.11rc5
 
+📅 Date: 2020-01-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc5-setup-linux.zip)
 
 ## Fixed Bugs
@@ -295,8 +319,9 @@ Official release
   * the interface is now saving the changes in the number of processes, even if the
     model is not executed
 
-# SDDP 15.1.11rc4 (2020-01-06)
+# SDDP 15.1.11rc4
 
+📅 Date: 2020-01-06
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -306,8 +331,9 @@ Official release
     representation of thermal operational constraints for cases executed from Optgen
 
 
-# SDDP 15.1.11rc3 (2019-12-26)
+# SDDP 15.1.11rc3
 
+📅 Date: 2019-12-26
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -316,8 +342,9 @@ Official release
   * increased the maximum number of renewable plants from 4,000 to 5,000
 
 
-# SDDP 15.1.11rc2 (2019-12-20)
+# SDDP 15.1.11rc2
 
+📅 Date: 2019-12-20
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -328,8 +355,9 @@ Official release
 * Graph (updated to version 3.0.7)
 
 
-# SDDP 15.1.11rc1 (2019-11-29)
+# SDDP 15.1.11rc1
 
+📅 Date: 2019-11-29
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.11rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -339,8 +367,9 @@ Official release
     * adjustment in the travel time representation of hydro plants
 
 
-# SDDP 15.1.10 (2019-11-19)
+# SDDP 15.1.10
 
+📅 Date: 2019-11-19
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10-setup-linux.zip)
 
 ## Fixed Bugs
@@ -352,8 +381,9 @@ Official release
     * Viol. cost of max op. storage
 
 
-# SDDP 15.1.10rc6 (2019-11-08)
+# SDDP 15.1.10rc6
 
+📅 Date: 2019-11-08
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc6-setup-linux.zip)
 
 ## New Features and Improvements
@@ -371,8 +401,9 @@ Official release
   * fixed the import function from file menu for demand per hour
 
 
-# SDDP 15.1.10rc5 (2019-10-30)
+# SDDP 15.1.10rc5
 
+📅 Date: 2019-10-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc5-setup-linux.zip)
 
 ## Fixed Bugs
@@ -382,8 +413,9 @@ Official release
     * added new option for retrieving the initial condition of thermal plants
 
 
-# SDDP 15.1.10rc4 (2019-10-28)
+# SDDP 15.1.10rc4
 
+📅 Date: 2019-10-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -396,8 +428,9 @@ Official release
     * Add amount not cons. per contract
 
 
-# SDDP 15.1.10rc3 (2019-10-25)
+# SDDP 15.1.10rc3
 
+📅 Date: 2019-10-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -407,8 +440,9 @@ Official release
     * fixed an error related to the maximum capacity constraint of DC links
 
 
-# SDDP 15.1.10rc2 (2019-10-08)
+# SDDP 15.1.10rc2
 
+📅 Date: 2019-10-08
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -418,8 +452,9 @@ Official release
     are defined
 
 
-# SDDP 15.1.10rc1 (2019-09-25)
+# SDDP 15.1.10rc1
 
+📅 Date: 2019-09-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.10rc1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -429,8 +464,9 @@ Official release
     * improvement in battery charge and discharge model
 
 
-# SDDP 15.1.9 (2019-09-18)
+# SDDP 15.1.9
 
+📅 Date: 2019-09-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9-setup-linux.zip)
 
 ## New Features and Improvements
@@ -456,8 +492,9 @@ Official release
   * minor correction and improvements in the MPI integration
 
 
-# SDDP 15.1.9rc2 (2019-08-30)
+# SDDP 15.1.9rc2
 
+📅 Date: 2019-08-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc2-setup-linux.zip)
 
 ## Fixed Bugs
@@ -468,8 +505,9 @@ Official release
   * fixed conversion problem when loading case directory contains comma.
 
 
-# SDDP 15.1.9rc1 (2019-08-23)
+# SDDP 15.1.9rc1
 
+📅 Date: 2019-08-23
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.9rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -481,8 +519,9 @@ Official release
     to aggregate the results by year are generated correctly.
 
 
-# SDDP 15.1.8 (2019-08-18)
+# SDDP 15.1.8
 
+📅 Date: 2019-08-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8-setup-linux.zip)
 
 ## Fixed Bugs
@@ -500,8 +539,9 @@ Official release
       * Stored energy by reservoir set
 
 
-# SDDP 15.1.8rc4 (2019-07-29)
+# SDDP 15.1.8rc4
 
+📅 Date: 2019-07-29
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -513,8 +553,9 @@ Official release
       lower than minimum generation
 
 
-# SDDP 15.1.8rc3 (2019-07-23)
+# SDDP 15.1.8rc3
 
+📅 Date: 2019-07-23
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -523,8 +564,9 @@ Official release
   * fixed an error for cases with historical inflows
 
 
-# SDDP 15.1.8rc2 (2019-07-18)
+# SDDP 15.1.8rc2
 
+📅 Date: 2019-07-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -540,8 +582,9 @@ Official release
     renewable generation
 
 
-# SDDP 15.1.8rc1 (2019-07-11)
+# SDDP 15.1.8rc1
 
+📅 Date: 2019-07-11
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.8rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -551,8 +594,9 @@ Official release
     climatic variable representation
 
 
-# SDDP 15.1.7 (2019-07-05)
+# SDDP 15.1.7
 
+📅 Date: 2019-07-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7-setup-linux.zip)
 
 ## New Features and Improvements
@@ -569,8 +613,9 @@ Official release
     * fixed an error in hydro maximum storage constraint
 
 
-# SDDP 15.1.7rc8 (2019-06-27)
+# SDDP 15.1.7rc8
 
+📅 Date: 2019-06-27
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc8-setup-linux.zip)
 
 ## New Features and Improvements
@@ -582,8 +627,9 @@ Official release
     * Security energy by reservoir set
 
 
-# SDDP 15.1.7rc7 (2019-06-24)
+# SDDP 15.1.7rc7
 
+📅 Date: 2019-06-24
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc7-setup-linux.zip)
 
 ## Fixed Bugs
@@ -595,8 +641,9 @@ Official release
     graph is out of range of the set of scenarios of the study
 
 
-# SDDP 15.1.7rc6 (2019-06-18)
+# SDDP 15.1.7rc6
 
+📅 Date: 2019-06-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc6-setup-linux.zip)
 
 ## New Features and Improvements
@@ -620,8 +667,9 @@ Official release
   * fixed an error while showing the penalty value for generation constraints
 
 
-# SDDP 15.1.7rc5 (2019-05-30)
+# SDDP 15.1.7rc5
 
+📅 Date: 2019-05-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc5-setup-linux.zip)
 
 ## New Features and Improvements
@@ -639,8 +687,9 @@ Official release
     having both O&M costs and spilling penalties defined
 
 
-# SDDP 15.1.7rc4 (2019-05-28)
+# SDDP 15.1.7rc4
 
+📅 Date: 2019-05-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -649,8 +698,9 @@ Official release
   * Hourly representation: update internal of libraries
 
 
-# SDDP 15.1.7rc3 (2019-05-23)
+# SDDP 15.1.7rc3
 
+📅 Date: 2019-05-23
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -664,8 +714,9 @@ Official release
   * fixed an error when adding new data to demand price table
 
 
-# SDDP 15.1.7rc2 (2019-05-10)
+# SDDP 15.1.7rc2
 
+📅 Date: 2019-05-10
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc2-setup-linux.zip)
 
 ## Fixed Bugs
@@ -675,8 +726,9 @@ Official release
     * fixed an error in the representation of sum of interconnection constraints
 
 
-# SDDP 15.1.7rc1 (2019-05-09)
+# SDDP 15.1.7rc1
 
+📅 Date: 2019-05-09
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.7rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -692,8 +744,9 @@ Official release
     constraint screen
 
 
-# SDDP 15.1.6 (2019-04-26)
+# SDDP 15.1.6
 
+📅 Date: 2019-04-26
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.6-setup-linux.zip)
 
 ## New Features and Improvements
@@ -708,16 +761,18 @@ Official release
   * fixed an error for some cases with network representation
 
 
-# SDDP 15.1.5 (2019-04-22)
+# SDDP 15.1.5
 
+📅 Date: 2019-04-22
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5-setup-linux.zip)
 
 
 Official release
 
 
-# SDDP 15.1.5rc4 (2019-04-22)
+# SDDP 15.1.5rc4
 
+📅 Date: 2019-04-22
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc4-setup-linux.zip)
 
 ## New Features and Improvements
@@ -732,8 +787,9 @@ Official release
     related to AC circuits for OptGen
 
 
-# SDDP 15.1.5rc3 (2019-04-21)
+# SDDP 15.1.5rc3
 
+📅 Date: 2019-04-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -742,8 +798,9 @@ Official release
   * fixed an error in the creation of terminal FCF integration file
 
 
-# SDDP 15.1.5rc2 (2019-04-18)
+# SDDP 15.1.5rc2
 
+📅 Date: 2019-04-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -753,8 +810,9 @@ Official release
     time for cases involving integer variables
 
 
-# SDDP 15.1.5rc1 (2019-04-05)
+# SDDP 15.1.5rc1
 
+📅 Date: 2019-04-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.5rc1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -763,16 +821,18 @@ Official release
   * increased the maximum number of batteries from 50 to 200
 
 
-# SDDP 15.1.4 (2019-04-02)
+# SDDP 15.1.4
 
+📅 Date: 2019-04-02
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4-setup-linux.zip)
 
 
 Official release
 
 
-# SDDP 15.1.4rc6 (2019-04-02)
+# SDDP 15.1.4rc6
 
+📅 Date: 2019-04-02
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc6-setup-linux.zip)
 
 
@@ -788,8 +848,9 @@ Official release
     in version 15.1 (November 2018).
 
 
-# SDDP 15.1.4rc5 (2019-04-01)
+# SDDP 15.1.4rc5
 
+📅 Date: 2019-04-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc5-setup-linux.zip)
 
 ## New Features and Improvements
@@ -809,8 +870,9 @@ Official release
   * fixed an error in the representation of load per bus in additional years
 
 
-# SDDP 15.1.4rc4 (2019-03-25)
+# SDDP 15.1.4rc4
 
+📅 Date: 2019-03-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -819,8 +881,9 @@ Official release
   * fixed a memory allocation error in CORAL for simulations for selected blocks
 
 
-# SDDP 15.1.4rc3 (2019-03-21)
+# SDDP 15.1.4rc3
 
+📅 Date: 2019-03-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -830,8 +893,9 @@ Official release
     * improvements for cases with network representation
 
 
-# SDDP 15.1.4rc2 (2019-03-20)
+# SDDP 15.1.4rc2
 
+📅 Date: 2019-03-20
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc2-setup-linux.zip)
 
 ## Fixed Bugs
@@ -841,8 +905,9 @@ Official release
     * improvements for cases with network representation
 
 
-# SDDP 15.1.4rc1 (2019-03-19)
+# SDDP 15.1.4rc1
 
+📅 Date: 2019-03-19
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.4rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -852,8 +917,9 @@ Official release
     inflow model in the first year
 
 
-# SDDP 15.1.3 (2019-03-15)
+# SDDP 15.1.3
 
+📅 Date: 2019-03-15
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -863,8 +929,9 @@ Official release
     number of blocks
 
 
-# SDDP 15.1.3rc3 (2019-02-27)
+# SDDP 15.1.3rc3
 
+📅 Date: 2019-02-27
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -874,8 +941,9 @@ Official release
     cases involving integer variables
 
 
-# SDDP 15.1.3rc3 (2019-02-26)
+# SDDP 15.1.3rc3
 
+📅 Date: 2019-02-26
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc3-setup-linux.zip)
 
 ## Fixed Bugs
@@ -884,8 +952,9 @@ Official release
   * fixed an internal error that could prevent execution for cases with hot start
 
 
-# SDDP 15.1.3rc1 (2019-02-25)
+# SDDP 15.1.3rc1
 
+📅 Date: 2019-02-25
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.3rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -900,15 +969,17 @@ Official release
     and to compare dashboards
 
 
-# SDDP 15.1.2 (2019-02-18)
+# SDDP 15.1.2
 
+📅 Date: 2019-02-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2-setup-linux.zip)
 
 Official release
 
 
-# SDDP 15.1.2rc14 (2019-02-14)
+# SDDP 15.1.2rc14
 
+📅 Date: 2019-02-14
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc14-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc14-setup-linux.zip)
 
 ## New Features and Improvements
@@ -937,8 +1008,9 @@ Official release
     data in detailed data per block
 
 
-# SDDP 15.1.2rc13 (2019-02-05)
+# SDDP 15.1.2rc13
 
+📅 Date: 2019-02-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc13-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc13-setup-linux.zip)
 
 ## Fixed Bugs
@@ -947,8 +1019,9 @@ Official release
   * fixed an error in the "Final generation" summary report
     that could lead to wrong losses calculation
 
-# SDDP 15.1.2rc12 (2019-02-05)
+# SDDP 15.1.2rc12
 
+📅 Date: 2019-02-05
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc12-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc12-setup-linux.zip)
 
 ## New Features and Improvements
@@ -967,8 +1040,9 @@ Official release
     * fixed an error in the selection of buses with load shedding
 
 
-# SDDP 15.1.2rc11 (2019-01-31)
+# SDDP 15.1.2rc11
 
+📅 Date: 2019-01-31
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc11-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc11-setup-linux.zip)
 
 ## New Features and Improvements
@@ -977,8 +1051,9 @@ Official release
   * fixed an error in the "Irrigation" output
 
 
-# SDDP 15.1.2rc10 (2019-01-22)
+# SDDP 15.1.2rc10
 
+📅 Date: 2019-01-22
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc10-setup-linux.zip)
 
 ## New Features and Improvements
@@ -986,8 +1061,9 @@ Official release
 * Graph (updated to version 2.36)
 
 
-# SDDP 15.1.2rc9 (2019-01-18)
+# SDDP 15.1.2rc9
 
+📅 Date: 2019-01-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc9-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1000,8 +1076,9 @@ Official release
   * fixed a specific error handling hourly detailed data
 
 
-# SDDP 15.1.2rc8 (2019-01-14)
+# SDDP 15.1.2rc8
 
+📅 Date: 2019-01-14
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc8-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1015,8 +1092,9 @@ Official release
     variable for specific cases
 
 
-# SDDP 15.1.2rc7 (2018-12-22)
+# SDDP 15.1.2rc7
 
+📅 Date: 2018-12-22
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc7-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1027,8 +1105,9 @@ Official release
     of flow (flows in both directions)
 
 
-# SDDP 15.1.2rc6 (2018-12-21)
+# SDDP 15.1.2rc6
 
+📅 Date: 2018-12-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc6-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1037,8 +1116,9 @@ Official release
   * removed incorrect data verification in secondary reserve screen
 
 
-# SDDP 15.1.2rc5 (2018-12-18)
+# SDDP 15.1.2rc5
 
+📅 Date: 2018-12-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc5-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1049,8 +1129,9 @@ Official release
     * fixed hydro total outflow ramping representation
 
 
-# SDDP 15.1.2rc4 (2018-12-14)
+# SDDP 15.1.2rc4
 
+📅 Date: 2018-12-14
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc4-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1064,8 +1145,9 @@ Official release
   * added support for external script executions
 
 
-# SDDP 15.1.2rc3 (2018-12-10)
+# SDDP 15.1.2rc3
 
+📅 Date: 2018-12-10
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1085,8 +1167,9 @@ Official release
   * fixed some minor issues
 
 
-# SDDP 15.1.2rc2 (2018-12-01)
+# SDDP 15.1.2rc2
 
+📅 Date: 2018-12-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc2-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1100,8 +1183,9 @@ Official release
     bus connections of batteries were not saved in the data properly
 
 
-# SDDP 15.1.2rc1 (2018-11-28)
+# SDDP 15.1.2rc1
 
+📅 Date: 2018-11-28
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.2rc1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1119,8 +1203,9 @@ Official release
     and hourly input data files
 
 
-# SDDP 15.1.1 (2018-11-21)
+# SDDP 15.1.1
 
+📅 Date: 2018-11-21
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1132,8 +1217,9 @@ Official release
     a reduction in simulation times ranging from 10% to 30%.
 
 
-# SDDP 15.1.1rc9 (2018-11-16)
+# SDDP 15.1.1rc9
 
+📅 Date: 2018-11-16
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc9-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1143,8 +1229,9 @@ Official release
     * extended representation for coordinated operative mode
 
 
-# SDDP 15.1.1rc8 (2018-11-09)
+# SDDP 15.1.1rc8
 
+📅 Date: 2018-11-09
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc8-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1161,8 +1248,9 @@ Official release
       values for cases with more than 5 blocks
 
 
-# SDDP 15.1.1rc7 (2018-11-06)
+# SDDP 15.1.1rc7
 
+📅 Date: 2018-11-06
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc7-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1179,8 +1267,9 @@ Official release
       sum of circuit flows constraints
 
 
-# SDDP 15.1.1rc6 (2018-11-01)
+# SDDP 15.1.1rc6
 
+📅 Date: 2018-11-01
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc6-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1198,8 +1287,9 @@ Official release
     * fixed the representation of elastic demand
 
 
-# SDDP 15.1.1rc5 (2018-10-31)
+# SDDP 15.1.1rc5
 
+📅 Date: 2018-10-31
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc5-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1210,8 +1300,9 @@ Official release
     representation inadvertently
 
 
-# SDDP 15.1.1rc4 (2018-10-30)
+# SDDP 15.1.1rc4
 
+📅 Date: 2018-10-30
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc4-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1222,8 +1313,9 @@ Official release
       for cases with such constraints involving only DC links
 
 
-# SDDP 15.1.1rc3 (2018-10-26)
+# SDDP 15.1.1rc3
 
+📅 Date: 2018-10-26
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc3-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1246,8 +1338,9 @@ Official release
   * fixed an update error in the Output in Worksheets after changing the program language
 
 
-# SDDP 15.1.1rc2 (2018-10-18)
+# SDDP 15.1.1rc2
 
+📅 Date: 2018-10-18
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc2-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1258,8 +1351,9 @@ Official release
     * added representation of start-up cost for hydro plants
 
 
-# SDDP 15.1.1rc1 (2018-10-17)
+# SDDP 15.1.1rc1
 
+📅 Date: 2018-10-17
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1.1rc1-setup-linux.zip)
 
 ## Fixed Bugs
@@ -1268,8 +1362,9 @@ Official release
   * fixed the penalties of minimum spillage constraints of future hydro plants
 
 
-# SDDP 15.1 (2018-10-11)
+# SDDP 15.1
 
+📅 Date: 2018-10-11
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1282,8 +1377,9 @@ Official release
     "no chart, table only" visualization option is selected
 
 
-# SDDP 15.1rc10 (2018-09-20)
+# SDDP 15.1rc10
 
+📅 Date: 2018-09-20
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1rc10-setup-linux.zip)
 
 ## New Features and Improvements
@@ -1292,8 +1388,9 @@ Official release
   * Xpress solver updated from version 8.0 to 8.5
 
 
-# SDDP 15.1rc9 (2018-08-03)
+# SDDP 15.1rc9
 
+📅 Date: 2018-08-03
 🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.1rc9-setup-linux.zip)
 
 ## New Features and Improvements
