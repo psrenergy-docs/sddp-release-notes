@@ -3,6 +3,64 @@ title: "SDDP 17.1"
 nav_order: 3
 ---
 
+# SDDP 17.1.3
+
+📅 Date: 2022-12-15
+🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * included the consideration of the outage probability in the renewable plants
+      available capacity calculation
+    * included the representation of outage sampling for renewable plants
+
+
+# SDDP 17.1.3rc16
+
+📅 Date: 2022-12-06
+🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc16-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc16-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed battery and CSP representation in joint reserve equality constraints
+  * fixed the consideration of removed circuits in databases with Netplan integration
+
+
+# SDDP 17.1.3rc15
+
+📅 Date: 2022-12-02
+🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc15-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc15-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * included the consideration of the outage probability in the renewable plants
+    available capacity calculation
+  * included the representation of outage sampling for renewable plants
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed the repetition of the last year's chronological data in the additional
+      years, when there are incomplete years in the study horizon
+
+
+# SDDP 17.1.3rc14
+
+📅 Date: 2022-11-30
+🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc14-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.1.3rc14-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * minor adjustments in hourly model
+
+
 # SDDP 17.1.3rc13
 
 📅 Date: 2022-11-29
