@@ -6,7 +6,10 @@ nav_order: 7
 # SDDP 15.0.4
 
 📅 Date: 2018-09-28<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.4-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.4-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -30,7 +33,10 @@ nav_order: 7
 # SDDP 15.0.3
 
 📅 Date: 2018-09-06<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.3-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.3-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -54,7 +60,10 @@ nav_order: 7
 # SDDP 15.0.2
 
 📅 Date: 2018-08-30<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -109,7 +118,10 @@ nav_order: 7
 # SDDP 15.0.2rc7
 
 📅 Date: 2018-05-16<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc7-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc7-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -134,7 +146,10 @@ nav_order: 7
 # SDDP 15.0.2rc6
 
 📅 Date: 2018-04-30<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc6-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc6-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -148,7 +163,10 @@ nav_order: 7
 # SDDP 15.0.2rc5
 
 📅 Date: 2018-04-20<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc5-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc5-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -166,7 +184,10 @@ nav_order: 7
 # SDDP 15.0.2rc4
 
 📅 Date: 2018-04-19<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc4-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc4-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -177,7 +198,10 @@ nav_order: 7
 # SDDP 15.0.2rc3
 
 📅 Date: 2018-04-13<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc3-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -190,7 +214,10 @@ nav_order: 7
 # SDDP 15.0.2rc2
 
 📅 Date: 2018-04-10<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc2-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -202,7 +229,10 @@ nav_order: 7
 # SDDP 15.0.2rc1
 
 📅 Date: 2018-04-02<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc1-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.2rc1-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -220,7 +250,10 @@ nav_order: 7
 # SDDP 15.0.1
 
 📅 Date: 2018-03-28<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -244,7 +277,10 @@ nav_order: 7
 # SDDP 15.0.1rc10
 
 📅 Date: 2018-03-16<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc10-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc10-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc10-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -286,7 +322,10 @@ nav_order: 7
 # SDDP 15.0.1rc9
 
 📅 Date: 2018-03-03<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc9-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -314,7 +353,10 @@ nav_order: 7
 # SDDP 15.0.1rc8
 
 📅 Date: 2018-03-02<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc8-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc8-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc8-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -335,7 +377,10 @@ nav_order: 7
 # SDDP 15.0.1rc7
 
 📅 Date: 2018-03-01<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc7-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc7-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc7-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -357,7 +402,10 @@ nav_order: 7
 # SDDP 15.0.1rc6
 
 📅 Date: 2018-02-20<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc6-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc6-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc6-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -377,7 +425,10 @@ nav_order: 7
 # SDDP 15.0.1rc5
 
 📅 Date: 2018-02-15<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc5-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -389,7 +440,10 @@ nav_order: 7
 # SDDP 15.0.1rc4
 
 📅 Date: 2018-02-08<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc4-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc4-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc4-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -428,7 +482,10 @@ nav_order: 7
 # SDDP 15.0.1rc3
 
 📅 Date: 2018-01-25<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc3-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc3-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc3-setup-linux.zip)
 
 ## New Features and Improvements
 
@@ -450,7 +507,10 @@ nav_order: 7
 # SDDP 15.0.1rc2
 
 📅 Date: 2018-01-19<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc2-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -461,7 +521,10 @@ nav_order: 7
 # SDDP 15.0.1rc1
 
 📅 Date: 2017-01-10<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0.1rc1-setup-linux.zip)
 
 ## Fixed Bugs
 
@@ -473,7 +536,10 @@ nav_order: 7
 # SDDP 15.0
 
 📅 Date: 2018-01-09<br>
-🔗 Download: [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0-setup.zip) \| [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0-setup-linux.zip)
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-15.0-setup-linux.zip)
 
 Please refer to the "# SDDP 15.1 Readme" file for the release notes:
 * [English](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEng-15.0.pdf)
