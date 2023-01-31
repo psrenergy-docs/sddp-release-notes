@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc13
+
+📅 Date: 2023-01-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc13-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * fixed the import/export of the thermal operating constraints screen
+
+
 # SDDP 17.2.1rc12
 
 📅 Date: 2023-01-30<br>
@@ -30,7 +44,7 @@ nav_order: 2
 
 * GUI
   * included the failure duration field in the import/export of the renewable plant
-    configuration, thermal plant configuration and hydro plant configuration screeens
+    configuration, thermal plant configuration and hydro plant configuration screens
 
 
 # SDDP 17.2.1rc10
