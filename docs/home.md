@@ -8,7 +8,7 @@ permalink: /
 
 # SDDP release notes
 
-The release notes of the current and all previous versions is just given for your convenience. Please let us know if any link don't work properly.
+The release notes of the current and all previous versions are just for your convenience. Please let us know if any links don’t work correctly.
 
 * Version 17.2 (current version)
   * 📅 Released on: December 2022
