@@ -2,6 +2,19 @@
 title: "SDDP 17.2"
 nav_order: 2
 ---
+# SDDP 17.2.1rc14
+
+📅 Date: 2023-02-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc14-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc14-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the selection of outputs for writing in hourly cases
+
 
 # SDDP 17.2.1rc13
 
