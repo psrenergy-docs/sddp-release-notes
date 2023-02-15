@@ -13,6 +13,9 @@ nav_order: 2
 
 ## Fixed bugs
 
+* GUI
+  * fixed the import/export of the hydro plant non-controllable spillage field
+
 * Model
   * Hourly representation
     * included the representation of the gas network non-thermoelectrical demand
