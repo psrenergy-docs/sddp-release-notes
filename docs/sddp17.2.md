@@ -17,6 +17,7 @@ nav_order: 2
   * fixed the import/export of the hydro plant non-controllable spillage field
 
 * Model
+  * fixed MIP solution strategy to avoid infeasibility due to solver numerical precision issues
   * Hourly representation
     * included the representation of the gas network non-thermoelectrical demand
 
