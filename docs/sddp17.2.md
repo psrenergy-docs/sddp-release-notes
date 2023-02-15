@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc17
+
+📅 Date: 2023-02-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc17-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc17-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * included the representation of the gas network non-thermoelectrical demand
+
+
 # SDDP 17.2.1rc16
 
 📅 Date: 2023-02-13<br>
