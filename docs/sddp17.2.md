@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc19
+
+📅 Date: 2023-03-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc19-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc19-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * adjusted the application of the spillage penalty for hydro plants with the representation of
+    turbining as a function of the inflow
+
+
 # SDDP 17.2.1rc18
 
 📅 Date: 2023-03-01<br>
