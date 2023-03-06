@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc20
+
+📅 Date: 2023-03-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc20-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc20-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed specific encoding related issue in Linux execution
+
+
 # SDDP 17.2.1rc19
 
 📅 Date: 2023-03-01<br>
