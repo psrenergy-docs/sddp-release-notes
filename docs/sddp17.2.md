@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc21
+
+📅 Date: 2023-03-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc21-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc21-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the print of total number of problems in parallel execution
+  * Hourly representation
+    * fixed the application of the hydro maximum turbining chronological data
+
+
 # SDDP 17.2.1rc20
 
 📅 Date: 2023-03-06<br>
