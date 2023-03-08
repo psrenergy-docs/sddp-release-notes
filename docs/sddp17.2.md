@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc22
+
+📅 Date: 2023-03-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc22-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc22-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the initial iteration for the application of the non-convexity representation
+    and the hybrid stage resolution in the policy, for cases with rolling horizon or
+    coordinated operative mode
+
+
 # SDDP 17.2.1rc21
 
 📅 Date: 2023-03-07<br>
