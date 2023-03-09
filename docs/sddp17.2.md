@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.1rc23
+
+📅 Date: 2023-03-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc23-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.1rc23-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * improved the representation of the hydro turbining x inflow table constraints
+
+
 # SDDP 17.2.1rc22
 
 📅 Date: 2023-03-08<br>
