@@ -47,9 +47,7 @@ The release notes of the current and all previous official versions are just for
 # Upcoming version
 
 * Version 17.3
-  * 📅 Release date (expected): April 2023
-  <!--* 🌐 [Release site](http://psr-energy.com/software/sddp-17.2.html)
-  * 📖 Release notes ([Eng](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEng-17.2.pdf) \| [Esp](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEsp-17.2.pdf) \| [Por](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesPor-17.2.pdf))-->
+  * 📅 Release date: April 2023 (expected)
   * 📝 [Detailed changelog](sddp17.3.md)
 
 
