@@ -4,6 +4,30 @@ logo: assets/images/psr_logo.png
 
 psr_model: "SDDP"
 
+toc:
+  - title: Current version
+    subfolderitems:
+      - page: SDDP 17.2
+        url: /sddp17.2
+  - title: Older versions
+    subfolderitems:
+      - page: SDDP 17.1
+        url: /sddp17.1
+      - page: SDDP 17.0
+        url: /sddp17.0
+      - page: SDDP 16.0
+        url: /sddp16.0
+      - page: SDDP 15.1
+        url: /sddp15.1
+      - page: SDDP 15.0
+        url: /sddp15.0
+      - page: SDDP 14.0
+        url: /sddp14.0
+  - title: Upcoming version
+    subfolderitems:
+      - page: SDDP 17.3
+        url: /sddp17.3
+
 #adding zoom in images
 zoom_img_enabled: true
 
