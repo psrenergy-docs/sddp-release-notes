@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.2rc1
+
+📅 Date: 2023-03-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the application of the thermal minimum generation constraint when the
+    constraint requirement is defined as a percentage of the nominal capacity
+
+
 # SDDP 17.2.1
 
 📅 Date: 2023-03-13<br>
