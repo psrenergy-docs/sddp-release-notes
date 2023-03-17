@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.2rc2
+
+📅 Date: 2023-03-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * fixed the data visualization of non-thermolelectrical gas demand
+
+
 # SDDP 17.2.2rc1
 
 📅 Date: 2023-03-16<br>
