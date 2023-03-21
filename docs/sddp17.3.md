@@ -24,7 +24,6 @@ Our beta software is in development and may have bugs. Use with caution for test
   * Extension for monitoring full network circuits
   * New integrated tool for checking post-contingency flows
 * New sensitivity chronological data
-* Representation of hourly maintainance
 * Representation of quantity and price reserve offers for batteries and CSP
 * Deprecation of the 32-bits version
 * NetPlan integration: representation of flow controller devices (such as FACTS)
