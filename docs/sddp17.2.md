@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.2rc3
+
+📅 Date: 2023-03-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * fixed a specific issue in the creation of demand scenarios in weekly cases
+  * fixed the selection of the "general" option for the flexible demand data resolution
+
+
 # SDDP 17.2.2rc2
 
 📅 Date: 2023-03-17<br>
