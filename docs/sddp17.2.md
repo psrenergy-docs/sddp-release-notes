@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.2rc4
+
+📅 Date: 2023-03-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc4-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    *  added the thermal single reserve and the hydro single reserve outputs
+
+
 # SDDP 17.2.2rc3
 
 📅 Date: 2023-03-28<br>
