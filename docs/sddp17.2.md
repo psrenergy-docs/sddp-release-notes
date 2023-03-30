@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.2rc6
+
+📅 Date: 2023-03-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.2rc6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  improved the concavity validation for hydro tables
+
+
 # SDDP 17.2.2rc5
 
 📅 Date: 2023-03-29<br>
