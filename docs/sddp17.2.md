@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.3rc1
+
+📅 Date: 2023-04-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  improved the validation for cases with a reserve area and without network 
+     representation
+
+
 # SDDP 17.2.2
 
 📅 Date: 2023-04-03<br>
