@@ -3,6 +3,28 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.3rc3
+
+📅 Date: 2023-04-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3rc3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * relaxed the concavity validation for some hydro tables, to result in a warning
+    rather than an error
+  * Hourly representation
+    * added the system stored energy 65% U.S. output
+
+## Fixed bugs
+
+* Model
+  *  fixed execution error with Python 3 in Linux
+
+
 # SDDP 17.2.3rc2
 
 📅 Date: 2023-04-10<br>
@@ -14,7 +36,7 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  *  Added CSP nominal capacity output
+  * added CSP nominal capacity output
 
 
 # SDDP 17.2.3rc1
@@ -28,8 +50,8 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  *  improved the validation for cases with a reserve area and without network 
-     representation
+  * improved the validation for cases with a reserve area and without network 
+    representation
 
 
 # SDDP 17.2.2
@@ -43,7 +65,7 @@ nav_order: 2
 ## Fixed bugs
 
 * GUI
-  *  fixed thermal maintenance data loading issue
+  * fixed thermal maintenance data loading issue
 
 
 # SDDP 17.2.2rc6
@@ -57,7 +79,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  *  improved the concavity validation for hydro tables
+  * improved the concavity validation for hydro tables
 
 
 # SDDP 17.2.2rc5
@@ -86,7 +108,7 @@ nav_order: 2
 
 * Model
   * Hourly representation
-    *  added the thermal single reserve and the hydro single reserve outputs
+    * added the thermal single reserve and the hydro single reserve outputs
 
 
 # SDDP 17.2.2rc3
