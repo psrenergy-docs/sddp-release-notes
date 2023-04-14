@@ -3,6 +3,23 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.3
+
+📅 Date: 2023-04-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * relaxed the concavity validation for some hydro tables, to result in a warning
+    rather than an error (storage x production, storage x area, storage x infiltration,
+    storage x elevation). The concavity validation continues to be tightened for the
+    following tables: inflow x turb. and storage x maximum turb. 
+
+
 # SDDP 17.2.3rc3
 
 📅 Date: 2023-04-13<br>
@@ -14,8 +31,6 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  * relaxed the concavity validation for some hydro tables, to result in a warning
-    rather than an error
   * Hourly representation
     * added the system stored energy 65% U.S. output
 
