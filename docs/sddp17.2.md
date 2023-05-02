@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.4rc1
+
+📅 Date: 2023-05-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.4rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.4rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the application of the chronological sensitivity inflow factors when the simulation
+    horizon starts after the beginning of the policy horizon
+
+
 # SDDP 17.2.3
 
 📅 Date: 2023-04-14<br>
