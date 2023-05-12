@@ -4,7 +4,7 @@ nav_order: 2
 ---
 # SDDP 17.2.4rc3
 
-📅 Date: 2023-05-08<br>
+📅 Date: 2023-05-12<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.4rc3-setup.zip)
 \|
@@ -13,10 +13,11 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  * New outputs in the hourly model: total inelastic load per class, maximum load of each class and maximum load 
+  * new outputs in the hourly model: total inelastic load per class, maximum load of each class and maximum load 
     of each bus
-  * Changed import/export format of general constraints and now the data come in 3 
-    different files (constraints, terms and chronological data)
+
+* GUI
+  * included the import/export of general constraints
 
 
 # SDDP 17.2.4rc2
