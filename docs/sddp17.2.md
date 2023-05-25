@@ -3,6 +3,26 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc2
+
+📅 Date: 2023-05-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * included the hydro bypass flow in the minimum/maximum total outflow constraints for the
+    hydro plant FROM
+
+* GUI
+  * included missing attributes in the export/import of the fuel contract configuration
+
+
+# SDDP 17.2.5rc1
+
 📅 Date: 2023-05-22<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc1-setup.zip)
