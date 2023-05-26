@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc3
+
+📅 Date: 2023-05-26<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * adjusted the target storage integration in chronological blocks execution
+
+
 # SDDP 17.2.5rc2
 
 📅 Date: 2023-05-25<br>
