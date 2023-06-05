@@ -14,7 +14,7 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  * adjusts the joint reserve output to not be limited to the reserve requirement when
+  * adjusted the joint reserve output to not be limited to the reserve requirement when
     the reserve is defined with a >= sign
 
 
