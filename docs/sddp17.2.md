@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc4
+
+📅 Date: 2023-06-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc4-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * adjusts the joint reserve output to not be limited to the reserve requirement when
+    the reserve is defined with a >= sign
+
+
 # SDDP 17.2.5rc3
 
 📅 Date: 2023-05-26<br>
