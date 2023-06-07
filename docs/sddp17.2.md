@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc6
+
+📅 Date: 2023-06-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc6-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * increased maximum number of fuel contracts from 500 to 2000
+
+
 # SDDP 17.2.5rc5
 
 📅 Date: 2023-06-06<br>
