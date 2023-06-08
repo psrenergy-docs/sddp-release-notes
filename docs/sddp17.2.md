@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc7
+
+📅 Date: 2023-06-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the behavior of hydro plants with mean production coefficient in the final
+    simulation during the iterations with non-convexity representation in the policy
+
+
 # SDDP 17.2.5rc6
 
 📅 Date: 2023-06-07<br>
