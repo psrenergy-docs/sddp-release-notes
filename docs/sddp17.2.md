@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc9
+
+📅 Date: 2023-06-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * fixed an issue while loading hourly injection capacity scenarios data
+
+
 # SDDP 17.2.5rc8
 
 📅 Date: 2023-06-22<br>
