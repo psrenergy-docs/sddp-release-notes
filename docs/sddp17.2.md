@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc10
+
+📅 Date: 2023-06-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc10-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an issue with the state variable binary file writing: cases with high amount
+  of state variable elements (>2000) and scenarios (>1000) might cause an overflow 
+  in internal variables
+
+
 # SDDP 17.2.5rc9
 
 📅 Date: 2023-06-23<br>
