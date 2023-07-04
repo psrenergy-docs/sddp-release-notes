@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc12
+
+📅 Date: 2023-07-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc12-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc12-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an error that prevented the execution of cases with demand hourly scenarios
+    defined for systems not currently selected
+
+
 # SDDP 17.2.5rc11
 
 📅 Date: 2023-06-29<br>
@@ -15,8 +30,8 @@ nav_order: 2
 
 * GUI
   * fixed assortment by code in circuit modification screen
-  
-  
+
+
 # SDDP 17.2.5rc10
 
 📅 Date: 2023-06-27<br>
