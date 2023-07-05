@@ -27,6 +27,8 @@ toc:
     subfolderitems:
       - page: SDDP 17.3
         url: /sddp17.3
+      - page: SDDP 18.0
+        url: /sddp18.0
 
 #adding zoom in images
 zoom_img_enabled: true

@@ -47,8 +47,11 @@ The release notes of the current and all previous official versions are just for
 # Upcoming version
 
 * Version 17.3
-  * 📅 Release date: April 2023 (expected)
+  * 📅 Release date: July 2023 (expected)
   * 📝 [Detailed changelog](sddp17.3.md)
+* Version 18.0
+  * 📅 Release date: August 2023 (expected)
+  * 📝 [Detailed changelog](sddp18.0.md)
 
 
 # Support or contact
