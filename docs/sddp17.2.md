@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc13
+
+📅 Date: 2023-07-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc13-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an error in cases with gas network representation and hour-block remap
+
+
 # SDDP 17.2.5rc12
 
 📅 Date: 2023-07-04<br>
