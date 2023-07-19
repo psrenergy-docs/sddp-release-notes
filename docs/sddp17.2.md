@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc15
+
+📅 Date: 2023-07-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc15-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc15-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed a memory allocation issue that could happen in very large optimization problems
+
+
 # SDDP 17.2.5rc14
 
 📅 Date: 2023-07-13<br>
