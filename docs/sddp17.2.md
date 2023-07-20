@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5rc16
+
+📅 Date: 2023-07-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc16-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5rc16-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed an issue in the multi-fuel thermal plants capacity
+
+
 # SDDP 17.2.5rc15
 
 📅 Date: 2023-07-19<br>
