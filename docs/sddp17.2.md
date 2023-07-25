@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.5
+
+📅 Date: 2023-07-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.5-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * RPD calculator
+  	* improved performace
+
+
 # SDDP 17.2.5rc16
 
 📅 Date: 2023-07-20<br>
