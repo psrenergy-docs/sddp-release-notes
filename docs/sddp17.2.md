@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.6rc1
+
+📅 Date: 2023-07-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an error that prevented executing cases with elastic and flexible demands
+
+
 # SDDP 17.2.5
 
 📅 Date: 2023-07-25<br>
