@@ -3,6 +3,23 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.6rc3
+
+📅 Date: 2023-08-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  fixed an issue in the data load
+
+* GUI
+  *  fixed DrawHydro data visualization
+
+  
 # SDDP 17.2.6rc2
 
 📅 Date: 2023-08-01<br>
