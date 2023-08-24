@@ -3,6 +3,26 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.6rc4
+
+📅 Date: 2023-08-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.6rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  fixed an issue related to operating status of DC links and thermal plants with modification data
+  *  Added validation to prevent a hydroplant from setting itself as downstream plant for turbining, spilling,
+	 infiltration and stored energy calculation 
+
+* GUI
+  *  Fixed issue related to date validation in reduced uncertainty data definition
+  *  Fixed issue in mechanism that prevented the Power View module update
+
+  
 # SDDP 17.2.6rc3
 
 📅 Date: 2023-08-04<br>
