@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.7rc2
+
+📅 Date: 2023-09-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the renewable investment cuts in the Optgen integration
+
+
 # SDDP 17.2.7rc1
 
 📅 Date: 2023-09-04<br>
