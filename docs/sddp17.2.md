@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.7rc3
+
+📅 Date: 2023-09-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an issue in the reserve sharing modeling with future circuits
+  * Hourly representation
+    * fixed the aggregation type of the costs by category output
+
+
 # SDDP 17.2.7rc2
 
 📅 Date: 2023-09-06<br>
