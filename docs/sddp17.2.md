@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+
+# SDDP 17.2.7rc4
+
+📅 Date: 2023-09-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc4-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * new output: renewable capacity marginal cost
+
+
 # SDDP 17.2.7rc3
 
 📅 Date: 2023-09-06<br>
