@@ -3,6 +3,19 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.7rc5
+
+📅 Date: 2023-09-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc5-setup-linux.zip)
+
+## New features and improvements
+
+* GUI
+  * included an informative field for installed capacity in the thermal plant configuration screen
+
 
 # SDDP 17.2.7rc4
 
