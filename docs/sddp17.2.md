@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.7rc7
+
+📅 Date: 2023-09-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed the hydro production coefficient application
+
+
 # SDDP 17.2.7rc6
 
 📅 Date: 2023-09-25<br>
