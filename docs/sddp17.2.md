@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.7
+
+📅 Date: 2023-10-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed the consideration of the storage x infiltration table for hydro plants
+
+
 # SDDP 17.2.7rc7
 
 📅 Date: 2023-09-30<br>
