@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc1
+
+📅 Date: 2023-10-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * fixed validation issues related to joint reserve constraints
+
+
 # SDDP 17.2.7
 
 📅 Date: 2023-10-03<br>
