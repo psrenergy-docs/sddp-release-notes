@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc2
+
+📅 Date: 2023-10-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed an incompatibility between thermal generators with per stage commitment
+      status in a combined cycle during hourly simulation
+
+
 # SDDP 17.2.8rc1
 
 📅 Date: 2023-10-11<br>
