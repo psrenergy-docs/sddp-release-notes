@@ -3,6 +3,22 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc3
+
+📅 Date: 2023-10-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed an issue in the loading of renewable plant scenarios in systems with
+    more than 1024 renewables
+  * included a validation that the hydro reservoirs in a simulation are present in the FCF
+
+
 # SDDP 17.2.8rc2
 
 📅 Date: 2023-10-16<br>
