@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc5
+
+📅 Date: 2023-11-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc5-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the application of the single reserve requirement to hydro plants with
+    production coefficient variable with the tailwater elevation
+
+
 # SDDP 17.2.8rc4
 
 📅 Date: 2023-11-14<br>
