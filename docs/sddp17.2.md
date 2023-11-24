@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc7
+
+📅 Date: 2023-11-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Graph tool
+  * fixed an error that prevented the execution
+
+
 # SDDP 17.2.8rc6
 
 📅 Date: 2023-11-21<br>
