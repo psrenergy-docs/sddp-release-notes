@@ -3,6 +3,27 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc8
+
+📅 Date: 2023-11-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc8-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  fixed an error that prevented the execution of simulation phase while having renewable
+     stations of "CSP" type
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * considers generic linear constraints by stage for cases without slice decomposition
+
+
 # SDDP 17.2.8rc7
 
 📅 Date: 2023-11-24<br>
