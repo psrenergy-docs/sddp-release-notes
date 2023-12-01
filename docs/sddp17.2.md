@@ -3,6 +3,23 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.8rc9
+
+📅 Date: 2023-12-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.8rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  *  fixed the representation of circuit security constraints when future circuits are monitored
+  * Hourly representation
+    * fixed the consideration of joint reservoir constraints composed of reservoirs that don't
+      belong to the systems selected for the execution
+
+
 # SDDP 17.2.8rc8
 
 📅 Date: 2023-11-29<br>
