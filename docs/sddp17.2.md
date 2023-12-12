@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.9
+
+📅 Date: 2023-12-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.9-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed an issue in the application of the circuit capacity
+
+
 # SDDP 17.2.8
 
 📅 Date: 2023-12-06<br>
@@ -28,7 +43,7 @@ Official release
   *  fixed the outputs of reservoir set stored energy for hydro plants with the production coefficient
      calculated as a function of the reservoir and variable tailwater elevation
 
-      
+
 # SDDP 17.2.8rc9
 
 📅 Date: 2023-12-01<br>
