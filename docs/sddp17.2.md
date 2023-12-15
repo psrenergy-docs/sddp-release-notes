@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.10
+
+📅 Date: 2023-12-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.10-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed an issue that prevented hydro generation in hourly cases with network representation
+
+
 # SDDP 17.2.9
 
 📅 Date: 2023-12-12<br>
