@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.11rc2
+
+📅 Date: 2024-01-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * fixed issue in the load supplied per class output
+
+
 # SDDP 17.2.11rc1
 
 📅 Date: 2023-12-21<br>
