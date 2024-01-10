@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.11rc3
+
+📅 Date: 2024-01-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the validation of chronological hour-block mapping and remapping, making it
+    mandatory for the block indexes to be in sequential ascending order
+
+
 # SDDP 17.2.11rc2
 
 📅 Date: 2024-01-05<br>
