@@ -3,6 +3,24 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.11
+
+📅 Date: 2024-01-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed issue in suppied demand per class output writing
+  * Hourly representation
+    * fixed issue in final/initial storage variable representation in the generic constraint formulation
+    * New formulation for minimum uptime representation for thermal power plants
+    * fixed issue with the sensibility status, which was always being applied regarless of the status (enabled or disabled)
+
+
 # SDDP 17.2.11rc3
 
 📅 Date: 2024-01-10<br>
