@@ -3,9 +3,26 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc1
+
+📅 Date: 2024-01-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed the application of the Markov inflow model
+
+* GUI
+  * fixed an issue in the loading of the demand hourly data
+
+
 # SDDP 17.2.11
 
-📅 Date: 2024-01-10<br>
+📅 Date: 2024-01-15<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.11-setup.zip)
 \|
@@ -14,6 +31,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
+  * fixed the application of the inflow reduced uncertainty
   * fixed issue in suppied demand per class output writing
   * Hourly representation
     * fixed issue in final/initial storage variable representation in the generic constraint formulation
