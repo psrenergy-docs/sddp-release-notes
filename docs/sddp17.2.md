@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc2
+
+📅 Date: 2024-01-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc2-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * improved the hydro final storage representation in general constraints with stage resolution
+  * started to allow the definition of minimum operative storage data for future hydro plants
+
+
 # SDDP 17.2.12rc1
 
 📅 Date: 2024-01-17<br>
