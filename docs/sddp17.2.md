@@ -11,7 +11,10 @@ nav_order: 2
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc3-setup-linux.zip)
 
-## Improved post-processing time
+## New features and improvements
+
+* Model
+  * improved post-processing time
 
 
 # SDDP 17.2.12rc2
