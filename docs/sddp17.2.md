@@ -3,6 +3,17 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc3
+
+📅 Date: 2024-01-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc3-setup-linux.zip)
+
+## Improved post-processing time
+
+
 # SDDP 17.2.12rc2
 
 📅 Date: 2024-01-22<br>
