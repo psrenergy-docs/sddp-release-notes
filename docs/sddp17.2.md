@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc4
+
+📅 Date: 2024-01-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed outputs related to thermal plants with commitment, when there are multi-fuel plants
+    with commitment
+
+
 # SDDP 17.2.12rc3
 
 📅 Date: 2024-01-24<br>
