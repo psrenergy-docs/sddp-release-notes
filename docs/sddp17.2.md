@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc5
+
+📅 Date: 2024-02-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc5-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed PSRIO script post-processing in block cases, addressing a bug in PSRIO 0.27.0
+
+
 # SDDP 17.2.12rc4
 
 📅 Date: 2024-01-25<br>
