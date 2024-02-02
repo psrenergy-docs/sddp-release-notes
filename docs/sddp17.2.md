@@ -15,6 +15,7 @@ nav_order: 2
 
 * Model
   * fixed PSRIO script post-processing in block cases, addressing a bug in PSRIO 0.27.0
+  * fixed the thermal investment cuts in the Optgen integration for must-run plants
 
 
 # SDDP 17.2.12rc4
