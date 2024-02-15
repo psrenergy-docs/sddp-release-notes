@@ -91,11 +91,9 @@ nav_order: 2
 
 * Model
   * fixed the application of the inflow reduced uncertainty
-  * fixed issue in suppied demand per class output writing
+  * fixed an issue in the supplied demand per class output writing
   * Hourly representation
-    * fixed issue in final/initial storage variable representation in the generic constraint formulation
-    * New formulation for minimum uptime representation for thermal power plants
-    * fixed issue with the sensibility status, which was always being applied regarless of the status (enabled or disabled)
+    * fixed an issue in the consideration of the sensibility group status
 
 
 # SDDP 17.2.11rc3
