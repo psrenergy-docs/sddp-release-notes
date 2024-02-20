@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc7
+
+📅 Date: 2024-02-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc7-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * removal of the maximum number of reservoir sets
+
+
 # SDDP 17.2.12rc6
 
 📅 Date: 2024-02-15<br>
