@@ -3,6 +3,21 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc8
+
+📅 Date: 2024-02-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc8-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * integration of thermal generation into initial conditions
+
+
 # SDDP 17.2.12rc7
 
 📅 Date: 2024-02-20<br>
