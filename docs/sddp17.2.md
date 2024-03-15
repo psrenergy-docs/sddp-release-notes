@@ -3,6 +3,20 @@ title: "SDDP 17.2"
 nav_order: 2
 ---
 
+# SDDP 17.2.12rc9
+
+📅 Date: 2024-03-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.2.12rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Added validation to prevent 17.3 onwards databases to be executed in 17.2 versions
+  
+  
 # SDDP 17.2.12rc8
 
 📅 Date: 2024-02-28<br>
