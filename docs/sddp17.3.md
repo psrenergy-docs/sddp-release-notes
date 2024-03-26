@@ -1,4 +1,4 @@
-# SDDP 17.3.1rc1
+# SDDP 17.3.1rc2
 
 📅 Date: 2024-03-25<br>
 🔗 Download:
@@ -11,6 +11,8 @@
 * Model
   * Fixed issue with hourly maintenance data with coordinated system operation mode
   
+
+# SDDP 17.3.1rc1
 
 📅 Date: 2024-03-22<br>
 🔗 Download:
