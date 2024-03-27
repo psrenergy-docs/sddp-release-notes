@@ -3,9 +3,23 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.1rc4
+
+📅 Date: 2024-03-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * fixed investment cuts for OptGen for probabilistic dynamic reserve and batteries (in the typical days representation)
+
+
 # SDDP 17.3.1rc3
 
-📅 Date: 2024-03-23<br>
+📅 Date: 2024-03-26<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc3-setup.zip)
 \|
@@ -16,7 +30,6 @@ nav_order: 2
 * Model
   * Hourly representation
     * Fixed issue with Future Cost Function representation for cases with negative values
-
 
 
 # SDDP 17.3.1rc2
