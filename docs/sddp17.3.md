@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.1rc5
+
+📅 Date: 2024-03-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc5-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed SDDP dashboard
+
+
 # SDDP 17.3.1rc4
 
 📅 Date: 2024-03-27<br>
@@ -14,7 +28,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * fixed investment cuts for OptGen for probabilistic dynamic reserve and batteries (in the typical days representation)
+  * Fixed investment cuts for OptGen for probabilistic dynamic reserve and batteries (in the typical days representation)
 
 
 # SDDP 17.3.1rc3
