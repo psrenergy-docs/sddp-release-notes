@@ -7,10 +7,12 @@ psr_model: "SDDP"
 toc:
   - title: Current version
     subfolderitems:
-      - page: SDDP 17.2
-        url: /sddp17.2
+      - page: SDDP 17.3
+        url: /sddp17.3
   - title: Older versions
     subfolderitems:
+      - page: SDDP 17.2
+        url: /sddp17.2
       - page: SDDP 17.1
         url: /sddp17.1
       - page: SDDP 17.0
@@ -23,12 +25,6 @@ toc:
         url: /sddp15.0
       - page: SDDP 14.0
         url: /sddp14.0
-  - title: Upcoming version
-    subfolderitems:
-      - page: SDDP 17.3
-        url: /sddp17.3
-      - page: SDDP 18.0
-        url: /sddp18.0
 
 #adding zoom in images
 zoom_img_enabled: true
