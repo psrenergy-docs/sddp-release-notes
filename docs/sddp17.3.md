@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.1rc6
+
+📅 Date: 2024-04-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1rc6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed issue in the electrical consumption variable of the electrification producer in generic constraints
+
+
 # SDDP 17.3.1rc5
 
 📅 Date: 2024-03-29<br>
