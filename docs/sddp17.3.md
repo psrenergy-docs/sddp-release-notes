@@ -3,6 +3,27 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.1
+
+📅 Date: 2024-04-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.1-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * IHM
+	* Added maintenance type and unit in import/export options (for hydro and thermal plants)
+
+## Fixed bugs
+
+* Model
+  * IHM
+    * Fixed issue with maintenance unit database conversion
+
+
 # SDDP 17.3.1rc6
 
 📅 Date: 2024-04-01<br>
