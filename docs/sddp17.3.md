@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc1
+
+📅 Date: 2024-04-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed an issue that allowed future CSP plants to provide reserve
+
+
 # SDDP 17.3.1
 
 📅 Date: 2024-04-02<br>
@@ -13,15 +27,13 @@ nav_order: 2
 
 ## New features and improvements
 
-* Model
-  * IHM
-	* Added maintenance type and unit in import/export options (for hydro and thermal plants)
+* GUI
+  * Added maintenance type and unit in import/export options (for hydro and thermal plants)
 
 ## Fixed bugs
 
-* Model
-  * IHM
-    * Fixed issue with maintenance unit database conversion
+* GUI
+  * Fixed an issue with maintenance unit database conversion
 
 
 # SDDP 17.3.1rc6
@@ -36,7 +48,7 @@ nav_order: 2
 
 * Model
   * Hourly representation
-    * Fixed issue in the electrical consumption variable of the electrification producer in generic constraints
+    * Fixed an issue in the electrical consumption variable of the electrification producer in generic constraints
 
 
 # SDDP 17.3.1rc5
@@ -79,7 +91,7 @@ nav_order: 2
 
 * Model
   * Hourly representation
-    * Fixed issue with Future Cost Function representation for cases with negative values
+    * Fixed an issue with Future Cost Function representation for cases with negative values
 
 
 # SDDP 17.3.1rc2
@@ -93,7 +105,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * Fixed issue with hourly maintenance data with coordinated system operation mode
+  * Fixed an issue with hourly maintenance data with coordinated system operation mode
 
 
 # SDDP 17.3.1rc1
