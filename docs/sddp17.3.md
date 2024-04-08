@@ -3,18 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
-# SDDP 17.3.2rc1
+# SDDP 17.3.2rc2
 
-📅 Date: 2024-04-05<br>
+📅 Date: 2024-04-08<br>
 🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc1-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc2-setup-linux.zip)
 
 ## Fixed bugs
 
 * Model
-  * Fixed an issue that allowed future CSP plants to provide reserve
+  * Dashboard adjustments
+
+* GUI
+  * Fixed the stored energy parameters saving
 
 
 # SDDP 17.3.1
@@ -62,7 +65,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * Fixed SDDP dashboard
+  * Dashboard adjustments
 
 
 # SDDP 17.3.1rc4
