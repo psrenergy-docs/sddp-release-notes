@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc3
+
+📅 Date: 2024-04-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed outputs Availabe hydro capacity (pothid.csv) and Available turbined outflow (qmxdsp.csv)
+  * Fixed outputs Marginal value of water (mgvwat.csv) and Opportunity cost hydro generation (oppchg.csv) for executions with Typical days representation
+  
+ 
 # SDDP 17.3.2rc2
 
 📅 Date: 2024-04-08<br>
