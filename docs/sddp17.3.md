@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc4
+
+📅 Date: 2024-04-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc4-setup-linux.zip)
+
+## New features and improvements
+
+* GUI
+  * Removed unnecessary warning when defining maintenance unit for hydro or thermal plants
+  
+
 # SDDP 17.3.2rc3
 
 📅 Date: 2024-04-09<br>
@@ -14,8 +28,10 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * Fixed outputs Availabe hydro capacity (pothid.csv) and Available turbined outflow (qmxdsp.csv)
-  * Fixed outputs Marginal value of water (mgvwat.csv) and Opportunity cost hydro generation (oppchg.csv) for executions with Typical days representation
+  * Fixed outputs Available hydro capacity (pothid.csv) and Available turbined outflow (qmxdsp.csv) for hydro plants
+    with inflow x turbining or storage x maximum turbining tables
+  * Fixed outputs Marginal value of water (mgvwat.csv) and Opportunity cost hydro generation (oppchg.csv) for
+    executions with typical days representation
   
  
 # SDDP 17.3.2rc2
