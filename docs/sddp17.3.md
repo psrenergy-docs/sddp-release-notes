@@ -3,6 +3,30 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc5
+
+📅 Date: 2024-04-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc5-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Started to allow hourly maintenance in executions with hour-block remap or typical days
+
+* GUI
+  * Removed unnecessary warning when defining single reserve unit for hydro or thermal plants
+  * Removed unnecessary warning when defining asbsolute joint reserve requirement unit
+  
+## Fixed bugs
+
+* Model
+  * Fixed storage investment cuts for Optgen integration
+  * Fixed an issue that prevented executing cases with agent's name including single quotes
+
+
 # SDDP 17.3.2rc4
 
 📅 Date: 2024-04-10<br>
@@ -15,7 +39,7 @@ nav_order: 2
 
 * GUI
   * Removed unnecessary warning when defining maintenance unit for hydro or thermal plants
-  
+
 
 # SDDP 17.3.2rc3
 
