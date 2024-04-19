@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc6
+
+📅 Date: 2024-04-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc6-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added extra validation for battery maintenance schedule unit and type
+
+
 # SDDP 17.3.2rc5
 
 📅 Date: 2024-04-18<br>
