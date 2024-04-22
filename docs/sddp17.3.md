@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc7
+
+📅 Date: 2024-04-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * Fixed an issue in the battery maintenance screen that allowed data from removed agents to remain
+  * Adjusted the Time Series Lab version to be opened
+  
+
 # SDDP 17.3.2rc6
 
 📅 Date: 2024-04-19<br>
