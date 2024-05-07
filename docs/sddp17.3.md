@@ -3,6 +3,28 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2rc8
+
+📅 Date: 2024-05-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2rc8-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Enhanced file opening process to avoid problems during cloud executions
+  * Added marginal value of battery energy output (mgvbat.csv)
+  * Hourly representation
+    * Added marginal value of charge/discharge capacity output (cmgbtc.csv)
+
+## Fixed bugs
+
+* Model
+  * Fixed numerical issue in typical days executions related to hydro state variable stage update 
+  
+
 # SDDP 17.3.2rc7
 
 📅 Date: 2024-04-22<br>
