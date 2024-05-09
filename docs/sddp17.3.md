@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.2
+
+📅 Date: 2024-05-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Blocked definition of fuel contracts and fuel reservoirs with same code in different
+    systems, which could cause issues in executions of type simulation
+
+
 # SDDP 17.3.2rc8
 
 📅 Date: 2024-05-07<br>
@@ -14,15 +29,15 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  * Enhanced file opening process to avoid problems during cloud executions
-  * Added marginal value of battery energy output (mgvbat.csv)
+  * New output: marginal value of battery energy (mgvbat.csv)
   * Hourly representation
     * Added marginal value of charge/discharge capacity output (cmgbtc.csv)
 
 ## Fixed bugs
 
 * Model
-  * Fixed numerical issue in typical days executions related to hydro state variable stage update 
+  * Fixed numerical issue that could cause infeasibilities in typical days case with
+    hydro non-controllable spillage
   
 
 # SDDP 17.3.2rc7
