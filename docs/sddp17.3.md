@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.3rc1
+
+📅 Date: 2024-05-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.3rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.3rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed dashboard creation for cases with policy hot-start
+
+
 # SDDP 17.3.2
 
 📅 Date: 2024-05-09<br>
