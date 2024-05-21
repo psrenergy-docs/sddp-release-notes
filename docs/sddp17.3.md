@@ -16,12 +16,14 @@ nav_order: 2
 * Model
   * Hourly representation
     * Reformulation of constant water inflow constraint
+  * New output: battery O&M unitary cost (oembatun.csv)
   
 ## Fixed bugs
 
 * GUI
   * Fixed issue in "Execution options > Economic dispatch > Advanced properties" screen that
     prevented the user from saving the modified data in specific situations
+  * Fixed pbatstg output
 
 
 # SDDP 17.3.3rc2
