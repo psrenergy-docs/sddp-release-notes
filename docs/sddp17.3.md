@@ -3,6 +3,27 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.3rc3
+
+📅 Date: 2024-05-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.3rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.3rc3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * Reformulation of constant water inflow constraint
+  
+## Fixed bugs
+
+* GUI
+  * Fixed issue in "Execution options > Economic dispatch > Advanced properties" screen that
+    prevented the user from saving the modified data in specific situations
+
+
 # SDDP 17.3.3rc2
 
 📅 Date: 2024-05-13<br>
