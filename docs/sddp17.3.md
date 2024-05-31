@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.4rc1
+
+📅 Date: 2024-05-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc1-setup-linux.zip)
+
+## New features and improvements
+
+* GUI
+  * Added import/export options to the joint reserve offer per requirement data 
+
+
 # SDDP 17.3.3
 
 📅 Date: 2024-05-23<br>
