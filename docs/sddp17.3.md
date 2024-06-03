@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.4rc2
+
+📅 Date: 2024-06-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc2-setup-linux.zip)
+
+## New features and improvements
+
+  * Hourly representation
+    * Optimized the modelling of thermal start-up costs
+
+
 # SDDP 17.3.4rc1
 
 📅 Date: 2024-05-31<br>
