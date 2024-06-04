@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.4rc3
+
+📅 Date: 2024-06-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added hydro plant joint reserve allocation variables to the generic constraints
+
+
 # SDDP 17.3.4rc2
 
 📅 Date: 2024-06-03<br>
@@ -13,6 +27,7 @@ nav_order: 2
 
 ## New features and improvements
 
+* Model
   * Hourly representation
     * Optimized the modelling of thermal start-up costs
 
