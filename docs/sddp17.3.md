@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.4rc8
+
+📅 Date: 2024-06-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc8-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the consideration of the Markov model in inflow generation for Time Series Lab
+  * Hourly representation
+    * Fixed the representation of backed DC links in the joint reserve constraints
+
+
 # SDDP 17.3.4rc7
 
 📅 Date: 2024-06-24<br>
