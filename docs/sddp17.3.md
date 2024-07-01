@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.4rc9
+
+📅 Date: 2024-07-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.4rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed the representation of joint reserve constraints of type "Compensates individual
+      outages of agents in defined group"
+
+
 # SDDP 17.3.4rc8
 
 📅 Date: 2024-06-28<br>
