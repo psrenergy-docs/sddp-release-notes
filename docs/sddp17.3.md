@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.5rc2
+
+📅 Date: 2024-07-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the reserve outputs values for plants that only participate as backed elements in joint reserves
+  * Hourly representation
+    * Fixed the joint reserve offer unit consideration when defined as a % of the nominal/available capacity
+
+
 # SDDP 17.3.5rc1
 
 📅 Date: 2024-07-03<br>
