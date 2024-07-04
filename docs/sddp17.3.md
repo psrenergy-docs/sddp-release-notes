@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.5rc3
+
+📅 Date: 2024-07-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5rc3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * Improved the representation of the hydro production coefficient as a function of the tailwater level
+
+
 # SDDP 17.3.5rc2
 
 📅 Date: 2024-07-03<br>
