@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.5
+
+📅 Date: 2024-07-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.5-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the simulation of additional years when using typical days for weekly cases
+  * Fixed the penalties and deficit participation (in %) chart on the dashboard
+
+
 # SDDP 17.3.5rc3
 
 📅 Date: 2024-07-04<br>
