@@ -3,6 +3,25 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc2
+
+📅 Date: 2024-07-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc2-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added circuit flow variables to the generic constraints
+
+## Fixed bugs
+
+* Model
+  * Fixed joint reserve constraints in coordinated cases
+
+
 # SDDP 17.3.6rc1
 
 📅 Date: 2024-07-15<br>
