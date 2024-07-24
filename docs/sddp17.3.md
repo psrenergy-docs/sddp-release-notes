@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc3
+
+📅 Date: 2024-07-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed an issue that prevented executing coordinated cases with fuel contracts or
+    fuel reservoirs in more than one system
+
+
 # SDDP 17.3.6rc2
 
 📅 Date: 2024-07-22<br>
