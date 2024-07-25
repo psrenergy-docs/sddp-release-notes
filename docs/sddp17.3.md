@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc4
+
+📅 Date: 2024-07-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Included protection for hydro plants with maximum storage or flood control storage
+    equal to zero and representation of non-controllable spillage
+  * Fixed an issue in the calculation of approximated losses in the policy
+
+
 # SDDP 17.3.6rc3
 
 📅 Date: 2024-07-24<br>
