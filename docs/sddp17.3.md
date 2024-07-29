@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc5
+
+📅 Date: 2024-07-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc5-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * Adjustment in "Execution options > Economic dispatch > Advanced properties" screen  
+
+
 # SDDP 17.3.6rc4
 
 📅 Date: 2024-07-25<br>
