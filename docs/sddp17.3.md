@@ -3,6 +3,25 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc6
+
+📅 Date: 2024-07-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc6-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added the possibility to define the hydro generation variable in MWh in the generic constraints
+
+## Fixed bugs
+
+* GUI
+  * Fixed an issue related to the system ID case
+
+
 # SDDP 17.3.6rc5
 
 📅 Date: 2024-07-29<br>
