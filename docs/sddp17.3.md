@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc7
+
+📅 Date: 2024-07-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the application of the minimum offtake constraints for integral fuel contracts when they
+    are not active
+
+
 # SDDP 17.3.6rc6
 
 📅 Date: 2024-07-30<br>
