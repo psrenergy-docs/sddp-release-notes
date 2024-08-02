@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc8
+
+📅 Date: 2024-08-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc8-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added screen to create and edit the hour-block remap
+  * New outputs: maximum thermal/hydro/battery/renewable joint reserve offer and
+    thermal/hydro/battery/renewable joint reserve price
+
+
 # SDDP 17.3.6rc7
 
 📅 Date: 2024-07-31<br>
