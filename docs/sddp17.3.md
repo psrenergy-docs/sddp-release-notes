@@ -3,6 +3,25 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc9
+
+📅 Date: 2024-08-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * Fixed the display of the advanced properties window
+  * Fixed an issue that prevented the generation of the hour-block remap by the clustering tool
+
+* Model
+  * Hourly representation
+    * Fixed the consideration of hydro outflow x tailwater elevation seasonal table
+
+
 # SDDP 17.3.6rc8
 
 📅 Date: 2024-08-02<br>
