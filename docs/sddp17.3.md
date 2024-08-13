@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc10
+
+📅 Date: 2024-08-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc10-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Improved hydro storage tables validation for future plants
+  * New output: battery initial storage (batstgi.csv)
+
+
 # SDDP 17.3.6rc9
 
 📅 Date: 2024-08-08<br>
