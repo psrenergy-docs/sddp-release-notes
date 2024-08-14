@@ -3,6 +3,27 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc11
+
+📅 Date: 2024-08-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc11-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Included a validation for potential numerical issues caused by the definition of the thermal
+    consumption curve segments
+
+## Fixed bugs
+
+* Model
+  * Fixed a possible infeasibility source in the first backward, due to modifications of the
+    fuel reservoir maximum storage
+
+
 # SDDP 17.3.6rc10
 
 📅 Date: 2024-08-13<br>
