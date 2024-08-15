@@ -22,6 +22,8 @@ nav_order: 2
 * Model
   * Fixed a possible infeasibility source in the first backward, due to modifications of the
     fuel reservoir maximum storage
+  * Hourly representation
+    * Fixed the calculation of the thermal/hydro single reserve requirement
 
 
 # SDDP 17.3.6rc10
