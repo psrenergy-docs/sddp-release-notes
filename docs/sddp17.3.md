@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc12
+
+📅 Date: 2024-08-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc12-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc12-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added fuel reservoir final storage variables to the generic constraints
+
+
 # SDDP 17.3.6rc11
 
 📅 Date: 2024-08-14<br>
