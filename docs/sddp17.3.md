@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6rc13
+
+📅 Date: 2024-08-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6rc13-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Adjusted the available thermal capacity output to reflect the operation decision when
+    the combined cycles are optimized
+
+
 # SDDP 17.3.6rc12
 
 📅 Date: 2024-08-15<br>
