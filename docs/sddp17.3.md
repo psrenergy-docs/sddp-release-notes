@@ -3,6 +3,24 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.6
+
+📅 Date: 2024-08-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the transmission losses linearizations for phase shifters
+  * Fixed an issue in the inflow modeling with Markov in simulations that begin after
+    the first stage of the policy
+  * Hourly representation
+    * Fixed the application of the joint reserve requirement linear coefficient when it is set to 0
+
+
 # SDDP 17.3.6rc14
 
 📅 Date: 2024-08-26<br>
