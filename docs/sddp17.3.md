@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.7rc1
+
+📅 Date: 2024-09-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc1-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed the coupling between different Optgen rolling horizons for cases with the typical
+    day representation or with state variables other than hydro reservoirs
+
+
 # SDDP 17.3.6
 
 📅 Date: 2024-08-30<br>
