@@ -16,6 +16,8 @@ nav_order: 2
 * Model
   * Fixed the coupling between different Optgen rolling horizons for cases with the typical
     day representation or with state variables other than hydro reservoirs
+  * Hourly representation
+    * Adjusted the initial conditions for pumping hydro stations
 
 
 # SDDP 17.3.6
