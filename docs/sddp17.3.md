@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.7rc4
+
+📅 Date: 2024-09-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed an isssue in the thermal plant output writing that prevented the execution
+
+
 # SDDP 17.3.7rc3
 
 📅 Date: 2024-09-17<br>
