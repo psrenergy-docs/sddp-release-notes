@@ -14,7 +14,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * Fixed the weekly aggregation of the hourly historical inflow data
+  * Improved memory use during the execution
 
 
 # SDDP 17.3.7rc4
