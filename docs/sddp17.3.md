@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.7rc6
+
+📅 Date: 2024-10-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.7rc6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed investment cuts for Optgen integration for circuits in generic constraints
+
+
 # SDDP 17.3.7rc5
 
 📅 Date: 2024-09-25<br>
