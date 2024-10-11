@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+📅 Date: 2024-10-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc2-setup-linux.zip)
+
+## Fixed bugs
+
+* GUI
+  * Fixed an issue that didn't allow a stochastic policy with the simulation of one
+	selected scenario to be executed in parallel mode
+
+
 📅 Date: 2024-10-04<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc1-setup.zip)
