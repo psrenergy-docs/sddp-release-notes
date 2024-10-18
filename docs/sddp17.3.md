@@ -12,6 +12,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
+  * Fixed writing of renewable capacity scenario output (potgnd.csv)
   * Hourly representation
     * Fixed the FOR application with the hourly maintenance schedule for thermal and hydro plants
 
