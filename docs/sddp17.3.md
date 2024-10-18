@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+📅 Date: 2024-10-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed the FOR application with the hourly maintenance schedule for thermal and hydro plants
+
+
 📅 Date: 2024-10-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc2-setup.zip)
