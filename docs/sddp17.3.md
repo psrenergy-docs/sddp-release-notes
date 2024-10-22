@@ -3,6 +3,18 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+📅 Date: 2024-10-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc4-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Improved time performance
+
+
 📅 Date: 2024-10-18<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc3-setup.zip)
