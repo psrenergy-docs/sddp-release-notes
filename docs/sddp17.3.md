@@ -3,6 +3,24 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.8rc6
+
+📅 Date: 2024-10-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed sum of interconnection data validation
+  * Hourly representation
+    * Fixed the consideration of reserve sharing constraints
+
+
+# SDDP 17.3.8rc5
+
 📅 Date: 2024-10-24<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc5-setup.zip)
@@ -15,6 +33,8 @@ nav_order: 2
   * Fixed hourly historical inflows horizon validation
 
 
+# SDDP 17.3.8rc4
+
 📅 Date: 2024-10-22<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc4-setup.zip)
@@ -26,6 +46,8 @@ nav_order: 2
 * Model
   * Improved time performance
 
+
+# SDDP 17.3.8rc3
 
 📅 Date: 2024-10-18<br>
 🔗 Download:
@@ -41,6 +63,8 @@ nav_order: 2
     * Fixed the FOR application with the hourly maintenance schedule for thermal and hydro plants
 
 
+# SDDP 17.3.8rc2
+
 📅 Date: 2024-10-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc2-setup.zip)
@@ -53,6 +77,8 @@ nav_order: 2
   * Fixed an issue that didn't allow a stochastic policy with the simulation of one
 	selected scenario to be executed in parallel mode
 
+
+# SDDP 17.3.8rc1
 
 📅 Date: 2024-10-04<br>
 🔗 Download:
