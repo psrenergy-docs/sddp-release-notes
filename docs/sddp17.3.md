@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.8rc7
+
+📅 Date: 2024-11-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed sum of interconnection data validation
+  * Hourly representation
+    * Fixed the consideration of reserve sharing constraints
+
+
 # SDDP 17.3.8rc6
 
 📅 Date: 2024-10-25<br>
@@ -11,12 +27,15 @@ nav_order: 2
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc6-setup-linux.zip)
 
-## Fixed bugs
+## New features and improvements
 
 * Model
-  * Fixed sum of interconnection data validation
-  * Hourly representation
-    * Fixed the consideration of reserve sharing constraints
+  * Included hourly resolution for inflow energy outputs
+
+## Fixed bugs
+
+* GUI
+  * Fixed the deletion of hydro plants
 
 
 # SDDP 17.3.8rc5
