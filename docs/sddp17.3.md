@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.8rc8
+
+📅 Date: 2024-11-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.8rc8-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed circuit flow limit constraints when contingencies are represented
+
+
 # SDDP 17.3.8rc7
 
 📅 Date: 2024-11-01<br>
