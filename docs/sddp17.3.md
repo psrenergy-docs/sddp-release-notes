@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc2
+
+📅 Date: 2024-11-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc2-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Included the option to inform battery joint reserve maximum offer in %
+
+
 # SDDP 17.3.9rc1
 
 📅 Date: 2024-11-11<br>
