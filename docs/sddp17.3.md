@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc3
+
+📅 Date: 2024-11-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* DPR calculator
+  * Fixed TSL renewable scenarios horizon validation
+
+
 # SDDP 17.3.9rc2
 
 📅 Date: 2024-11-12<br>
