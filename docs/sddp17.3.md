@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc4
+
+📅 Date: 2024-11-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Removed network data validation in cases without network representation
+  * Hourly representation
+    * Fixed generic linear constraints per stage por variables defined in MW
+
+
 # SDDP 17.3.9rc3
 
 📅 Date: 2024-11-14<br>
