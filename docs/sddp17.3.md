@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc6
+
+📅 Date: 2024-11-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc6-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed hourly maintenance validation for weekly cases
+  * Hourly representation
+    * Fixed the flexible demand modeling when the shifting windows is 0
+
+
 # SDDP 17.3.9rc5
 
 📅 Date: 2024-11-21<br>
