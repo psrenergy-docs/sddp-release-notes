@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc7
+
+📅 Date: 2024-11-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc7-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added system total demand, generation and net generation variables to the generic constraints
+  * Improved the hydro non-controllable spillage modeling, mitigating numerical issues
+
+
 # SDDP 17.3.9rc6
 
 📅 Date: 2024-11-22<br>
