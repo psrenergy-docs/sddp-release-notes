@@ -2,6 +2,20 @@
 title: "SDDP 17.3"
 nav_order: 2
 ---
+# SDDP 17.3.9rc8
+
+📅 Date: 2024-11-28<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc8-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed the writing of the hydro inflow energy output
+
 
 # SDDP 17.3.9rc7
 
