@@ -5,7 +5,7 @@ nav_order: 2
 
 # SDDP 17.3.9rc10
 
-📅 Date: 2024-12-03<br>
+📅 Date: 2024-12-05<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc10-setup.zip)
 \|
@@ -16,7 +16,7 @@ nav_order: 2
 * Model
   * Hourly representation
     * Fixed the consideration of initial conditions in the thermal minimum uptime constraints
-
+    * Adjustment to non-controllable spillage constraint model for hydro plants
 
 # SDDP 17.3.9rc9
 
