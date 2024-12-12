@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc11
+
+📅 Date: 2024-12-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc11-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Adjustment in thermal commitment constraint upper bound to avoid numerical issues with integer variable representation
+  * Hourly representation
+    * Fixed generic constraint modelling involving total generation and net load variables
+    
+    
 # SDDP 17.3.9rc10
 
 📅 Date: 2024-12-05<br>
@@ -17,6 +33,7 @@ nav_order: 2
   * Hourly representation
     * Fixed the consideration of initial conditions in the thermal minimum uptime constraints
     * Adjustment to non-controllable spillage constraint model for hydro plants
+
 
 # SDDP 17.3.9rc9
 
