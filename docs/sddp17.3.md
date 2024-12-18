@@ -3,6 +3,24 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.9rc12
+
+📅 Date: 2024-12-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc12-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.9rc12-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed use of hourly historical inflow in the transition between years in weekly cases
+    
+* GUI
+  * Fixed saving of renewable source when it is changed
+    
+    
 # SDDP 17.3.9rc11
 
 📅 Date: 2024-12-12<br>
