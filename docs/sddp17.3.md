@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.10rc1
+
+📅 Date: 2024-12-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc1-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added reserve sharing modeling for cases without network representation
+    through interconnections
+
+
 # SDDP 17.3.9
 
 📅 Date: 2024-12-19<br>
