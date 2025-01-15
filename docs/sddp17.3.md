@@ -16,6 +16,11 @@ nav_order: 2
 * Model
   * Added hydro bypass flow variable to the generic constraints
 
+## Fixed bugs
+
+* Model
+  * Adjustment in the regularization constraint to consider the hydro bypass flow
+
 
 # SDDP 17.3.10rc1
 
