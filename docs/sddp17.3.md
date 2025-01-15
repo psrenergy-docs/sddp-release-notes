@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.10rc2
+
+📅 Date: 2025-01-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc2-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added hydro bypass flow variable to the generic constraints
+
+
 # SDDP 17.3.10rc1
 
 📅 Date: 2024-12-27<br>
