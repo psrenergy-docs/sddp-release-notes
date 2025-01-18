@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.10rc3
+
+📅 Date: 2025-01-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc3-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Adjustment in penalty of system's joint reserve
+
+
 # SDDP 17.3.10rc2
 
 📅 Date: 2025-01-15<br>
