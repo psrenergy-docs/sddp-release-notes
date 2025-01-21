@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.10rc4
+
+📅 Date: 2025-01-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc4-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Adjustment of thermal plant ramps related to initial conditions of previous stage
+
+
 # SDDP 17.3.10rc3
 
 📅 Date: 2025-01-18<br>
