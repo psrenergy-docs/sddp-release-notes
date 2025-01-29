@@ -5,7 +5,7 @@ nav_order: 2
 
 # SDDP 17.3.10rc5
 
-📅 Date: 2025-01-27<br>
+📅 Date: 2025-01-29<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc5-setup.zip)
 \|
@@ -14,7 +14,7 @@ nav_order: 2
 ## New features and improvements
 
 * Model
-  * Added marginal cost adjustment to consider fixed losses of AC circuits (including the hourly model)
+  * Added an option for marginal cost adjustment to consider fixed losses of AC circuits (including the hourly model)
   
 ## Fixed bugs
 
