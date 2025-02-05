@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+
+# SDDP 17.3.10rc7
+
+📅 Date: 2025-02-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10rc7-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added new output reporting water inflow due to upstream plants (including the hourly model)
+    
+
 # SDDP 17.3.10rc6
 
 📅 Date: 2025-01-31<br>
