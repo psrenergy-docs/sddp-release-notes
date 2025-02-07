@@ -4,6 +4,32 @@ nav_order: 2
 ---
 
 
+# SDDP 17.3.10
+
+📅 Date: 2025-02-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10-setup-linux.zip)
+
+Official release
+
+## New features and improvements
+
+* Model
+  * Added output reporting income due to reserve provided per generator per exclusive requirement 
+
+## Fixed bugs
+
+* Model
+  * Adjustment in thermal generation ramp constraint in Typical Days and Chronological Blocks modelling to consider
+  main and alternative fuels jointly in the constraint
+
+* GUI
+  * Fixed saving of thermal plant with alternative fuels. Plants associated with the alternative fuels had their capacity overwritten
+  by the capacity of the main fuel plant
+    
+
 # SDDP 17.3.10rc7
 
 📅 Date: 2025-02-05<br>
