@@ -3,6 +3,24 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc1
+
+📅 Date: 2025-02-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc1-setup-linux.zip)
+
+## New features and improvements
+
+* GUI
+  * Simplified workflow related to handling the case path  
+
+## Fixed bugs
+
+* Model
+  * Fixed the water inflow due to upstream plants output, to consider water losses and bypass flows
+
 
 # SDDP 17.3.10
 
@@ -11,8 +29,6 @@ nav_order: 2
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.10-setup-linux.zip)
-
-Official release
 
 ## New features and improvements
 
@@ -28,7 +44,7 @@ Official release
 * GUI
   * Fixed saving of thermal plant with alternative fuels. Plants associated with the alternative fuels had their capacity overwritten
   by the capacity of the main fuel plant
-    
+
 
 # SDDP 17.3.10rc7
 
@@ -41,7 +57,7 @@ Official release
 ## New features and improvements
 
 * Model
-  * Added new output reporting water inflow due to upstream plants (including the hourly model)
+  * Added new output reporting water inflow due to upstream plants
     
 
 # SDDP 17.3.10rc6
@@ -74,7 +90,7 @@ Official release
 ## New features and improvements
 
 * Model
-  * Added an option for marginal cost adjustment to consider fixed losses of AC circuits (including the hourly model)
+  * Added an option for marginal cost adjustment to consider fixed losses of AC circuits
   
 ## Fixed bugs
 
