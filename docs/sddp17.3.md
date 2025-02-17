@@ -3,6 +3,25 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc2
+
+📅 Date: 2025-02-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc2-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added output reporting turbined spillage and changed the spilled energy output to vary by block
+
+## Fixed bugs
+
+* Model
+  * Fixed typical days mapping validation
+
+
 # SDDP 17.3.11rc1
 
 📅 Date: 2025-02-12<br>
