@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc3
+
+📅 Date: 2025-02-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc3-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added option for exclusive single-fuel generation in multi-fuel thermal plants
+
+
 # SDDP 17.3.11rc2
 
 📅 Date: 2025-02-17<br>
