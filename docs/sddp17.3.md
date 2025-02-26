@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc5
+
+📅 Date: 2025-02-26<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc5-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Added MWh unit option for all elements that previously had only MW as an option in the generic constraint screen
+
+
 # SDDP 17.3.11rc4
 
 📅 Date: 2025-02-21<br>
