@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc7
+
+📅 Date: 2025-03-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc7-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed "Number of units" attribute reading for hydro generating units
+
+
 # SDDP 17.3.11rc6
 
 📅 Date: 2025-02-28<br>
