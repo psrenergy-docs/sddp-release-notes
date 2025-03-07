@@ -14,8 +14,7 @@ nav_order: 2
 ## Fixed bugs
 
 * Model
-  * Hourly representation
-    * Fixed "Number of units" attribute reading for hydro generating units
+  * Fixed memory invasion issue caused by last version in specific cases
 
 
 # SDDP 17.3.11rc6
