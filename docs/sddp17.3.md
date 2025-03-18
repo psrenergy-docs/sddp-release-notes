@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc8
+
+📅 Date: 2025-03-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc8-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Included the possibility of using Microsoft MPI (experimental)
+
+
 # SDDP 17.3.11rc7
 
 📅 Date: 2025-03-06<br>
