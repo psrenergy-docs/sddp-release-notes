@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc9
+
+📅 Date: 2025-03-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc9-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed validation for run-of-river hydro plants with production coefficient as a function of the reservoir and mean tailwater elevations
+
+
 # SDDP 17.3.11rc8
 
 📅 Date: 2025-03-18<br>
