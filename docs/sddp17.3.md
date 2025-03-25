@@ -3,6 +3,28 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc10
+
+📅 Date: 2025-03-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc10-setup-linux.zip)
+
+## New features and improvements
+
+* Model
+  * Hourly representation
+    * Improved data handling performance
+
+## Fixed bugs
+
+* Model
+  * Hourly representation
+    * Fixed the calculation of the thermal and hydro plants available capacity when they are selected for
+      outage sampling
+
+
 # SDDP 17.3.11rc9
 
 📅 Date: 2025-03-19<br>
