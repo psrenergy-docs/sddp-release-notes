@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.11rc11
+
+📅 Date: 2025-03-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.11rc11-setup-linux.zip)
+
+## Fixed bugs
+
+* Model
+  * Fixed initial condition for hydro plants with dead storage fill-up representation
+
+
 # SDDP 17.3.11rc10
 
 📅 Date: 2025-03-25<br>
