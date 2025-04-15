@@ -3,6 +3,21 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc2
+
+📅 Date: 2025-04-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc2-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Hourly representation
+    * Fixed the available capacity of the multi-fuel thermal plants for alternative fuels when there are modifications
+      to the COR/FOR factors for the main fuel plant or hourly maintenance 
+
+
 # SDDP 17.3.12rc1
 
 📅 Date: 2025-04-09<br>
@@ -10,12 +25,13 @@ nav_order: 2
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc1-setup.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc1-setup-linux.zip)
+
 ## Fixed bugs
 * GUI
   * Fixed version fetch on PSRCloud to allow executions of beta or release candidate versions from the interface
 * Model
   * Hourly representation
-    * Fixed validation for generic variable to allow "per stage" resolution with there are no slice decomposition
+    * Fixed validation for generic variable to allow "per stage" resolution when there are no slice decomposition
 
 
 # SDDP 17.3.11
