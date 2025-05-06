@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc3
+
+📅 Date: 2025-05-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc3-setup-linux.zip)
+
+## New features and improvements
+* Model
+  * Added bus demand variable to the generic constraints
+
+
 # SDDP 17.3.12rc2
 
 📅 Date: 2025-04-15<br>
