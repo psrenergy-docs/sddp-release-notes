@@ -84,10 +84,10 @@ Detailed modeling of energy supply chains, enabling integrated planning of elect
 
 A detailed transmission model is essential for accurately representing key aspects of modern energy systems — such as renewable integration, curtailment management, and operational flexibility. This enhanced modeling capability supports both operation and expansion planning with a high level of electrical and spatial granularity.
 
-- Supports a wide range of **AC and DC components**: lines, 2- and 3-winding transformers, LCC and VSC converters, shunt devices, SVCs, and synchronous compensators  
+- Supports a wide range of **AC and DC components**: lines, 2- and 3-winding transformers, LCC and VSC converters, flexible AC transmission systems, and reactive power compensation  
 - Includes advanced attributes such as electrical parameters, flow capacities, fault probabilities, tap settings, and voltage/reactive power control  
-- Represents corridor constraints, contingency conditions, and flexible network topologies  
-- Compatible with standard power flow databases and allows import from **PSS®E**, **PSLF**, and **other formats**
+Represents corridor constraints, simple and multiple contingency conditions, and flexible network topologies  
+- Improved compatibility with other AC grid analysis tools such as **PSS®E** and others, allowing importing and exporting data  
 
 ### 🛠️ Maintenance planning
 
