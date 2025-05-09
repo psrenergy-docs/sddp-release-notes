@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc4
+
+📅 Date: 2025-05-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc4-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Fixed the writing of the hydro maximum operative storage marginal cost output
+
+
 # SDDP 17.3.12rc3
 
 📅 Date: 2025-05-05<br>
