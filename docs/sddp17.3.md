@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc5
+
+📅 Date: 2025-05-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc5-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Fixed the consideration of the reactance minimum tolerance in the network modeling
+
+
 # SDDP 17.3.12rc4
 
 📅 Date: 2025-05-09<br>
