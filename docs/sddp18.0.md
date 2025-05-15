@@ -171,7 +171,26 @@ This version introduces several improvements to modeling capabilities, enabling 
 - **Dynamic Line Rating (DLR)**:
   - Supports **user-defined DLR scenarios**, in addition to automated scenario generation via the **Time Series Lab**
 
+## 🤖 PSR Factory: automation and API integration
+
+**PSR Factory** is a Python-based Application Programming Interface (API) designed to streamline the creation, editing, and management of databases across all models.
+
+- Enables users to add, update, or remove elements such as plants, systems, buses, and more
+- Uses a simple and intuitive object model built around three core components: `Study`, `DataObject`, and `DataFrame`
+- Provides a concise set of functions for efficient data manipulation and model configuration
+- Fully compatible with the broader Python ecosystem, allowing integration with packages for simulation control, versioning, and result processing
+- Ideal for **workflow automation**, batch processing, reproducibility, and integration with external systems
+
+
 ## 📁 Data compatibility and migration
 
-- Internal architecture restructured to unify all models under one execution framework  
-- Discontinued legacy files and input formats. Migration tools and warnings guide the transition  
+SDDP 18.0 introduces a redesigned data architecture that enhances consistency, scalability, and integration across the entire platform.
+
+- Internal structure unified across all models, consolidating configuration, execution, and results under a single framework  
+- Several legacy input formats and files have been discontinued; dedicated migration tools and compatibility checks assist users during the transition  
+- Complete redesign of the **transmission network data structure**, enabling more detailed and robust modeling  
+- New support for **reactive power input fields**, facilitating integration with  power flow and grid analysis tools  
+- The previous limitation of **5-digit codes** and **12-character names** for network elements has been eliminated, allowing for more descriptive and standardized naming  
+- **Migration of existing data** will be triggered automatically when the case is opened through the interface for the first time  
+
+> ⚠️ **Important**: The updated data format is **not compatible** with earlier SDDP versions. It is strongly recommended to create and store a backup copy of your project files before using version 18.0 if you intend to maintain compatibility with previous releases.
