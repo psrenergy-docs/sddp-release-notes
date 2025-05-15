@@ -89,7 +89,7 @@ A detailed transmission model is essential for accurately representing key aspec
 Represents corridor constraints, simple and multiple contingency conditions, and flexible network topologies  
 - Improved compatibility with other AC grid analysis tools such as **PSS®E** and others, allowing importing and exporting data  
 
-### 🛠️ Maintenance planning
+### 🛠️ Maintenance scheduling
 
 Enables the **explicit and high-resolution modeling of maintenance schedules**, allowing users to move beyond simplified capacity derating and achieve more accurate planning results.
 
