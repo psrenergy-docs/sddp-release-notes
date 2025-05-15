@@ -59,6 +59,16 @@ The new interface delivers a fully redesigned and unified environment for energy
   - Mathematical modeling references  
   - Troubleshooting articles
 
+### 🤖 PSR Factory: automation and API integration
+
+**PSR Factory** is a Python-based Application Programming Interface (API) designed to streamline the creation, editing, and management of databases across all models.
+
+- Enables users to add, update, or remove elements such as plants, systems, buses, and more  
+- Uses a simple and intuitive object model built around three core components: `Study`, `DataObject`, and `DataFrame`  
+- Provides a concise set of functions for efficient data manipulation and model configuration  
+- Fully compatible with the broader Python ecosystem, allowing integration with packages for simulation control, versioning, and result processing  
+- Ideal for **workflow automation**, batch processing, reproducibility, and integration with external systems
+
 ## ⚡ Energy system modeling
 
 ### 🔗 Energy supply chains
@@ -170,17 +180,6 @@ This version introduces several improvements to modeling capabilities, enabling 
 
 - **Dynamic Line Rating (DLR)**:
   - Supports **user-defined DLR scenarios**, in addition to automated scenario generation via the **Time Series Lab**
-
-## 🤖 PSR Factory: automation and API integration
-
-**PSR Factory** is a Python-based Application Programming Interface (API) designed to streamline the creation, editing, and management of databases across all models.
-
-- Enables users to add, update, or remove elements such as plants, systems, buses, and more
-- Uses a simple and intuitive object model built around three core components: `Study`, `DataObject`, and `DataFrame`
-- Provides a concise set of functions for efficient data manipulation and model configuration
-- Fully compatible with the broader Python ecosystem, allowing integration with packages for simulation control, versioning, and result processing
-- Ideal for **workflow automation**, batch processing, reproducibility, and integration with external systems
-
 
 ## 📁 Data compatibility and migration
 
