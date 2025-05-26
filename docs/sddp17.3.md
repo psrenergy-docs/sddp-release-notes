@@ -3,6 +3,20 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc6
+
+📅 Date: 2025-05-26<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc6-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Fixed the behavior of generic constraint requirement chronological data when it
+    is not defined for the whole case horizon
+
+
 # SDDP 17.3.12rc5
 
 📅 Date: 2025-05-14<br>
