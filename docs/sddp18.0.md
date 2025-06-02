@@ -3,6 +3,42 @@ title: "SDDP 18.0"
 nav_order: 10
 ---
 
+# SDDP 18.0.1rc2
+
+📅 Date: 2025-06-02 _(to be released)_<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip-linux.zip)
+
+## Operation Planning Module (SDDP)
+
+* Fixed bugs
+  * GUI
+    * Increased code limit for transmission lines
+
+## Expansion Planning Module (OptGen)
+
+* Fixed bugs
+  * Model
+    * Fixed model execution while using the MSMPI
+
+
+# SDDP 18.0.1rc1
+
+📅 Date: 2025-05-28 _(to be released)_<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc1-setup.zip-linux.zip)
+
+## Operation Planning Module (SDDP)
+
+* Fixed bugs
+  * GUI
+    * Correction to enable shortcuts as case path 
+
+
 # SDDP 18.0 – Integrated Energy System Planning Platform
 
 📅 Date: 2025-05-19 _(to be released)_<br>
