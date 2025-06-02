@@ -11,17 +11,15 @@ nav_order: 10
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip-linux.zip)
 
-## Operation Planning Module (SDDP)
-
-* Fixed bugs
-  * GUI
-    * Increased code limit for transmission lines
-
 ## Expansion Planning Module (OptGen)
 
 * Fixed bugs
-  * Model
-    * Fixed model execution while using the MSMPI
+  * Fixed model execution while using the MSMPI
+
+## Graphical user interface
+
+* Fixed bugs
+  * Increased code limit for transmission lines
 
 
 # SDDP 18.0.1rc1
@@ -32,11 +30,10 @@ nav_order: 10
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc1-setup.zip-linux.zip)
 
-## Operation Planning Module (SDDP)
+## Graphical user interface
 
 * Fixed bugs
-  * GUI
-    * Correction to enable shortcuts as case path 
+  * Correction to enable shortcuts as case path
 
 
 # SDDP 18.0 – Integrated Energy System Planning Platform
