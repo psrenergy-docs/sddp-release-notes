@@ -3,48 +3,16 @@ title: "SDDP 18.0"
 nav_order: 10
 ---
 
-# SDDP 18.0.1rc2
-
-📅 Date: 2025-06-02 _(to be released)_<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip-linux.zip)
-
-## Expansion Planning Module (OptGen)
-
-* Fixed bugs
-  * Fixed model execution while using the MSMPI
-
-## Graphical user interface
-
-* Fixed bugs
-  * Increased code limit for transmission lines
-
-
-# SDDP 18.0.1rc1
-
-📅 Date: 2025-05-28 _(to be released)_<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc1-setup.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc1-setup.zip-linux.zip)
-
-## Graphical user interface
-
-* Fixed bugs
-  * Correction to enable shortcuts as case path
-
-
 # SDDP 18.0 – Integrated Energy System Planning Platform
 
-📅 Date: 2025-05-19 _(to be released)_<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0-setup.zip)
+📅 Official Release Date (expected): 2025-06-16<br>
+🔗 Release candidate available for download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0-setup-linux.zip)
+Linux (_available soon_)
+<!-- [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0-setup-linux.zip) -->
 
-Please visit the [release site](https://psr-energy.com/software/sddp-18.0.html) to explore the highlights of this release.
+<!-- Please visit the [release site](https://psr-energy.com/software/sddp-18.0.html) to explore the highlights of this release. -->
 
 ## 🚀 A unified experience across all planning horizons
 
@@ -224,5 +192,8 @@ SDDP 18.0 introduces a redesigned data architecture that enhances consistency, s
 - New support for **reactive power input fields**, facilitating integration with  power flow and grid analysis tools  
 - The previous limitation of **5-digit codes** and **12-character names** for network elements has been eliminated, allowing for more descriptive and standardized naming  
 - **Migration of existing data** will be triggered automatically when the case is opened through the interface for the first time  
+- **Improved scenario loading behavior**: scenario-based data (e.g., injections, renewables) are now stored in a fast direct-access format, allowing the interface to load only the relevant data for the selected agent or system. This avoids unnecessary pre-loading and significantly improves performance in large models.  
+- Although the initial **conversion to single-bin format** may take slightly longer — as it performs a more robust and complete transformation — this process occurs only once per study. Subsequent interactions benefit from faster screen loading and smoother navigation.
+
 
 > ⚠️ **Important**: The updated data format is **not compatible** with earlier SDDP versions. It is strongly recommended to create and store a backup copy of your project files before using version 18.0 if you intend to maintain compatibility with previous releases.
