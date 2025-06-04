@@ -3,6 +3,22 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc7
+
+📅 Date: 2025-06-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc7-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Fixed minimum turbining marginal cost and maximum operative storage marginal
+    cost outputs signs
+  * Hourly representation
+    * Fixed hydro initial storage with chronological blocks
+
+
 # SDDP 17.3.12rc6
 
 📅 Date: 2025-05-26<br>
