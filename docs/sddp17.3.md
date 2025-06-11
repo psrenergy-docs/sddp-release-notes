@@ -3,6 +3,19 @@ title: "SDDP 17.3"
 nav_order: 2
 ---
 
+# SDDP 17.3.12rc9
+
+📅 Date: 2025-06-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.12rc9-setup-linux.zip)
+
+## Fixed bugs
+* Model
+  * Fixed an issue in the dashboard generation
+
+
 # SDDP 17.3.12rc8
 
 📅 Date: 2025-06-09<br>
