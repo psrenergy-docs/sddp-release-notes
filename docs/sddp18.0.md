@@ -7,7 +7,7 @@ nav_order: 10
 
 📅 Official Release Date (expected): 2025-06-16<br>
 🔗 Release candidate available for download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc2-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc6-setup.zip)
 \|
 Linux (_available soon_)
 <!-- [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0-setup-linux.zip) -->
