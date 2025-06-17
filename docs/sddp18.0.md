@@ -5,7 +5,7 @@ nav_order: 10
 
 # SDDP 18.0 – Integrated Energy System Planning Platform
 
-📅 Official Release Date (expected): 2025-06-16<br>
+📅 Official Release Date (expected): 2025-06-17<br>
 🔗 Release candidate available for download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1rc6-setup.zip)
 \|
@@ -14,25 +14,33 @@ Linux (_available soon_)
 
 <!-- Please visit the [release site](https://psr-energy.com/software/sddp-18.0.html) to explore the highlights of this release. -->
 
-## 🚀 A unified experience across all planning horizons
+## 🚀 Unified platform for integrated energy system planning
 
-This release marks a major milestone. **SDDP 18.0 introduces a unified platform** for operation and expansion planning, reliability analysis and maintenance scheduling — offering a seamless experience, from graphical interface to execution and results analysis.
+**SDDP 18.0 consolidates operation, expansion, maintenance, and reliability planning into a single integrated platform** — offering a seamless experience with shared data, consistent modeling structures, and a unified execution environment.
 
-## 🔷 Graphical interface
+This release introduces a redesigned interface, powerful new modeling capabilities, and advanced automation tools to support high-resolution studies across technologies and planning horizons.
 
-The new interface delivers a fully redesigned and unified environment for energy system planning. All modules — operation (SDDP), expansion (OptGen), reliability (CORAL) and maintenance — are now accessible from a single platform, offering a consistent, responsive, and user-friendly experience.
+From energy storage and efficiency programs to security-constrained dispatch, generation and network expansion, and integrated energy supply chains — SDDP 18.0 supports a streamlined workflow for building, executing, and analyzing complex studies with technical consistency and full transparency.
 
-### 🌐 Unified layout and planning integration
+SDDP 18.0 brings to energy system planning the full capabilities of PSR’s mathematical optimization engine — designed and continuously enhanced over decades to address real-world challenges. At its core is our Stochastic Dual Dynamic Programming (SDDP) algorithm, originally developed by PSR and recognized as the state-of-the-art approach for modeling intertemporal decision-making under uncertainty, particularly those involving storage, flexibility, and multi-stage planning.
 
-- **Single platform** for configuration, execution, and analysis of all SDDP-based models.
+This methodology is now applied across all segments of the energy sector — including electricity, water, natural gas, hydrogen, biomass, and other integrated supply chains — all of which can be jointly modeled and co-optimized within a unified decision framework that supports large-scale studies with rigorous stochastic representation.
+
+## 🔷 Graphical interface and user experience
+
+The new interface provides a cohesive workspace for managing all aspects of energy system modeling. All modules — including operation (SDDP), expansion (OptGen), reliability (CORAL), and maintenance (OptMain) — are now accessed through a single interface with a user-friendly experience with aligned logic, visual structure, and workflows.
+
+### 🌐 Integrated model management
+
+- **Single platform** for configuration, execution, and analysis of all planning models.
 - Fully integrated environment for operation and expansion planning, reliability analysis and maintenance scheduling.
 - **No need for external tools or switching contexts** — everything is accessible in one place.
 
-### 🗂️ Flexible data interaction
+### 🗂️ Efficient data interaction
 
 - **Bulk data edition**: tabular views support editing, grouping, and filtering of all input data.
 - **Smart filters**: dynamic grouping by system, region, technology, or other dimensions.
-- **Inline charting**: visualize key relationships (e.g., volume × production) directly within data grids.
+- **Inline charting**: visualize key relationships directly within data grids.
 - **Excel integration**: import/export supported for all input data and output results.
 - **Mass-editable grids**: scrollable, filterable tables provide a comprehensive overview of modeling data.
 
@@ -43,16 +51,16 @@ The new interface delivers a fully redesigned and unified environment for energy
 - **Multiple visualization modes**, including:
   - Animated flows on circuits and cascades
   - Scaled node representation (e.g., capacity, cost, stored energy)
-  - Contour plots for marginal costs, generation, and energy balance
+  - Contour plots for marginal costs, generation, energy balance, and other variables
 
 ### 📊 Built-in dashboards and result analysis
 
 - **Interactive charting** through the graphical interface: point-and-click customization of dashboards by selecting variables, time horizons, scenarios, and filters.
 - **Automated dashboards with PSRIO**: customized post-processing dashboards are generated automatically after each execution, supporting standardized and collaborative workflows.
 - **Built-in dashboard**: each case includes a ready-to-use dashboard summarizing solution quality, convergence, cost and revenue breakdowns, constraint violations, results by region, marginal costs, execution times, and key information.
-- **Comparative dashboards**: analyze multiple cases side-by-side, either with the built-in comparison view or fully customized dashboards via PSRIO.
+- **Comparative dashboards**: support to sensitivity and scenario analysis by analyzing multiple cases side-by-side, either with the built-in comparison dashboard or custom-dashboards.
 
-### 📚 Help system and support
+### 📚 Help system and documentation
 
 - New **integrated help platform**, the **PSR Knowledge Hub**, with direct access to:
   - Interface guide  
@@ -74,7 +82,7 @@ The new interface delivers a fully redesigned and unified environment for energy
 
 ### 🔗 Energy supply chains
 
-Detailed modeling of energy supply chains, enabling integrated planning of electricity, natural gas, hydrogen, biomass, Power-to-X, X-to-Y, and more.
+Detailed modeling of energy supply chains, enabling integrated planning of electricity, natural gas, hydrogen, biomass, Power-to-X, X-to-Y, and more. These supply chains can be co-optimized with power system operations and expansions in a fully integrated framework.
 
 - **Comprehensive supply chain modeling**: represent the full cycle of energy transformation, including production, transport, conversion, storage, and demand.
 - **Multiple energy carriers**: define energy networks for fuels such as natural gas, hydrogen, methanol, biogas, electricity, and synthetic products.
@@ -97,12 +105,12 @@ A detailed transmission model is essential for accurately representing key aspec
 
 - Supports a wide range of **AC and DC components**: lines, 2- and 3-winding transformers, LCC and VSC converters, flexible AC transmission systems, and reactive power compensation  
 - Includes advanced attributes such as electrical parameters, flow capacities, fault probabilities, tap settings, and voltage/reactive power control  
-Represents corridor constraints, simple and multiple contingency conditions, and flexible network topologies  
+- Supports corridor constraints, single and multi-contingency security criteria, and flexible topological configurations.
 - Improved compatibility with other AC grid analysis tools such as **PSS®E** and others, allowing importing and exporting data  
 
 ### 🛠️ Maintenance scheduling
 
-Enables the **explicit and high-resolution modeling of maintenance schedules**, allowing users to move beyond simplified capacity derating and achieve more accurate planning results.
+Enables **high-resolution maintenance modeling**, replacing simplified derating with explicit scheduling and operational constraints, achieving more accurate planning results.
 
 - Particularly valuable in contexts where **hourly dynamics and short-term constraints** matter for both operation and expansion planning—helping avoid distortions caused by average availability assumptions.
 - Also supports **system operators and coordination agents** in approving, aggregating, or rescheduling maintenance requests under reliability and feasibility criteria.
@@ -132,7 +140,7 @@ Modeling of energy efficiency programs as investment decisions that reduce or re
 
 ## ⚙️ Modeling improvements
 
-This version introduces several improvements to modeling capabilities, enabling more accurate representations, new investment options, and expanded flexibility for users.
+This version introduces several improvements to modeling capabilities, enabling more accurate representations, new investment options, and greater flexibility for custom applications.
 
 ### ⏱️ Dynamic convergence strategy for hourly MIP
 
@@ -169,7 +177,7 @@ This version introduces several improvements to modeling capabilities, enabling 
 
 ### 🔁 Transmission network enhancements
 
-- **Multi-contingency SCOPF**: support for custom N-k contingency sets  
+- **Multi-contingency SCOPF**: support for custom N-k contingency sets for security-constrained dispatch
 - **Improved loss modeling**: better selection of linearizations and marginal cost calculation methods
 
 ### 🎲 Uncertainty representation
