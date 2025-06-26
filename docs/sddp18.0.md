@@ -142,7 +142,7 @@ Modeling of energy efficiency programs as investment decisions that reduce or re
 
 This version introduces several improvements to modeling capabilities, enabling more accurate representations, new investment options, and greater flexibility for custom applications.
 
-### ⏱️ Dynamic convergence strategy for hourly MIP
+### ⏱️ Dynamic convergence strategy for MIPs
 
 - Supports a **dynamic relative gap strategy** to enhance computational efficiency while maintaining solution quality
 - Users can define multiple time intervals with different maximum relative gaps, which the solver adapts to during execution
