@@ -10,13 +10,17 @@ The release notes of the current and all previous official versions are just for
 
 # Current version
 
+* Version 18.0
+  * 📅 Release date: July 2024
+  * 🌐 [Release site](http://psr-energy.com/software/sddp-18.0.html)
+  * 📝 [Detailed changelog](sddp18.0.md)
+
+# Previous versions
+
 * Version 17.3
   * 📅 Release date: March 2024
   * 🌐 [Release site](http://psr-energy.com/software/sddp-17.3.html)
   * 📝 [Detailed changelog](sddp17.3.md)
-
-# Previous versions
-
 * Version 17.2
   * 📅 Released on: December 2022
   * 🌐 [Release site](http://psr-energy.com/software/sddp-17.2.html)
