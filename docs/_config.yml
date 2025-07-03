@@ -15,6 +15,12 @@ toc:
             url: /sddp18.0-changelog
   - title: Previous versions
     subfolderitems:
+      - title: SDDP 17.3
+        subfolderitems:
+          - page: Release notes
+            url: /sddp17.3-release-notes
+          - page: Detailed changelog
+            url: /sddp17.3-changelog
       - page: SDDP 17.3
         url: /sddp17.3
       - page: SDDP 17.2
