@@ -7,8 +7,9 @@ layout: default
 
 # SDDP 17.3
 
-Please refer to the [release site](http://psr-energy.com/software/sddp-17.3.html) and check out the most important features
+🌐 Please refer to the [release site](http://psr-energy.com/software/sddp-17.3.html) and check out the most important features
 developed on this release.
+📝 For the detailed changelog and download links, please visit [this page](sddp17.3-changelog.md).
 
 ## New features and improvements
 

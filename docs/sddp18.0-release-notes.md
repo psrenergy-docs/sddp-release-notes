@@ -7,6 +7,8 @@ layout: default
 
 # SDDP 18.0 – Integrated Energy System Planning Platform
 
+🌐 Please refer to the [release site](http://psr-energy.com/software/sddp-18.0.html) and check out the most important features
+developed on this release.
 📝 For the detailed changelog and download links, please visit [this page](sddp18.0-changelog.md).
 
 ## 🚀 Unified platform for integrated energy system planning
