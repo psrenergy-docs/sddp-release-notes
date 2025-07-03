@@ -1,7 +1,8 @@
 ---
 title: "SDDP 18.0 - Release notes"
-parent: SDDP 18.0.x
+parent: "SDDP 18.0"
 nav_order: 1
+layout: default
 ---
 
 # SDDP 18.0 – Integrated Energy System Planning Platform
