@@ -9,16 +9,18 @@ toc:
     subfolderitems:
       - page: SDDP 18.0
         url: /sddp18.0
-  - title: Older versions
+  - title: Previous versions
     subfolderitems:
-      - page: SDDP 17.3
-        url: /sddp17.3
-      - page: SDDP 17.2
-        url: /sddp17.2
-      - page: SDDP 17.1
-        url: /sddp17.1
-      - page: SDDP 17.0
-        url: /sddp17.0
+      - title: SDDP 17.x
+        subfolderitems:
+          - page: SDDP 17.3
+            url: /sddp17.3
+          - page: SDDP 17.2
+            url: /sddp17.2
+          - page: SDDP 17.1
+            url: /sddp17.1
+          - page: SDDP 17.0
+            url: /sddp17.0
       - page: SDDP 16.0
         url: /sddp16.0
       - page: SDDP 15.1

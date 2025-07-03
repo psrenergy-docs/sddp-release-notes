@@ -1,17 +1,12 @@
 ---
-title: "SDDP 18.0"
-nav_order: 2
+title: "SDDP 18.0 - Release notes"
+parent: SDDP 18.0.x
+nav_order: 1
 ---
 
 # SDDP 18.0 – Integrated Energy System Planning Platform
 
-📅 Date: 2025-07-02<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1-setup.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.1-setup-linux.bin)
-
-<!-- Please visit the [release site](https://psr-energy.com/software/sddp-18.0.html) to explore the highlights of this release. -->
+📝 For the detailed changelog and download links, please visit [this page](sddp18.0-changelog.md).
 
 ## 🚀 Unified platform for integrated energy system planning
 
