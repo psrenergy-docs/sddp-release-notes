@@ -1,5 +1,5 @@
 ---
-title: "SDDP 18.0 - Release notes"
+title: "Release notes"
 parent: "SDDP 18.0"
 nav_order: 1
 layout: default
