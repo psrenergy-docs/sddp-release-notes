@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2rc4
+📅 Date: 2025-07-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+*  Fixed bugs
+  * Fixed coordinated execution with network representation
+
+## Graphical user interface
+*  Fixed bugs
+  * Changed column type for thermal plant maximum generation to enable proper filtering
+
+
 # SDDP 18.0.2rc3
 📅 Date: 2025-07-12<br>
 🔗 Download:
