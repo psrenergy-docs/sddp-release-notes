@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2rc5
+📅 Date: 2025-07-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+*  Fixed bugs
+  * Fixed energy efficiency OptGen cuts when defined in per-unit (pu)
+
+## Graphical user interface
+*  Fixed bugs
+  * Fixed registration of multi-fuel thermal plants
+  * Fixed database conversion when battery modification file contains non-existent elements
+
+
 # SDDP 18.0.2rc4
 📅 Date: 2025-07-14<br>
 🔗 Download:
