@@ -15,6 +15,7 @@ layout: default
 ## Operation Planning Module (SDDP)
 *  Fixed bugs
   * Fixed energy efficiency OptGen cuts when defined in per-unit (pu)
+  * Fixed generic constraints and thermal emissions consideration in coordinated policy execution
 
 ## Graphical user interface
 *  Fixed bugs
