@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2rc6
+📅 Date: 2025-07-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc6-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed a memory invasion issue in coordinated cases
+
+
 # SDDP 18.0.2rc5
 📅 Date: 2025-07-15<br>
 🔗 Download:
@@ -14,6 +26,7 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
+  * Added missing dependencies to Linux setup
   * Fixed energy efficiency OptGen cuts when defined in per-unit (pu)
   * Fixed generic constraints and thermal emissions consideration in coordinated policy execution
 
