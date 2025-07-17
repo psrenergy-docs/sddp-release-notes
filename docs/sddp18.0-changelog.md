@@ -13,12 +13,12 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup-linux.zip)
 
 ## Operation Planning Module (SDDP)
-*  Fixed bugs
+###  Fixed issues
   * Fixed energy efficiency OptGen cuts when defined in per-unit (pu)
   * Fixed generic constraints and thermal emissions consideration in coordinated policy execution
 
 ## Graphical user interface
-*  Fixed bugs
+###  Fixed issues
   * Fixed registration of multi-fuel thermal plants
   * Fixed database conversion when battery modification file contains non-existent elements
 
@@ -31,11 +31,11 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup-linux.zip)
 
 ## Operation Planning Module (SDDP)
-*  Fixed bugs
+###  Fixed issues
   * Fixed coordinated execution with network representation
 
 ## Graphical user interface
-*  Fixed bugs
+###  Fixed issues
   * Changed column type for thermal plant maximum generation to enable proper filtering
 
 
@@ -47,7 +47,7 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc3-setup-linux.zip)
 
 ## Graphical user interface
-*  New features and improvements
+###  New features and improvements
   * Reduced minimum installation requirements to Windows 8.1 and Windows Server 2012 R2. For versions
     below Windows 10 and Windows Server 2016, it will be necessary update the WebView2 component
     during SDDP's installation
@@ -61,7 +61,7 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc2-setup-linux.zip)
 
 ## Operation Planning Module (SDDP)
-*  Fixed bugs
+###  Fixed issues
   * Fixed the consideration of fuel prices varying per scenario
 
 
@@ -73,7 +73,7 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc1-setup-linux.zip)
 
 ## Expansion Planning Module (OptGen)
-*  Fixed bugs
+###  Fixed issues
   * Fixed an error related to demand-based requirement constraints
 
 
