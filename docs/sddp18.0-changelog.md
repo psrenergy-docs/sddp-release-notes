@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2rc7
+📅 Date: 2025-07-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc7-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New features and improvements
+  * New output: generic linear constraint value
+
+
 # SDDP 18.0.2rc6
 📅 Date: 2025-07-17<br>
 🔗 Download:
