@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2rc8
+📅 Date: 2025-07-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc8-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Adjustment in hydro capacity output (phidsf.csv) to consider piecewise functions involving maximum turbining
+
+
 # SDDP 18.0.2rc7
 📅 Date: 2025-07-23<br>
 🔗 Download:
