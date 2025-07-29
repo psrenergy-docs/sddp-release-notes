@@ -5,6 +5,30 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.2
+📅 Date: 2025-08-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup-linux.zip)
+
+## Operation Planning Module (OptGen)
+### Fixed Issues
+#### OptGen 1
+  * Fixed an error with energy efficiency projects with data defined in p.u of the demand
+  * Fixed an error when there are generic investment constraints and no min/max constraint
+  * Fixed errors when running OptGen with PSRCloud 5.4
+  
+#### OptGen 2
+  * Fixed data validation issues when running with TSL scenarios
+  * Fixed an error related to reserve requirement constraints backing DC Links
+  * Fixed an error related to the DPR calculations when there are renewable projects being backed
+
+### New features and improvements
+#### OptGen 2
+  * Added debug output files to generic investment constraints (opt2_genericlhs.csv, opt2_genericrhs.csv, opt2_genericagents.csv, opt2_genericdbg.csv)
+
+
 # SDDP 18.0.2rc8
 📅 Date: 2025-07-29<br>
 🔗 Download:
