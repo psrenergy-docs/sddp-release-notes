@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+
+# SDDP 18.0.2
+📅 Date: 2025-08-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed the writing of some outputs in typical days execution with aggregation in the policy phase
+  * Hourly representation
+    * Fixed the consideration of generation offers
+
+
 # SDDP 18.0.2rc8
 📅 Date: 2025-07-29<br>
 🔗 Download:
