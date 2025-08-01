@@ -12,6 +12,12 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup-linux.zip)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed the writing of some outputs in typical days execution with aggregation in the policy phase
+  * Hourly representation
+    * Fixed the consideration of generation offers
+
 ## Operation Planning Module (OptGen)
 ### Fixed Issues
 #### OptGen 1
@@ -27,7 +33,6 @@ layout: default
 ### New features and improvements
 #### OptGen 2
   * Added debug output files to generic investment constraints (opt2_genericlhs.csv, opt2_genericrhs.csv, opt2_genericagents.csv, opt2_genericdbg.csv)
-
 
 # SDDP 18.0.2rc8
 📅 Date: 2025-07-29<br>
