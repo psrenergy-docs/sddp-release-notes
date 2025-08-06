@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc1
+📅 Date: 2025-08-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### Fixed Issues
+#### OptGen 2
+  * Fixed an error related to the installed capacity of future projects in min/max investment constraints
+  * Fixed an error in generic operative constraints including demand segment variables
+
 # SDDP 18.0.2
 📅 Date: 2025-08-01<br>
 🔗 Download:
@@ -18,7 +31,7 @@ layout: default
   * Hourly representation
     * Fixed the consideration of generation offers
 
-## Operation Planning Module (OptGen)
+## Expansion Planning Module (OptGen)
 ### Fixed Issues
 #### OptGen 1
   * Fixed an error with energy efficiency projects with data defined in p.u of the demand
