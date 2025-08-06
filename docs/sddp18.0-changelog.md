@@ -12,6 +12,10 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup-linux.zip)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed the loading of CSP bus connection
+
 ## Expansion Planning Module (OptGen)
 ### Fixed Issues
 #### OptGen 2
