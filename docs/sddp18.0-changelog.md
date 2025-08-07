@@ -5,25 +5,8 @@ nav_order: 2
 layout: default
 ---
 
-# SDDP 18.0.3rc2
-📅 Date: 2025-08-07<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup-linux.zip)
-
-## Expansion Planning Module (OptGen)
-### Fixed Issues
-#### OptGen 2
-  * Fixed an error related to operative generic  constraints
-  * Fixed an error in generic operative constraints including demand segment variables
-
-### New features and improvements
-#### OptGen 2
-  * Improve warning message of excess generation infeasibility showing the name of each bus/area/system where it occurs
-
 # SDDP 18.0.3rc1
-📅 Date: 2025-08-06<br>
+📅 Date: 2025-08-07<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup.zip)
 \|
@@ -38,6 +21,13 @@ layout: default
 #### OptGen 2
   * Fixed an error related to the installed capacity of future projects in min/max investment constraints
   * Fixed an error in generic operative constraints including demand segment variables
+  * Fixed an error related to operative generic  constraints
+  * Fixed an error in generic operative constraints including demand segment variables
+
+### New features and improvements
+#### OptGen 2
+  * Improve warning message of excess generation infeasibility showing the name of each bus/area/system where it occurs
+
 
 # SDDP 18.0.2
 📅 Date: 2025-08-01<br>
