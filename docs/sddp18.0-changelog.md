@@ -5,6 +5,17 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc2
+📅 Date: 2025-08-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup-linux.zip)
+
+## Maintenance Planning Module (OptMain)
+###  Fixed issues
+  * Fixed an error related to weekly stages cases
+
 # SDDP 18.0.3rc1
 📅 Date: 2025-08-07<br>
 🔗 Download:
