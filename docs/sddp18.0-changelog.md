@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc3
+📅 Date: 2025-08-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc3-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an specific issue that prevented the execution when using the Markov inflow model
+  * Included the representation of the start-up cost for hydro plants with commitment
+    representation in the block resolution
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed import/export of blank values in the historical inflow data per stage
+  * Fixed file format of the hourly historical inflow data
+
+
 # SDDP 18.0.3rc2
 📅 Date: 2025-08-13<br>
 🔗 Download:
