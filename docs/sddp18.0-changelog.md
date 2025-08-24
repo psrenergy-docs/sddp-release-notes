@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc4
+📅 Date: 2025-08-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc4-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+####  OptGen 1
+  * Fixed an issue with post processing tool (PSRIO)
+  * Fixed an issue with resilience planning and rolling horizons
+
 # SDDP 18.0.3rc3
 📅 Date: 2025-08-19<br>
 🔗 Download:
