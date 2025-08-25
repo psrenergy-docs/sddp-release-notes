@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc5
+📅 Date: 2025-08-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc5-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed sum of circuit flow constraint unlimited lower bound option
+
+
 # SDDP 18.0.3rc4
 📅 Date: 2025-08-24<br>
 🔗 Download:
@@ -17,6 +29,7 @@ layout: default
 ####  OptGen 1
   * Fixed an issue with post processing tool (PSRIO)
   * Fixed an issue with resilience planning and rolling horizons
+
 
 # SDDP 18.0.3rc3
 📅 Date: 2025-08-19<br>
