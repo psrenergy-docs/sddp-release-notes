@@ -5,6 +5,32 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3rc6
+📅 Date: 2025-08-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc6-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+### New features and improvements
+  * Added transformer flow and DC line flow variables to generic constraints
+  * New output: energy efficiency applied
+
+###  Fixed issues
+  * Compatibilized the maximum battery charging capacity between the hourly and block models. Now, the
+    maximum charging capacity is applied to the energy inside the battery in the block model, as previously
+    done in the hourly model
+  * Fixed the application of an hourly energy efficiency defined in p.u. to an hourly demand
+  * Fixed an issue in the representation of the Markov infow model in a simulation execution
+  * Fixed multi-fuel thermal plant association to electrical bus for cases created in version 18
+  
+## Graphical user interface
+###  Fixed issues
+  * Fixed an issue that prevented the use of the hot-start option
+  * Fixed the thermal operation mode field definition
+
+
 # SDDP 18.0.3rc5
 📅 Date: 2025-08-25<br>
 🔗 Download:
