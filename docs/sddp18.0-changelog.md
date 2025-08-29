@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.3
+📅 Date: 2025-08-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+####  OptGen 2
+  * Fixed an issue with the Firm Capacity Automatic Calculation (PFCA,1) feature
+  * Fixed an issue with multi-fuel thermal plants with fuel exclusive generation
+
+
 # SDDP 18.0.3rc6
 📅 Date: 2025-08-27<br>
 🔗 Download:
