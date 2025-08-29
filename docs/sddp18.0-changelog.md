@@ -12,6 +12,15 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup-linux.zip)
 
+## Operation Planning Module (SDDP)
+### New features and improvements
+  * Changed header of CSV output files to always be in english
+
+###  Fixed issues
+  * Fixed a possible infinite loop in cases with circuit projects in OptGen integration
+  * Hourly representation
+    * Fixed an issue introduced in recent versions in the correct consideration of thermal plant operation mode (standard or must-run)
+  
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 ####  OptGen 2
