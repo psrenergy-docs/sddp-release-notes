@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc1
+📅 Date: 2025-09-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc1-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+####  OptGen 1
+  * Fixed an issue related to the execution of coordinated cases
+
 # SDDP 18.0.3
 📅 Date: 2025-08-29<br>
 🔗 Download:
