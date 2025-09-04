@@ -5,6 +5,33 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc3
+📅 Date: 2025-09-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc3-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+### New features and improvements
+  * New output: generic interpolation constraint requirement
+
+###  Fixed issues
+  * Fixed the display of some validation error messages
+
+
+# SDDP 18.0.4rc2
+📅 Date: 2025-09-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup-linux.zip)
+
+## Graphical user interface
+###  New features and improvements
+  * Reduced internet access during setup installaton
+
+
 # SDDP 18.0.4rc1
 📅 Date: 2025-09-01<br>
 🔗 Download:
