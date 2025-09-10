@@ -5,6 +5,26 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc5
+📅 Date: 2025-09-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc5-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+### New features and improvements
+  * Included the possibility of defining thermal plants with negative specific consumption,
+    as long as the total fuel consumed is positive
+
+###  Fixed issues
+  * Fixed an issue that prevented the execution of cases with energy efficiency
+
+## Post-contingency analysis
+###  Fixed issues
+  * Fixed execution issues
+
+
 # SDDP 18.0.4rc4
 📅 Date: 2025-09-09<br>
 🔗 Download:
