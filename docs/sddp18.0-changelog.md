@@ -5,6 +5,32 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc6
+📅 Date: 2025-09-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc6-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed the preference of explicit sensitivity factors over implicit ones for input files saved by
+    version 18 GUI
+  * Fixed an issue that prevented the execution of coordinated cases with batteries
+  * Hourly representation
+    * Fixed the calculation of bus marginal costs when there are circuits with the following
+      representations: cost, participation in reserve sharing or in generic constraints
+    * Included the application of the renewable generation sensitivity factor
+
+## Graphical user interface
+###  New features and improvements
+  * Changed default MPI library during installation from MPICH2 to MS-MPI. The compatibility with
+    MPICH2 will be deprecated in the near future
+
+###  Fixed issues
+  * Fixed import/export of renewable plant configuration
+
+    
 # SDDP 18.0.4rc5
 📅 Date: 2025-09-10<br>
 🔗 Download:
@@ -61,7 +87,7 @@ layout: default
 
 ## Graphical user interface
 ###  New features and improvements
-  * Reduced internet access during setup installaton
+  * Reduced internet access during setup installation
 
 
 # SDDP 18.0.4rc1
