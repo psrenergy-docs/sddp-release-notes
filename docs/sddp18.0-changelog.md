@@ -18,6 +18,14 @@ layout: default
   * Fixed the generic interpolation constraint marginal cost output
   * Fixed the consideration of hydro mean production coefficient modifications with 8 characters
 
+## Expansion Planning Module (OptGen)
+### Fixed Issues
+#### OptGen 1
+  * Fixed the creation of hydro mean production coefficient modifications with 8 characters in the SDDP integration
+  
+#### OptGen 2
+  * Fixed the preference of explicit sensitivity factors over implicit ones for input files saved by version 18 GUI
+
 
 # SDDP 18.0.4rc6
 📅 Date: 2025-09-12<br>
@@ -28,8 +36,7 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
-  * Fixed the preference of explicit sensitivity factors over implicit ones for input files saved by
-    version 18 GUI
+  * Fixed the preference of explicit sensitivity factors over implicit ones for input files saved by version 18 GUI
   * Fixed an issue that prevented the execution of coordinated cases with batteries
   * Hourly representation
     * Fixed the calculation of bus marginal costs when there are circuits with the following
