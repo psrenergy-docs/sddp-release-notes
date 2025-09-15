@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc7
+📅 Date: 2025-09-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc7-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc7-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed the representation of generic interpolation constraints in the backward phase
+  * Fixed the generic interpolation constraint marginal cost output
+  * Fixed the consideration of hydro mean production coefficient modifications with 8 characters
+
+
 # SDDP 18.0.4rc6
 📅 Date: 2025-09-12<br>
 🔗 Download:
