@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc8
+📅 Date: 2025-09-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc8-setup-linux.zip)
+
+## Graphical user interface
+###  New features and improvements
+  * Included check for frequent execution errors, indicating the correspondent Knowledge Hub article 
+
+## Post-contingency analysis
+###  Fixed issues
+  * Fixed the consideration of network modifications
+  * Fixed the loading of the bus injection output in CSV format when there was also a binary file 
+
+
 # SDDP 18.0.4rc7
 📅 Date: 2025-09-15<br>
 🔗 Download:
