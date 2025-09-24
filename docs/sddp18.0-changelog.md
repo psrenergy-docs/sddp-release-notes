@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc9
+📅 Date: 2025-09-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc9-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Improved mathematical modeling of generic interpolation constraints to enhance results
+  * Fixed parallel execution with Markov clusters and forward inflows
+
+
 # SDDP 18.0.4rc8
 📅 Date: 2025-09-17<br>
 🔗 Download:
