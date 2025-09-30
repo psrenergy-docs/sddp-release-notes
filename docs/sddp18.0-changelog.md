@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4rc11
+📅 Date: 2025-09-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc11-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc11-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed intermittent issue that prevented execution
+
+
 # SDDP 18.0.4rc10
 📅 Date: 2025-09-29<br>
 🔗 Download:
