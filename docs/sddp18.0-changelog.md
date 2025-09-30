@@ -39,7 +39,6 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
-  * Improved mathematical modeling of generic interpolation constraints to enhance results
   * Fixed parallel execution with Markov clusters and forward inflows
   * Fixed initial battery storage output
   * Fixed option to calculate load matrix for each month in hydro inflows generation
