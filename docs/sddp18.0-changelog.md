@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.4
+📅 Date: 2025-10-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### Fixed Issues
+#### OptGen 1
+  * Fixed reading of hydro production factors.
+  * Fixed reading of demand sensitivities.
+  * Fixed writing of Flow Controller investment decisions in the expansion plan.
+#### OptGen 2
+  * Fixed handling of agent-specific sensitivities.
+
 # SDDP 18.0.4rc11
 📅 Date: 2025-09-30<br>
 🔗 Download:
