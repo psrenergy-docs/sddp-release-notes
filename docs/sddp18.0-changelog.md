@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.5rc1
-📅 Date: 2025-10-06<br>
+📅 Date: 2025-10-08<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc1-setup.zip)
 \|
@@ -14,7 +14,7 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
-  * Fixed case load issue when subset of systems is selected
+  * Fixed hydro generation offer price in the block resolution
 
 ## Expansion Planning Module (OptGen)
 ### Fixed Issues
