@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5rc4
+📅 Date: 2025-10-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc4-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc4-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed option to create teminal future cost function file
+
+
 # SDDP 18.0.5rc3
 📅 Date: 2025-10-17<br>
 🔗 Download:
