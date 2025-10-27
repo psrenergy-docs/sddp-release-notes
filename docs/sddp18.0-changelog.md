@@ -21,6 +21,11 @@ layout: default
     * Fixed the representation of circuit flow sum constraints in executions with network losses
     * Fixed the writing of load per bus output
 
+## Expansion Planning Module (OptGen)
+### Fixed Issues
+#### OptGen 2
+  * Fixed error occurring in Linux environment runs
+
 
 # SDDP 18.0.5rc5
 📅 Date: 2025-10-22<br>
