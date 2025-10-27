@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5rc6
+📅 Date: 2025-10-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New features and improvements
+  * New output: thermal plant consumption per fuel contract
+
+###  Fixed issues
+  * Hourly representation
+    * Fixed the representation of circuit flow sum constraints in executions with network losses
+    * Fixed the writing of load per bus output
+
+
 # SDDP 18.0.5rc5
 📅 Date: 2025-10-22<br>
 🔗 Download:
@@ -20,6 +37,7 @@ layout: default
   * Fixed error related to the maximum generation of thermal plants;
 ###  New features and improvements
   * New Firm Capacity and Firm Energy data for Energy Efficiency.
+
 
 # SDDP 18.0.5rc4
 📅 Date: 2025-10-20<br>
