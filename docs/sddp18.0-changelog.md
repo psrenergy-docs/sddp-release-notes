@@ -5,8 +5,30 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5rc7
+📅 Date: 2025-10-29<br>
+🔗 Download:
+[Windows (online)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup.zip)
+\|
+[Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New features and improvements
+  * Added hydro minimum storage in the modification data
+
+## Setup
+###  New features and improvements
+  * From now on, SDDP will have two installer options:
+      * Online installer: a smaller package that may require an internet connection during installation
+        to download additional components as needed.
+      * Offline installer: a complete package that includes all necessary components and can be used without
+        an internet connection.
+
+
 # SDDP 18.0.5rc6
-📅 Date: 2025-10-27<br>
+📅 Date: 2025-10-28<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup.zip)
 \|
@@ -271,7 +293,7 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup-linux.zip)
 
-## Graphical user interface
+## Setup
 ###  New features and improvements
   * Reduced internet access during setup installation
 
