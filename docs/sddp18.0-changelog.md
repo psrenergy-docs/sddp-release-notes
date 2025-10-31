@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5rc9
+📅 Date: 2025-10-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  New features and improvements
+#### OptGen 1
+  * Removed the limit on the maximum number of modifications
+
+#### OptGen 2
+   * Added the output files opt2_outeea and opt2_outepa with firm energy/capacity for the energy efficiency elements
+
 # SDDP 18.0.5rc8
 📅 Date: 2025-10-30<br>
 🔗 Download:
