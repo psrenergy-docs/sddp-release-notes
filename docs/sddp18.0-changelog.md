@@ -12,6 +12,10 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-linux.zip)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an error related to maintenance of hydro plants
+
 ## Expansion Planning Module (OptGen)
 ###  New features and improvements
 #### OptGen 1
