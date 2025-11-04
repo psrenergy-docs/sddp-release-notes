@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5rc10
+📅 Date: 2025-11-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New features and improvements
+  * New output: hydro generation ramp-up and ramp-down marginal cost
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed element replacement when investing in projects
+
+
 # SDDP 18.0.5rc9
 📅 Date: 2025-11-03<br>
 🔗 Download:
@@ -23,6 +40,7 @@ layout: default
 
 #### OptGen 2
    * Added the output files opt2_outeea and opt2_outepa with firm energy/capacity for the energy efficiency elements
+
 
 # SDDP 18.0.5rc8
 📅 Date: 2025-10-30<br>
