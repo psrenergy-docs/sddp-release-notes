@@ -5,6 +5,28 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.5
+📅 Date: 2025-11-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed issue with the option to monitor only circuits between areas
+  * Fixed an error regarding joint reserves with reserve area, sharing reserves between them
+
+###  New features and improvements
+#### OptGen 1
+  * Added an option (CADY,1 in datoption.csv) to consider the additional years into the benders cut calculation
+
+#### OptGen 2
+  * Added the output opt2_dpreserve.csv with the reserve requirement due to the Dynamic Probablistic Reserve
+
+
+
 # SDDP 18.0.5rc11
 📅 Date: 2025-11-05<br>
 🔗 Download:
