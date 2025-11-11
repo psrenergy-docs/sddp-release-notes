@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.6rc1
+📅 Date: 2025-11-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New features and improvements
+  * Added configuration option to enable/disable reserve sharing between areas
+
+
 # SDDP 18.0.5
 📅 Date: 2025-11-07<br>
 🔗 Download:
@@ -26,7 +38,6 @@ layout: default
   * Added the output opt2_dpreserve.csv with the reserve requirement due to the Dynamic Probablistic Reserve
 
 
-
 # SDDP 18.0.5rc11
 📅 Date: 2025-11-05<br>
 🔗 Download:
@@ -38,6 +49,7 @@ layout: default
 ###  Fixed issues
 #### OptGen 2
   * Fixed issue with firm energy/capacity of EE elements
+
 
 # SDDP 18.0.5rc10
 📅 Date: 2025-11-04<br>
@@ -54,6 +66,7 @@ layout: default
 ###  Fixed issues
 #### OptGen 1
   * Fixed element replacement when investing in projects
+
 
 # SDDP 18.0.5rc9
 📅 Date: 2025-11-03<br>
