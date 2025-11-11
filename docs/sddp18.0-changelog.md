@@ -15,10 +15,12 @@ layout: default
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
   * Added configuration option to enable/disable reserve sharing between areas
+
 ## Expansion Planning Module (OptGen)
 ###  New features and improvements
 #### OptGen 2
-  * Option to enable/disable reserve sharing between areas
+  * Added configuration option to enable/disable reserve sharing between areas
+
 ###  Fixed issues
 #### OptGen 2
   * Fixed issues related to cases with joint reserve areas with no joint reserve selected
