@@ -10,6 +10,8 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup.zip)
 \|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-offline.zip)
+\|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-linux.zip)
 
 ## Operation Planning Module (SDDP)
@@ -30,6 +32,8 @@ layout: default
 📅 Date: 2025-11-07<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-linux.zip)
 
@@ -52,6 +56,8 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup.zip)
 \|
+[Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup-offline.zip)
+\|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup-linux.zip)
 
 ## Expansion Planning Module (OptGen)
@@ -64,6 +70,8 @@ layout: default
 📅 Date: 2025-11-04<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup.zip)
+\|
+[Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-linux.zip)
 
@@ -81,6 +89,8 @@ layout: default
 📅 Date: 2025-11-03<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup.zip)
+\|
+[Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-linux.zip)
 
@@ -101,6 +111,8 @@ layout: default
 📅 Date: 2025-10-30<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup.zip)
+\|
+[Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup-linux.zip)
 
