@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.6rc4
+📅 Date: 2025-11-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup-linux.zip)
+
+## Graphical user interface
+###  Fixed issues
+  * Included the conversion of hydro plant modification file to a new version (version 2), to avoid
+    retrocompatibility issues
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+  * Fixed the consideration of battery available capacity and reserves variables in generic constraint
+
+
 # SDDP 18.0.6rc3
 📅 Date: 2025-11-21<br>
 🔗 Download:
