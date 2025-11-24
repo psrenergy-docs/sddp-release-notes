@@ -15,8 +15,9 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc3-setup-linux.zip)
 
 ## Operation Planning Module (SDDP)
-###  Fixed issues
+###  New features and improvements
   * Added battery available capacity and reserves variables to generic constraint
+
 
 # SDDP 18.0.6rc2
 📅 Date: 2025-11-14<br>
@@ -30,6 +31,7 @@ layout: default
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
   * Fixed representation of generic variable bounds
+
 
 # SDDP 18.0.6rc1
 📅 Date: 2025-11-11<br>
