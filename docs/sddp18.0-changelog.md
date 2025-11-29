@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.6rc5
+📅 Date: 2025-11-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### OptGen 2
+####  Fixed issues
+  * Fixed an issue related to the maximum uptime modelling of thermal plants
+
 # SDDP 18.0.6rc4
 📅 Date: 2025-11-24<br>
 🔗 Download:
