@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.6rc6
+📅 Date: 2025-12-01<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### OptGen 1
+####  Fixed issues
+  * Fixed an issue related to old-licenses verification
+
 # SDDP 18.0.6rc5
 📅 Date: 2025-11-29<br>
 🔗 Download:
