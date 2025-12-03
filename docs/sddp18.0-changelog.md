@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.6
+📅 Date: 2025-12-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### OptGen 1
+####  Fixed issues
+  * Fixed an error related to the outmcap.csv output
+
 # SDDP 18.0.6rc7
 📅 Date: 2025-12-02<br>
 🔗 Download:
