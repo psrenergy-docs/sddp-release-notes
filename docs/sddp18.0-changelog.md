@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc1
+📅 Date: 2025-12-05<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  New Features and Improvements
+  * Allow the definition of unit entrance schedules for all project types
+
 # SDDP 18.0.6
 📅 Date: 2025-12-03<br>
 🔗 Download:
