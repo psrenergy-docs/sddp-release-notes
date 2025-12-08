@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc2
+📅 Date: 2025-12-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved solution strategy in cases where the solver faces numerical issues
+
+###  Fixed issues
+  * Hourly representation
+    * Fixed data behavior when the first years of a chronological constraint are blank
+
 # SDDP 18.0.7rc1
 📅 Date: 2025-12-05<br>
 🔗 Download:
