@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc3
+📅 Date: 2025-12-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup-linux.zip)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed saving of data modifications in the hydro inflow vs. turbining table
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Added geographical location for DC buses
+
+
 # SDDP 18.0.7rc2
 📅 Date: 2025-12-08<br>
 🔗 Download:
@@ -22,6 +40,7 @@ layout: default
   * Hourly representation
     * Fixed data behavior when the first years of a chronological constraint are blank
 
+
 # SDDP 18.0.7rc1
 📅 Date: 2025-12-05<br>
 🔗 Download:
@@ -34,6 +53,7 @@ layout: default
 ## Expansion Planning Module (OptGen)
 ###  New Features and Improvements
   * Allow the definition of unit entrance schedules for all project types
+
 
 # SDDP 18.0.6
 📅 Date: 2025-12-03<br>
@@ -49,6 +69,7 @@ layout: default
 ####  Fixed issues
   * Fixed an error related to the outmcap.csv output
 
+
 # SDDP 18.0.6rc7
 📅 Date: 2025-12-02<br>
 🔗 Download:
@@ -62,6 +83,7 @@ layout: default
 ### OptGen 2
 ####  Fixed issues
   * Fixed an issue related to maximum reserve offer in % of nominal/available capacity
+
 
 # SDDP 18.0.6rc6
 📅 Date: 2025-12-01<br>
@@ -77,6 +99,7 @@ layout: default
 ####  Fixed issues
   * Fixed an issue related to old-licenses verification
 
+
 # SDDP 18.0.6rc5
 📅 Date: 2025-11-29<br>
 🔗 Download:
@@ -90,6 +113,7 @@ layout: default
 ### OptGen 2
 ####  Fixed issues
   * Fixed an issue related to the maximum uptime modelling of thermal plants
+
 
 # SDDP 18.0.6rc4
 📅 Date: 2025-11-24<br>
