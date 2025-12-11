@@ -5,8 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc4
+📅 Date: 2025-12-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+### OptGen 2
+####  Fixed issues
+  * Fixed an error related to reserve sharing outputs when the reserve sharing is turned off
+
 # SDDP 18.0.7rc3
-📅 Date: 2025-12-19<br>
+📅 Date: 2025-12-09<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup.zip)
 \|
@@ -21,7 +35,6 @@ layout: default
 ## Operation Planning Module (SDDP)
 ###  New Features and Improvements
   * Added geographical location for DC buses
-
 
 # SDDP 18.0.7rc2
 📅 Date: 2025-12-08<br>
