@@ -16,6 +16,8 @@ layout: default
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 2
+###  New Features and Improvements
+  * Added hydro outflow ramping constraint
 ####  Fixed issues
   * Fixed an error related to reserve sharing outputs when the reserve sharing is turned off
 
