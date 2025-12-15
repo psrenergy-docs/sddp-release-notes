@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc5
+📅 Date: 2025-12-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue when removing inactive circuits in contingency constraints
+  * Hourly representation
+    * Fixed hydro minimum storage consideration in cases where the hydro modifications file
+      version is lower than 2
+
+
 # SDDP 18.0.7rc4
 📅 Date: 2025-12-11<br>
 🔗 Download:
@@ -20,6 +37,7 @@ layout: default
   * Added hydro outflow ramping constraint
 ####  Fixed issues
   * Fixed an error related to reserve sharing outputs when the reserve sharing is turned off
+
 
 # SDDP 18.0.7rc3
 📅 Date: 2025-12-09<br>
@@ -37,6 +55,7 @@ layout: default
 ## Operation Planning Module (SDDP)
 ###  New Features and Improvements
   * Added geographical location for DC buses
+
 
 # SDDP 18.0.7rc2
 📅 Date: 2025-12-08<br>
