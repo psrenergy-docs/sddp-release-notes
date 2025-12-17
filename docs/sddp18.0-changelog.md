@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc6
+📅 Date: 2025-12-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue in the execution of the DPR calculator
+
+
 # SDDP 18.0.7rc5
 📅 Date: 2025-12-15<br>
 🔗 Download:
