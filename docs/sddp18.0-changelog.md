@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc7
+📅 Date: 2025-12-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup-linux.zip)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue in the initial and final stages definition fields of the post-contingency analysis menu in the GUI
+
+
 # SDDP 18.0.7rc6
 📅 Date: 2025-12-17<br>
 🔗 Download:
