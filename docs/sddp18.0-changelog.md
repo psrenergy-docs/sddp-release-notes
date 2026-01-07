@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7rc8
+📅 Date: 2025-01-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup-linux.zip)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed saving of data modifications in interconnection and sum of interconnection screens
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue in the use of hourly inflows that do not have valid data for all necessary horizon
+
+
 # SDDP 18.0.7rc7
 📅 Date: 2025-12-29<br>
 🔗 Download:
