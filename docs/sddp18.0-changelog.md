@@ -14,6 +14,15 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-linux.zip)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue in the use of hourly inflows that do not have valid data for all necessary horizon
+  * Fixed the writing of states file for simulations with horizons smaller than the policy's in specific configurations
+  * Hourly representation
+    * Fixed modeling of sum of interconnection flow constraints with coefficients greater than 1
+    * Fixed the writing of generic constraints violation and violation cost outputs for constraints
+      with resolution per stage
+  
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 1
@@ -35,10 +44,6 @@ layout: default
 ## Graphical user interface
 ###  Fixed issues
   * Fixed saving of data modifications in interconnection and sum of interconnection screens
-
-## Operation Planning Module (SDDP)
-###  Fixed issues
-  * Fixed an issue in the use of hourly inflows that do not have valid data for all necessary horizon
 
 
 # SDDP 18.0.7rc7
