@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.7
+📅 Date: 2025-01-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-linux.zip)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Updated logic for chaining the initial conditions of state variables in cases with rolling-horizon.
+#### OptGen 2
+  * Fixed error in Minimum/Maximum Investment Constraints with Energy Efficiency projects
+###  New Features and Improvements
+  * Added entrance schedule for Energy Efficiency projects
+
 # SDDP 18.0.7rc8
 📅 Date: 2025-01-07<br>
 🔗 Download:
