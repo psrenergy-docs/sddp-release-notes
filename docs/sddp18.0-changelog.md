@@ -12,7 +12,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -39,7 +39,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc8-setup-linux.bin)
 
 ## Graphical user interface
 ###  Fixed issues
@@ -53,7 +53,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc7-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -67,7 +67,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc6-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -81,7 +81,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc5-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -98,7 +98,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc4-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 2
@@ -115,7 +115,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc3-setup-linux.bin)
 
 ## Graphical user interface
 ###  Fixed issues
@@ -133,7 +133,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc2-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New Features and Improvements
@@ -151,7 +151,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.7rc1-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  New Features and Improvements
@@ -165,7 +165,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 1
@@ -180,7 +180,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc7-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc7-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 2
@@ -195,7 +195,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc6-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 1
@@ -210,7 +210,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc5-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### OptGen 2
@@ -225,7 +225,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc4-setup-linux.bin)
 
 ## Graphical user interface
 ###  Fixed issues
@@ -244,7 +244,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc3-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc3-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -258,7 +258,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc2-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc2-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -272,7 +272,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.6rc1-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -295,7 +295,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -318,7 +318,7 @@ layout: default
 \|
 [Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc11-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -333,7 +333,7 @@ layout: default
 \|
 [Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc10-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -352,7 +352,7 @@ layout: default
 \|
 [Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc9-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -374,7 +374,7 @@ layout: default
 \|
 [Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc8-setup-linux.bin)
 
 ## Maintenance Planning Module (OptMain)
 ###  Fixed issues
@@ -388,7 +388,7 @@ layout: default
 \|
 [Windows (offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc7-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -408,7 +408,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc6-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -430,7 +430,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc5-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc5-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### Fixed Issues
@@ -447,7 +447,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc4-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc4-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -459,7 +459,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc3-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc3-setup-linux.bin)
 
 ## Graphical user interface
 ###  New features and improvements
@@ -471,7 +471,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc2-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -483,7 +483,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc1-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.5rc1-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -502,7 +502,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ### Fixed Issues
@@ -518,7 +518,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc11-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc11-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc11-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -530,7 +530,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc10-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc10-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc10-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -543,7 +543,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc9-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc9-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc9-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -556,7 +556,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc8-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc8-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc8-setup-linux.bin)
 
 ## Graphical user interface
 ###  New features and improvements
@@ -573,7 +573,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc7-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc7-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -595,7 +595,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc6-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc6-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -620,7 +620,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc5-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc5-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ### New features and improvements
@@ -640,7 +640,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc4-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc4-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -652,7 +652,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc3-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc3-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ### New features and improvements
@@ -667,7 +667,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc2-setup-linux.bin)
 
 ## Setup
 ###  New features and improvements
@@ -679,7 +679,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc1-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.4rc1-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -691,7 +691,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ### New features and improvements
@@ -714,7 +714,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc6-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc6-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ### New features and improvements
@@ -740,7 +740,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc5-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc5-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -752,7 +752,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc4-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc4-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -766,7 +766,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc3-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc3-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -785,7 +785,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc2-setup-linux.bin)
 
 ## Maintenance Planning Module (OptMain)
 ###  Fixed issues
@@ -796,7 +796,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.3rc1-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -820,7 +820,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -849,7 +849,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc8-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc8-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc8-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -861,7 +861,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc7-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc7-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc7-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New features and improvements
@@ -873,7 +873,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc6-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc6-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc6-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -885,7 +885,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc5-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -904,7 +904,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc4-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -920,7 +920,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc3-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc3-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc3-setup-linux.bin)
 
 ## Graphical user interface
 ###  New features and improvements
@@ -934,7 +934,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc2-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc2-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc2-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
@@ -946,7 +946,7 @@ layout: default
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc1-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc1-setup-linux.zip)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.2rc1-setup-linux.bin)
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
