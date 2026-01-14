@@ -14,12 +14,18 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc1-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed the consideration of names with more than 12 characters for transmission network elements
+
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 1
   * Fixed an issue with post-processing tool taking significantly more time than usual
 #### OptGen 2
   * Fixed error in Firm energy/capacity modification in cases with weekly stages
+
 
 # SDDP 18.0.7
 📅 Date: 2025-01-09<br>
@@ -47,6 +53,7 @@ layout: default
   * Fixed error in Minimum/Maximum Investment Constraints with Energy Efficiency projects
 ###  New Features and Improvements
   * Added entrance schedule for Energy Efficiency projects
+
 
 # SDDP 18.0.7rc8
 📅 Date: 2025-01-07<br>
