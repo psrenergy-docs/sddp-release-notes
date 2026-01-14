@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc1
+📅 Date: 2026-01-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc1-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an issue with post-processing tool taking significantly more time than usual
+#### OptGen 2
+  * Fixed error in Firm energy/capacity modification in cases with weekly stages
+
 # SDDP 18.0.7
 📅 Date: 2025-01-09<br>
 🔗 Download:
