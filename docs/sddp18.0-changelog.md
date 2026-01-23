@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc2
+📅 Date: 2026-01-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc2-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc2-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc2-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Removed a validation when the case have a hydro reservoir without generating unit that is not allocated to a bus (the model was raising an error)
+
+###  New Features and Improvements
+#### OptGen 1
+  * Added energy efficiency firm energy and capacity outputs (files outeea.csv with firm energy and outepa.csv with firm capacity)
+
+
 # SDDP 18.0.8rc1
 📅 Date: 2026-01-14<br>
 🔗 Download:
