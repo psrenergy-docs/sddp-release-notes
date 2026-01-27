@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc3
+📅 Date: 2026-01-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc3-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed saving of data modifications in hydro plant screen
+
+
 # SDDP 18.0.8rc2
 📅 Date: 2026-01-23<br>
 🔗 Download:
