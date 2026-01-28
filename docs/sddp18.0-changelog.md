@@ -18,6 +18,9 @@ layout: default
 ###  Fixed issues
   * Fixed saving of data modifications in hydro plant screen
 
+## Post processing tool (PSRIO)
+###  Fixed issues
+  * Fixed saving of csv files
 
 # SDDP 18.0.8rc2
 📅 Date: 2026-01-23<br>
