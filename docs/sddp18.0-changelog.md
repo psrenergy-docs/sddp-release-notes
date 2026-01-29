@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc4
+📅 Date: 2026-01-29<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc4-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved option to represent hydro production coefficient as a function of the variable tailwater elevation
+    through binary variables for plants in which the tailwater elevation is not affected by the spillage
+
+
 # SDDP 18.0.8rc3
 📅 Date: 2026-01-27<br>
 🔗 Download:
@@ -22,6 +37,7 @@ layout: default
 ###  Fixed issues
   * Fixed saving of csv files
 
+
 # SDDP 18.0.8rc2
 📅 Date: 2026-01-23<br>
 🔗 Download:
@@ -30,6 +46,10 @@ layout: default
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc2-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc2-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue that prevented the execution in cases with circuit overload and circuit sum constraints
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
