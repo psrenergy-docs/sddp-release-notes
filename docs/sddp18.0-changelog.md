@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc6
+📅 Date: 2026-02-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved the inflow parameter estimation to avoid an specific issue when the input data
+    is in the wrong format
+  
+###  Fixed issues
+  * Fixed the FCF cuts calculation in cases with chronological blocks or typical days
+  * Adjusted a possible source of numerical issues in problems with integer variables
+
+
 # SDDP 18.0.8rc5
 📅 Date: 2026-02-02<br>
 🔗 Download:
@@ -13,6 +32,10 @@ layout: default
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc5-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc5-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Added missing dependencies to Linux setup
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
