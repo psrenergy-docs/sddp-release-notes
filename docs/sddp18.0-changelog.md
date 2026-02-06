@@ -23,6 +23,20 @@ layout: default
   * Fixed the FCF cuts calculation in cases with chronological blocks or typical days
   * Adjusted a possible source of numerical issues in problems with integer variables
 
+## Expansion Planning Module (OptGen)
+###  New Features and Improvements
+#### OptGen 2
+  * Adds Energy Efficiency to generic constraints
+#### OptGen 1
+  * Adds Energy Efficiency to generic constraints
+
+###  Fixed issues
+#### Interface
+  * Fixes the association of scalable data tables with projects
+#### OptGen 1
+  * Fixes modified capacity reading for battery projects
+  * Adjusts Energy Efficiency agent coefficients in Min/Max constraints
+
 
 # SDDP 18.0.8rc5
 📅 Date: 2026-02-02<br>
