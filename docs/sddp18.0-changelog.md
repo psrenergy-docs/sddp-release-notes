@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc7
+📅 Date: 2026-02-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc7-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed some translations
+
+
 # SDDP 18.0.8rc6
 📅 Date: 2026-02-06<br>
 🔗 Download:
