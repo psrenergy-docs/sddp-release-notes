@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc8
+📅 Date: 2026-02-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed joint reserve backed elements saving
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Introduced soft constraints for hydro plants with variable minimum storage when necessary
+
+
 # SDDP 18.0.8rc7
 📅 Date: 2026-02-09<br>
 🔗 Download:
