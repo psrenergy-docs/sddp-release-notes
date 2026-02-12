@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc9
+📅 Date: 2026-02-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed hourly demand price saving
+
+
 # SDDP 18.0.8rc8
 📅 Date: 2026-02-10<br>
 🔗 Download:
