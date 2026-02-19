@@ -5,22 +5,6 @@ nav_order: 2
 layout: default
 ---
 
-# SDDP 18.0.8rc10
-📅 Date: 2026-02-19<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-linux.bin)
-
-## Operation Planning Module (SDDP)
-  
-###  Fixed issues
-  * Fixed the joint reserve requirement calculation for the interconnection network model for hourly executions
-  * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
-
-
 # SDDP 18.0.8rc9
 📅 Date: 2026-02-12<br>
 🔗 Download:
