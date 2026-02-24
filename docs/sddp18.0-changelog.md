@@ -5,6 +5,34 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc11
+📅 Date: 2026-02-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+  
+###  Fixed issues
+  * Fixed the renewable generation dashboard graph
+
+## Graphical user interface
+###  Fixed issues
+  * Multi-graph creation fix
+
+## Expansion Planning Module (OptGen)
+
+###  Fixed issues
+#### OptGen 2
+  * Fixes bug related to network elements coefficients in investment constraints
+#### OptGen 1
+  * Fixes NID projects validation
+  * Consideration of projects' operative lifetime on investment constraints that go beyond the end of the solution horizon
+
+
 # SDDP 18.0.8rc10
 📅 Date: 2026-02-19<br>
 🔗 Download:
