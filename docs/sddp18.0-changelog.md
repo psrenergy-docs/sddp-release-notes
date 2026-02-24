@@ -29,8 +29,10 @@ layout: default
 #### OptGen 2
   * Fixes bug related to network elements coefficients in investment constraints
 #### OptGen 1
-  * Fixes NID projects validation
-  * Consideration of projects' operative lifetime on investment constraints that go beyond the end of the solution horizon
+  * Fixes consideration of projects' operative lifetime on investment constraints that go beyond the end of the solution horizon
+  * Fixes investment outputs in Energy Efficiency in rolling horizon cases
+  * Fixes reading of NID projects in user-defined expansion plans
+  * Fixes handling of project decommissioning due to operational lifetime in maximum constraints with end date beyond the horizon
 
 
 # SDDP 18.0.8rc10
