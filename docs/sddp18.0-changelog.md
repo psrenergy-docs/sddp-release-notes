@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc12
+📅 Date: 2026-02-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-linux.bin)
+
+## Post processing tool (PSRIO)
+###  Fixed issues
+  * Dashboard generation
+
+
 # SDDP 18.0.8rc11
 📅 Date: 2026-02-24<br>
 🔗 Download:
