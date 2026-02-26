@@ -19,7 +19,7 @@ SDDP 18.1 brings **advanced transmission network assessment with AC optimal powe
 - **Unique identifiers across database elements**, providing a consistent, user-editable identification scheme to support long-term database evolution.
 - **Excel import/export feature rebuilt**: import/export redesigned to fully support **relationships**, enabling complete editing workflows through spreadsheets.
 - **GUI & analytics upgrades**: new **PSRIO dashboard template** and additional visualization controls.
-- **Modeling improvements**: new battery representations in SDDP (stored-energy loss, cycling, reserve direction options) and OptGen enhancements (battery capacity degradation, transmission expansion enhancement, energy efficiency integration).
+- **Modeling improvements**: new representations in SDDP (battery stored-energy loss, battery cycle counting and reserve direction options),  and OptGen enhancements (battery capacity degradation, transmission expansion enhancement, energy efficiency integration).
 
 ## 🗼 OptFlow: advanced transmission modeling with AC OPF
 
@@ -79,7 +79,7 @@ A new **add-ins system** was introduced to support more agile delivery and adopt
 
 A new representation allows modeling **loss of stored energy over time** within a stage due to unintentional discharge.
 
-- Available in all time resolutions.
+- Available in all chronological time resolutions.
 - A loss factor is applied to the battery’s useful storage (current storage minus minimum storage), producing energy loss regardless of active battery usage.
 
 ### ♻️ Battery: cycling (throughput) representation
