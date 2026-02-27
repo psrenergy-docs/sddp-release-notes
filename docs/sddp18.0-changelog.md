@@ -17,7 +17,8 @@ layout: default
 ## Operation Planning Module (SDDP)
   
 ###  Fixed issues
-  * Fixed application of maintenance factors in hourly simulation
+  * Hourly representation
+    * Fixed an issue introduced in version 18.0.8rc8 that caused the maintenance schedule factors to be applied twice
 
 
 # SDDP 18.0.8rc12
