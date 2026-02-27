@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc13
+📅 Date: 2026-02-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+  
+###  Fixed issues
+  * Fixed application of maintenance factors in hourly simulation
+
+
 # SDDP 18.0.8rc12
 📅 Date: 2026-02-25<br>
 🔗 Download:
