@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8rc14
+📅 Date: 2026-03-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed thermal plant x energy chain node association saving
+
+
 # SDDP 18.0.8rc13
 📅 Date: 2026-02-27<br>
 🔗 Download:
@@ -15,7 +29,6 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
-  
 ###  Fixed issues
   * Hourly representation
     * Fixed an issue introduced in version 18.0.8rc8 that caused the maintenance schedule factors to be applied twice
