@@ -25,6 +25,9 @@ layout: default
     with a customized rolling horizon
   * Fixed an error when the user defines a negative firm energy for projects (usually batteries)
 
+#### OptGen 2
+  * Fixed an error calculating yearly firm energy for generating units when there is a firm energy constraint in % of the demand
+
 
 # SDDP 18.0.8rc14
 📅 Date: 2026-03-03<br>
