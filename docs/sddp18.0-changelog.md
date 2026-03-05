@@ -5,7 +5,6 @@ nav_order: 2
 layout: default
 ---
 
-
 # SDDP 18.0.8rc15
 📅 Date: 2026-03-04<br>
 🔗 Download:
@@ -15,11 +14,15 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup-linux.bin)
 
-## Expansion Planning Module (OptGen)
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed output writing when Junin lake representation is active
 
+## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 1
-  * Fixed an error considering a user-defined expansion plan with decisions (atleast, atmost or date range) along with a customized rolling horizon
+  * Fixed an error considering a user-defined expansion plan with decisions (atleast, atmost or date range) along 
+    with a customized rolling horizon
   * Fixed an error when the user defines a negative firm energy for projects (usually batteries)
 
 
@@ -75,7 +78,6 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
-  
 ###  Fixed issues
   * Fixed the renewable generation dashboard graph
 
@@ -84,7 +86,6 @@ layout: default
   * Multi-graph creation fix
 
 ## Expansion Planning Module (OptGen)
-
 ###  Fixed issues
 #### OptGen 2
   * Fixes bug related to network elements coefficients in investment constraints
@@ -105,7 +106,6 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
-  
 ###  Fixed issues
   * Fixed the joint reserve requirement calculation for the interconnection network model for hourly executions
   * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
