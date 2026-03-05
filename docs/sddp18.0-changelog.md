@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+
+# SDDP 18.0.8rc15
+📅 Date: 2026-03-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+
+###  Fixed issues
+#### OptGen 1
+  * Fixed an error considering a user-defined expansion plan with decisions (atleast, atmost or date range) along with a customized rolling horizon
+  * Fixed an error when the user defines a negative firm energy for projects (usually batteries)
+
+
 # SDDP 18.0.8rc14
 📅 Date: 2026-03-03<br>
 🔗 Download:
@@ -17,7 +35,6 @@ layout: default
 ## Graphical user interface
 ###  Fixed issues
   * Fixed thermal plant x energy chain node association saving
-
 
 # SDDP 18.0.8rc13
 📅 Date: 2026-02-27<br>
