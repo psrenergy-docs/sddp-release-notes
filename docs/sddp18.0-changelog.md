@@ -51,42 +51,21 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-linux.bin)
 
-## Operation Planning Module (SDDP)
-###  Fixed issues
-  * Hourly representation
-    * Fixed an issue introduced in version 18.0.8rc8 that caused the maintenance schedule factors to be applied twice
-
-
-# SDDP 18.0.8rc12
-📅 Date: 2026-02-25<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-linux.bin)
-
-## Post processing tool (PSRIO)
-###  Fixed issues
-  * Dashboard generation
-
-
-# SDDP 18.0.8rc11
-📅 Date: 2026-02-24<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-linux.bin)
-
-## Operation Planning Module (SDDP)
-###  Fixed issues
-  * Fixed the renewable generation dashboard graph
-
 ## Graphical user interface
 ###  Fixed issues
+  * Fixed hourly demand price saving
+  * Fixed joint reserve backed elements saving
   * Multi-graph creation fix
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Introduced soft constraints for hydro plants with variable minimum storage when necessary
+
+###  Fixed issues
+  * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
+  * Fixed the renewable generation dashboard graph
+  * Hourly representation
+  	* Fixed the joint reserve requirement calculation for the interconnection network model
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -98,53 +77,9 @@ layout: default
   * Fixes reading of NID projects in user-defined expansion plans
   * Fixes handling of project decommissioning due to operational lifetime in maximum constraints with end date beyond the horizon
 
-
-# SDDP 18.0.8rc10
-📅 Date: 2026-02-19<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-linux.bin)
-
-## Operation Planning Module (SDDP)
+## Post processing tool (PSRIO)
 ###  Fixed issues
-  * Fixed the joint reserve requirement calculation for the interconnection network model for hourly executions
-  * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
-
-
-# SDDP 18.0.8rc9
-📅 Date: 2026-02-12<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-linux.bin)
-
-## Graphical user interface
-###  Fixed issues
-  * Fixed hourly demand price saving
-
-
-# SDDP 18.0.8rc8
-📅 Date: 2026-02-10<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-linux.bin)
-
-## Graphical user interface
-###  Fixed issues
-  * Fixed joint reserve backed elements saving
-
-## Operation Planning Module (SDDP)
-###  New Features and Improvements
-  * Introduced soft constraints for hydro plants with variable minimum storage when necessary
-
+  * Dashboard generation
 
 # SDDP 18.0.8rc7
 📅 Date: 2026-02-09<br>
