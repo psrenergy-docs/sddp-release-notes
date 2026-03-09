@@ -12,7 +12,7 @@ layout: default
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc16-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc156-setup-linux.bin)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc16-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
 ###  New Features and Improvements
