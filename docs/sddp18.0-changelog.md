@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.8
+📅 Date: 2026-03-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+  	* Fixed the consideration of disabled flexible demands
+  	* Fixed thermal commitment initial condition for stages after a linearized solution
+  	* Adjusted the minimum storage penalty value
+
+
 # SDDP 18.0.8rc16
 📅 Date: 2026-03-09<br>
 🔗 Download:
