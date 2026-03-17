@@ -5,40 +5,100 @@ nav_order: 2
 layout: default
 ---
 
-# SDDP 18.0.8rc12
-📅 Date: 2026-02-25<br>
+# SDDP 18.0.8
+📅 Date: 2026-03-12<br>
 🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup.zip)
 \|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-offline.zip)
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc12-setup-linux.bin)
-
-## Post processing tool (PSRIO)
-###  Fixed issues
-  * Dashboard generation
-
-
-# SDDP 18.0.8rc11
-📅 Date: 2026-02-24<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc11-setup-linux.bin)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
-  
 ###  Fixed issues
-  * Fixed the renewable generation dashboard graph
+  * Hourly representation
+  	* Fixed the consideration of disabled flexible demands
+  	* Fixed thermal commitment initial condition for stages after a linearized solution
+  	* Adjusted the minimum storage penalty value
+
+
+# SDDP 18.0.8rc16
+📅 Date: 2026-03-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc16-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc16-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc16-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Add support for defining generic variables as amount or rate
+
+
+# SDDP 18.0.8rc15
+📅 Date: 2026-03-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc15-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed output writing when Junin lake representation is active
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an error considering a user-defined expansion plan with decisions (atleast, atmost or date range) along 
+    with a customized rolling horizon
+  * Fixed an error when the user defines a negative firm energy for projects (usually batteries)
+
+#### OptGen 2
+  * Fixed an error calculating yearly firm energy for generating units when there is a firm energy constraint in % of the demand
+
+
+# SDDP 18.0.8rc14
+📅 Date: 2026-03-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc14-setup-linux.bin)
 
 ## Graphical user interface
 ###  Fixed issues
+  * Fixed thermal plant x energy chain node association saving
+
+# SDDP 18.0.8rc13
+📅 Date: 2026-02-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc13-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed hourly demand price saving
+  * Fixed joint reserve backed elements saving
   * Multi-graph creation fix
 
-## Expansion Planning Module (OptGen)
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Introduced soft constraints for hydro plants with variable minimum storage when necessary
 
+###  Fixed issues
+  * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
+  * Fixed the renewable generation dashboard graph
+  * Hourly representation
+  	* Fixed the joint reserve requirement calculation for the interconnection network model
+
+## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 2
   * Fixes bug related to network elements coefficients in investment constraints
@@ -48,54 +108,9 @@ layout: default
   * Fixes reading of NID projects in user-defined expansion plans
   * Fixes handling of project decommissioning due to operational lifetime in maximum constraints with end date beyond the horizon
 
-
-# SDDP 18.0.8rc10
-📅 Date: 2026-02-19<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc10-setup-linux.bin)
-
-## Operation Planning Module (SDDP)
-  
+## Post processing tool (PSRIO)
 ###  Fixed issues
-  * Fixed the joint reserve requirement calculation for the interconnection network model for hourly executions
-  * Fixed issue regarding hydro initial storage reading from volini.dat when using selected scenarios in the final simulation
-
-
-# SDDP 18.0.8rc9
-📅 Date: 2026-02-12<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc9-setup-linux.bin)
-
-## Graphical user interface
-###  Fixed issues
-  * Fixed hourly demand price saving
-
-
-# SDDP 18.0.8rc8
-📅 Date: 2026-02-10<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.8rc8-setup-linux.bin)
-
-## Graphical user interface
-###  Fixed issues
-  * Fixed joint reserve backed elements saving
-
-## Operation Planning Module (SDDP)
-###  New Features and Improvements
-  * Introduced soft constraints for hydro plants with variable minimum storage when necessary
-
+  * Dashboard generation
 
 # SDDP 18.0.8rc7
 📅 Date: 2026-02-09<br>
