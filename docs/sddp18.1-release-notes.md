@@ -19,7 +19,7 @@ SDDP 18.1 brings **advanced transmission network assessment with AC optimal powe
 - **Unique identifiers across database elements**, providing a consistent, user-editable identification scheme to support long-term database evolution.
 - **Excel import/export feature rebuilt**: import/export redesigned to fully support **relationships**, enabling complete editing workflows through spreadsheets.
 - **GUI & analytics upgrades**: new **PSRIO dashboard template** and additional visualization controls.
-- **Modeling improvements**: new representations in SDDP (battery stored-energy loss, battery cycle counting and reserve direction options),  and OptGen enhancements (battery capacity degradation, transmission expansion enhancement, energy efficiency integration).
+- **Modeling improvements**: new representations in SDDP (battery stored-energy loss, battery cycle counting, and reserve direction options), and OptGen enhancements (battery capacity degradation, transmission expansion enhancement, and energy efficiency integration).
 
 ## 🗼 OptFlow: advanced transmission modeling with AC OPF
 
@@ -71,6 +71,11 @@ SDDP 18.1 includes a redesigned PSRIO dashboard template and new visualization c
 
 A new **add-ins system** was introduced to support more agile delivery and adoption of new model capabilities through the platform.
 
+### ⚡ Performance and robustness
+
+- **Lower memory consumption** through improvements in data handling and core components.
+- **Faster loading** through targeted data-loading optimizations.
+
 ## ⚙️ Modeling improvements
 
 ## ⚡ Operation planning (SDDP)
@@ -111,16 +116,11 @@ Energy efficiency programs can now be included in **generic firm energy / firm c
 
 ## 🌤️ Time Series Lab 2.2 (TSL)
 
-- **🌓 Bifacial PV panels modeling**  
+- **Bifacial PV panels modeling**  
   New support for representing bifacial PV behavior in renewable generation time series and scenarios.
 
-- **🌡️ Custom temperature data input**  
+- **Custom temperature data input**  
   Users can now include customized temperature datasets to enhance weather-driven time series generation and downstream studies.
 
-- **🚀 Faster execution through data and results handling improvements**  
+- **Faster execution through data and results handling improvements**  
   Time Series Lab (TSL) now runs more efficiently thanks to internal optimizations in data processing and results management, reducing runtime in large workflows.
-
-## ⚡ Performance and robustness
-
-- **🧠 Lower memory consumption** through improvements in data handling and core components.
-- **🚀 Faster loading** through targeted data-loading optimizations.
