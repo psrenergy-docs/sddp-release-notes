@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc3
+📅 Date: 2026-03-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-linux.bin)
+
+## Reliability Module (Coral)
+###  Fixed issues and Improvements
+  * Internal code improvements
+  * Resolved a validation error that previously prevented the engine from recognizing 
+    specific interconnection constraints.
+
+
 # SDDP 18.0.9rc2
 📅 Date: 2026-03-23<br>
 🔗 Download:
