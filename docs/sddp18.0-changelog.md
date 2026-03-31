@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc4
+📅 Date: 2026-03-31<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an error related to the final dashboard generated
+
+#### OptGen 2
+  * Fixed an error related to the reserve sharing functionality
+  * Fixed an error in the modelling of AC Lines candidates
+
+
 # SDDP 18.0.9rc3
 📅 Date: 2026-03-25<br>
 🔗 Download:
