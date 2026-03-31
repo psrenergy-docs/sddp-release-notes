@@ -5,14 +5,24 @@ nav_order: 2
 layout: default
 ---
 
-# SDDP 18.0.9rc4
-📅 Date: 2026-03-31<br>
+# SDDP 18.0.9rc3
+📅 Date: 2026-03-25<br>
 🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup.zip)
 \|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-offline.zip)
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-linux.bin)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Added fuel reservoir withdrawal variable in the generic constraints
+
+###  Fixed issues
+  * Fixed the representation of non-controllable spillage for hydro plants with soft minimum storage constraint
+  * Fixed cut calculation for hydro plants with variable production coefficient in the policy phase
+  * Hourly representation
+  	* Fixed the commitment initial condition for thermal plants with ramp constraints
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -22,16 +32,6 @@ layout: default
 #### OptGen 2
   * Fixed an error related to the reserve sharing functionality
   * Fixed an error in the modelling of AC Lines candidates
-
-
-# SDDP 18.0.9rc3
-📅 Date: 2026-03-25<br>
-🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup.zip)
-\|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-offline.zip)
-\|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup-linux.bin)
 
 ## Reliability Module (Coral)
 ###  Fixed issues and Improvements
