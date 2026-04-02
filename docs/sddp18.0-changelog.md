@@ -5,8 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+
+# SDDP 18.0.9rc4
+📅 Date: 2026-04-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc4-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed the generic variable cost unit
+
+
 # SDDP 18.0.9rc3
-📅 Date: 2026-03-25<br>
+📅 Date: 2026-03-31<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc3-setup.zip)
 \|
