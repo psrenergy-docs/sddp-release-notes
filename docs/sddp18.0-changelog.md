@@ -6,6 +6,31 @@ layout: default
 ---
 
 
+# SDDP 18.0.9rc5
+📅 Date: 2026-04-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc5-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Hourly representation 
+    * Added combined cycle per unit representation in the hourly module
+
+###  Fixed issues
+  * Adjustment to prevent the initial states file writing for SDDP CSV executions
+
+## Expansion Planning Module (OptGen)
+
+###  Fixed issues
+#### OptGen 2
+  * Fixed an error related elastic demand variable per scenario
+
+
+
 # SDDP 18.0.9rc4
 📅 Date: 2026-04-02<br>
 🔗 Download:
