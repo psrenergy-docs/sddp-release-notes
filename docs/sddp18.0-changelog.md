@@ -5,6 +5,26 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc6
+📅 Date: 2026-04-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Added option to disable generic linear constraints
+  * Added option to define hourly requirements for generic linear constraints
+
+###  Fixed issues
+  * Included the consideration of the maximum turbining defined in the configuration for
+    plants with maximum turbining x storage or inflow x turbining tables
+  * Fixed the writing of the turbinable spilled energy output for hydro plants with
+    maximum turbining x storage or inflow x turbining tables
+
 
 # SDDP 18.0.9rc5
 📅 Date: 2026-04-08<br>
@@ -28,7 +48,6 @@ layout: default
 ###  Fixed issues
 #### OptGen 2
   * Fixed an error related elastic demand variable per scenario
-
 
 
 # SDDP 18.0.9rc4
