@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc7
+📅 Date: 2026-04-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc7-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed a bus connection validation for plants connected to generator groups
+  * Fixed Optgen cuts for circuits when representing contingencies
+  * Fixed OptGen cuts for circuits, AC interconnections and interconnections when
+    representing reserve sharing
+
+
 # SDDP 18.0.9rc6
 📅 Date: 2026-04-14<br>
 🔗 Download:
