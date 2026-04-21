@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc10
+📅 Date: 2026-04-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc10-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc10-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc10-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue in license verification
+
+## Post processing tool (PSRIO)
+###  Fixed issues
+  * Fixed data load while having generic constraints defined
+
+
 # SDDP 18.0.9rc9
 📅 Date: 2026-04-17<br>
 🔗 Download:
