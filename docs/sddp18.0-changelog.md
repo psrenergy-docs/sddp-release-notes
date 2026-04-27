@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc11
+📅 Date: 2026-04-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc11-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue with hydro reservoirs with minimum volume increase with the representation of typical days
+  * Fixed issue when disabling multi-stage generic constraints
+
 # SDDP 18.0.9rc10
 📅 Date: 2026-04-21<br>
 🔗 Download:
