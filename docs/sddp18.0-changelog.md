@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.9rc13
+📅 Date: 2026-05-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc13-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc13-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9rc13-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Adjusted a possible source of numerical issues in problems with integer variables 
+  * Removed an unnecessary validation regarding generic linear constraints
+  * Hourly representation 
+    * Fixed the consideration of the minimum generation attribute for hydro plants
+    * Fixed a possible infeasibility issue when representing joint reserve constraints
+
+
 # SDDP 18.0.9rc12
 📅 Date: 2026-04-30<br>
 🔗 Download:
