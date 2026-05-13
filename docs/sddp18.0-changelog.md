@@ -6,13 +6,17 @@ layout: default
 ---
 
 # SDDP 18.0.9
-📅 Date: 2026-05-08<br>
+📅 Date: 2026-05-13<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9-setup.zip)
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.9-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed application of circuit sum constraints when there is block aggregation or typical days 
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -21,6 +25,7 @@ layout: default
   * Fixed CSP reserve consideration related to agent capacity;
   * Fixed elastic demand segment handling by scenario;
   * Fixed reserve area allocation for DC buses;
+
 
 # SDDP 18.0.9rc13
 📅 Date: 2026-05-06<br>
