@@ -5,6 +5,25 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc1
+📅 Date: 2026-05-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc1-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an error with simulations of OptGen with SDDP disaggregated by system
+
+#### OptGen 2
+  * Fixed USCN option to make only renewables and inflow scenarios static
+  * Fixed a numerical error with automatic min/max constraint violation penalty
+  * Fixed an error related to reserve of existing elements that can be replaced by a project
+
 # SDDP 18.0.9
 📅 Date: 2026-05-13<br>
 🔗 Download:
