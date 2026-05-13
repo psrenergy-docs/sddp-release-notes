@@ -14,6 +14,10 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc1-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue regarding the creation of internal state files
+
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 1
