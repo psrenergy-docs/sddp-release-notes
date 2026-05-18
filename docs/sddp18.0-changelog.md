@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc2
+📅 Date: 2026-05-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc2-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc2-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc2-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Adjusted the data validation execution in order to don't overwrite TSL input data
+
+
 # SDDP 18.0.10rc1
 📅 Date: 2026-05-13<br>
 🔗 Download:
