@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc3
+📅 Date: 2026-05-19<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc3-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an error related to DC Line projects
+
+#### OptGen 2
+  * Fixed an error related to the Dynamic Probabilistic Reserve calculation for renewable projects
+
+
 # SDDP 18.0.10rc2
 📅 Date: 2026-05-18<br>
 🔗 Download:
