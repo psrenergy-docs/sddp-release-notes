@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc4
+📅 Date: 2026-05-20<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc4-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixes network elements' capacity for cases executed consecutively
+
+#### OptGen 2
+  * Fixed interconnection reserve flow and p.u. requirement for reserve areas
+
+
 # SDDP 18.0.10rc3
 📅 Date: 2026-05-19<br>
 🔗 Download:
