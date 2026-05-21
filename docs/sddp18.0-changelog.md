@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.10rc4
-📅 Date: 2026-05-20<br>
+📅 Date: 2026-05-21<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc4-setup.zip)
 \|
@@ -21,6 +21,7 @@ layout: default
 
 #### OptGen 2
   * Fixed interconnection reserve flow and p.u. requirement for reserve areas
+  * Fixed restart of cases with PFCA without PFMR
 
 
 # SDDP 18.0.10rc3
