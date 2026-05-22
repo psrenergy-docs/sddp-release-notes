@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc5
+📅 Date: 2026-05-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc5-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed agent name detection when loading hourly scenarios
+
+
 # SDDP 18.0.10rc4
 📅 Date: 2026-05-21<br>
 🔗 Download:
