@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc6
+📅 Date: 2026-06-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed issue with circuit flow sum constraints involving reserve sharing representation
+
+
 # SDDP 18.0.10rc5
 📅 Date: 2026-05-22<br>
 🔗 Download:
