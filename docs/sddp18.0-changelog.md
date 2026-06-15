@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc9
+📅 Date: 2026-06-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc9-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc9-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc9-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed the consideration of names with more than 12 characters for batteries
+
+
 # SDDP 18.0.10rc8
 📅 Date: 2026-06-12<br>
 🔗 Download:
