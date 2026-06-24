@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc11
+📅 Date: 2026-06-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc11-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Included possibility of variation per scenario in hourly generic constraint requirement
+
+
 # SDDP 18.0.10rc10
 📅 Date: 2026-06-19<br>
 🔗 Download:
