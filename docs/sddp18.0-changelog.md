@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc12
+📅 Date: 2026-06-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc12-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc12-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc12-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Adjusted use of DLR scenarios in additional years when the repeat last year option is selected
+  * Fixed an intermittent issue that prevented execution
+
+
 # SDDP 18.0.10rc11
 📅 Date: 2026-06-24<br>
 🔗 Download:
