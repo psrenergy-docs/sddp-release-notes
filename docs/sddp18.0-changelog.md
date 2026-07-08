@@ -5,6 +5,26 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc13
+📅 Date: 2026-07-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc13-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc13-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc13-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue that prevented execution in some cases with circuit sum constraints
+  * Fixed the consideration of DLR scenarios during the backward phase of the policy
+
+## Post-contingency analysis
+###  New Features and Improvements
+  * Added option to export Outage Transfer Distribution Factors (OTDF) matrix and
+    Line Outage Distribution Factors (LODF) matrix
+
+
 # SDDP 18.0.10rc12
 📅 Date: 2026-06-30<br>
 🔗 Download:
