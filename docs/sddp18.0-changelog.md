@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc14
+📅 Date: 2026-07-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc14-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc14-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc14-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed an issue regarding the maximum reserve offer data that led to stack overflow error for cases with several agents
+  
 # SDDP 18.0.10rc13
 📅 Date: 2026-07-08<br>
 🔗 Download:
