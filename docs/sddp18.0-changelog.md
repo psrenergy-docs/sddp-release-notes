@@ -5,6 +5,31 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10rc15
+📅 Date: 2026-07-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc15-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc15-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10rc15-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Adjusted generic constraint validation to disregard constraints with network elements in
+    executions without transmission network representation, without interrumpting execution
+  * Turned hydro outflow ramp constraints into soft constraints, allowing the definition of
+    violation penalties by the user
+    
+###  Fixed issues
+  * Fixed ramp constraints requirements in chronological blocks execution
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed CORAL integration on Linux
+
+
 # SDDP 18.0.10rc14
 📅 Date: 2026-07-08<br>
 🔗 Download:
