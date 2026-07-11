@@ -16,8 +16,11 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
-  * Fixed an issue regarding the maximum reserve offer data that led to stack overflow error for cases with several agents
-  
+  * Fixed an issue that could prevent execution in cases with a large number of reserve elements
+  * Fixed an issue in coordinated executions with multi-stage generic constraints
+  * Fixed an issue in coordinated executions with typical days only in the simulation phase
+
+
 # SDDP 18.0.10rc13
 📅 Date: 2026-07-08<br>
 🔗 Download:
