@@ -14,6 +14,10 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved representation of nethead x power table
+
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 1
