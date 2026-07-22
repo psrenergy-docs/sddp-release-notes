@@ -5,6 +5,27 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.10
+📅 Date: 2026-07-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.10-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed the calculation of a unit’s entrance year when its entry month is a multiple of 12.
+  * Fixed an issue in where Fixed O&M payments did not stop after a project exit decision, such as the end of its operating life or its substitution.
+#### OptGen 2
+  * Added a new option to approximate the three-segment thermal specific consumption curve using a single segment. 
+  * Fixed an issue where thermal shutdown costs were added to the objective function in thousands of dollars (k$) instead of millions of dollars (M$).
+  * Fixed an error when processing planned decisions for battery, flow controller, and supply-chain projects.
+  * Fixed the calculation of electrical area demand.
+  * Fixed the handling of Dynamic Probabilistic Reserve (DPR) coefficients in constraints.
+
 # SDDP 18.0.10rc15
 📅 Date: 2026-07-11<br>
 🔗 Download:
