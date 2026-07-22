@@ -24,7 +24,7 @@ layout: default
   * Fixed an issue where thermal shutdown costs were added to the objective function in thousands of dollars (k$) instead of millions of dollars (M$).
   * Fixed an error when processing planned decisions for battery, flow controller, and supply-chain projects.
   * Fixed the calculation of electrical area demand.
-  * Fixed the handling of Dynamic Probabilistic Reserve (DPR) coefficients in constraints.
+  * Fixed the handling of Dynamic Probabilistic Reserve (DPR) coefficients in constraints introduced in version 18.0.9.
 
 # SDDP 18.0.10rc15
 📅 Date: 2026-07-11<br>
