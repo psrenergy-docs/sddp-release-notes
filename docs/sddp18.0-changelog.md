@@ -494,8 +494,8 @@ layout: default
   * Fixed the representation of non-controllable spillage for hydro plants with soft minimum storage constraint
   * Fixed cut calculation for hydro plants with variable production coefficient in the policy phase
   * Fixed a numerical issue in the block aggregation of the unavailability data for thermal, hydro and renewable plants
-  * Hourly representation
-  	* Fixed the commitment initial condition for thermal plants with ramp constraints
+  * Hourly representation 
+    * Fixed the commitment initial condition for thermal plants with ramp constraints
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
