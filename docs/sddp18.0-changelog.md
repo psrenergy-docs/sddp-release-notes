@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc1
+📅 Date: 2026-08-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup-linux.bin)
+
+## Reliability Module (Coral)
+###  Fixed issues
+  * Fix Graphmodule integration
+  * Fix buses capacity calculation
+
 # SDDP 18.0.10
 📅 Date: 2026-07-22<br>
 🔗 Download:
