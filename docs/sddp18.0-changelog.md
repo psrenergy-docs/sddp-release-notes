@@ -6,13 +6,17 @@ layout: default
 ---
 
 # SDDP 18.0.11rc1
-📅 Date: 2026-08-03<br>
+📅 Date: 2026-08-04<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup.zip)
 \|
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed issue with circuit names with length greater than 20 characters
 
 ## Reliability Module (Coral)
 ###  Fixed issues
