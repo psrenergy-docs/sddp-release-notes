@@ -37,12 +37,15 @@ layout: default
   * Improved representation of nethead x power table
 
 ## Expansion Planning Module (OptGen)
+###  New Features and Improvements
+#### OptGen 2
+  * Added a new option to approximate the three-segment thermal specific consumption curve using a single segment.
+
 ###  Fixed issues
 #### OptGen 1
   * Fixed the calculation of a unit’s entrance year when its entry month is a multiple of 12.
   * Fixed an issue in where Fixed O&M payments did not stop after a project exit decision, such as the end of its operating life or its substitution.
 #### OptGen 2
-  * Added a new option to approximate the three-segment thermal specific consumption curve using a single segment. 
   * Fixed an issue where thermal shutdown costs were added to the objective function in thousands of dollars (k$) instead of millions of dollars (M$).
   * Fixed an error when processing planned decisions for battery, flow controller, and supply-chain projects.
   * Fixed the calculation of electrical area demand.
