@@ -429,6 +429,28 @@ def render_release(version):
     return [f"## {version.ver}", ""] + render_release_body(version)
 
 
+UPCOMING_NOTE = (
+    "This version has not been officially released yet. The entries below are "
+    "release candidates available for early testing.")
+
+
+def render_upcoming(base, rcs):
+    """A version that exists only as release candidates so far.
+
+    This is how every cycle starts: the source gets `x.y.zrc1` before there is
+    any `x.y.z`, and the copy has no section to put it in yet. Mirrors the
+    scaffold the copy already uses for an unreleased version.
+    """
+    out = [f"## {base}", "",
+           '!!! note "Upcoming release"', f"    {UPCOMING_NOTE}", "",
+           f'??? abstract "Release candidates for {base}"', ""]
+    for i, rc in enumerate(rcs):
+        out += render_rc(rc)
+        if i < len(rcs) - 1:
+            out += ["    ---", ""]
+    return [l.rstrip() for l in out]
+
+
 FRONT_MATTER = """---
 title: "Changelog"
 parent: "SDDP {major}"
@@ -536,8 +558,13 @@ def compare(source_by_file, target_dir):
 
         src_vers = {v.ver for v in versions}
         for ver in present:
-            if ver not in src_vers:
-                drift.extra.append((target_name, ver))
+            if ver in src_vers:
+                continue
+            # `## 18.0.11` with only release candidates under it is a container
+            # for versions the source does have, not an entry of its own.
+            if any(s.startswith(ver + "rc") for s in src_vers):
+                continue
+            drift.extra.append((target_name, ver))
 
         # a version that is upcoming in the copy but already final in the source
         for base in copy["upcoming"]:
@@ -613,15 +640,24 @@ def apply_drift(drift, target_dir, source_by_file, create_files=False, promote=F
         missing = sorted(missing, key=lambda v: order.get(v.ver, 10 ** 6))
 
         rc_groups = {}
+        new_upcoming = {}
         finals = []
         for v in missing:
             if v.is_rc:
                 if v.base in copy["abstracts"]:
                     rc_groups.setdefault(v.base, []).append(v)
+                elif not any(k == v.base or k.startswith(v.base + "rc")
+                             for k in copy["versions"]):
+                    # nothing of this version reached the copy yet -- build the
+                    # scaffold. The check covers RCs too: a copy that already
+                    # lists x.y.zrc2 somewhere is handling the version its own
+                    # way, and stamping "Upcoming release" on it would be wrong.
+                    new_upcoming.setdefault(v.base, []).append(v)
                 else:
                     actions.append(
                         ("skipped: no rc block", target_name,
-                         f"{v.ver} (no '??? abstract ... for {v.base}' in the copy)"))
+                         f"{v.ver} ({v.base} exists in the copy but has no "
+                         f"'??? abstract' block to receive it)"))
             elif v.ver in copy["upcoming"]:
                 actions.append(
                     ("skipped: needs promotion", target_name,
@@ -642,6 +678,12 @@ def apply_drift(drift, target_dir, source_by_file, create_files=False, promote=F
             edits.append((at, at, block))
             for rc in rcs:
                 actions.append(("rc inserted", target_name, rc.ver))
+
+        for base, rcs in new_upcoming.items():
+            at = placement_for(rcs[0], src_versions, copy["top"], len(lines))
+            edits.append((at, at, render_upcoming(base, rcs) + ["---", ""]))
+            actions.append(("upcoming version created", target_name,
+                            f"{base} ({len(rcs)} rc)"))
 
         for v in finals:
             at = placement_for(v, src_versions, copy["top"], len(lines))
