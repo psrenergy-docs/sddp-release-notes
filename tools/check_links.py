@@ -390,8 +390,11 @@ def check_gated(link, cookie, timeout, retries):
                 return BROKEN, f"not downloadable: {filename} (site answered acesso-negado)"
             if status in (404, 410) or "error404" in low_final:
                 return BROKEN, f"HTTP {status} for {filename}"
-            if "/login" in low_final or "login.asp" in low_final:
-                return AUTH, "session cookie rejected or expired (run tools/psr_login.py)"
+            # An expired session lands either on the login page or, sometimes,
+            # straight back on the homepage. Neither says anything about the file.
+            if ("/login" in low_final or "login.asp" in low_final
+                    or low_final.rstrip("/").endswith("psr-inc.com")):
+                return AUTH, "session cookie rejected or expired (run login-psr.bat)"
             if "attachment" in disp or filename.lower() in disp:
                 return OK, f"download served ({length} bytes)"
             if ctype.startswith(("application/octet-stream", "application/zip",
