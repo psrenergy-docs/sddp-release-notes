@@ -1,16 +1,16 @@
 ---
 title: "Release notes"
-parent: "SDDP 18.1"
+parent: "SDDP 19.0"
 nav_order: 1
 layout: default
 ---
 
-# SDDP 18.1 – Advanced transmission modeling, now with AC OPF (OptFlow)
+# SDDP 19.0 – Advanced transmission modeling, now with AC OPF (OptFlow)
 
 🌐 Please refer to the release site and check out the most important features developed on this release.  
 📝 For the detailed changelog and download links, please visit the changelog page.
 
-SDDP 18.1 brings **advanced transmission network assessment with AC optimal power flow (OptFlow)**, **more flexible database naming and coding** (with a modernized file structure), and a set of **GUI and performance refinements** that improve day-to-day workflows.
+SDDP 19.0 brings **advanced transmission network assessment with AC optimal power flow (OptFlow)**, **more flexible database naming and coding** (with a modernized file structure), and a set of **GUI and performance refinements** that improve day-to-day workflows.
 
 ## 🚀 Highlights
 
@@ -25,7 +25,7 @@ SDDP 18.1 brings **advanced transmission network assessment with AC optimal powe
 
 OptFlow adds a **steady-state AC optimal power flow (OPF)** layer to the platform, enabling studies to complement linear network representations when assessing operational feasibility—especially for **voltage limits and reactive power adequacy**.
 
-OptFlow is a **mature PSR tool**, already used in multiple studies and countries, and is part of the **NetPlan** suite. In SDDP 18.1, it is now incorporated into the SDDP platform to strengthen integrated studies where transmission performance is a key driver for feasibility, flexibility and cost-effectiveness.
+OptFlow is a **mature PSR tool**, already used in multiple studies and countries, and is part of the **NetPlan** suite. In SDDP 19.0, it is now incorporated into the SDDP platform to strengthen integrated studies where transmission performance is a key driver for feasibility, flexibility and cost-effectiveness.
 
 ### ⚡ Key capabilities
 
@@ -42,7 +42,7 @@ OptFlow is a **mature PSR tool**, already used in multiple studies and countries
 
 ### 🏷️ Longer names and codes
 
-SDDP 18.1 expands database flexibility by allowing **longer names and codes** for all elements. This supports clearer models, better alignment with corporate naming conventions and fewer workarounds in large databases.
+SDDP 19.0 expands database flexibility by allowing **longer names and codes** for all elements. This supports clearer models, better alignment with corporate naming conventions and fewer workarounds in large databases.
 
 ### 🗂️ Modernized file structure (CSV)
 
@@ -50,12 +50,12 @@ To enable this flexibility and improve interoperability with common tools, most 
 
 ### 🆔 Unique identifiers
 
-SDDP 18.1 introduces **unique identifiers** across database elements to support robust referencing and database evolution over time.
+SDDP 19.0 introduces **unique identifiers** across database elements to support robust referencing and database evolution over time.
 
-- When converting a database to SDDP 18.1, the platform automatically creates identifiers based on standard PSR rules.
+- When converting a database to SDDP 19.0, the platform automatically creates identifiers based on standard PSR rules.
 - Identifiers are **user-editable**, allowing teams to adapt them to internal conventions when needed.
 
-> ⚠️ **Important**: the updated data format is **not compatible** with earlier SDDP versions. It is strongly recommended to create and store a backup copy of your project files before using version 18.1 if you intend to maintain compatibility with previous releases.
+> ⚠️ **Important**: the updated data format is **not compatible** with earlier SDDP versions. It is strongly recommended to create and store a backup copy of your project files before using version 19.0 if you intend to maintain compatibility with previous releases.
 
 ## 🔷 Graphical interface and user experience
 
@@ -65,7 +65,7 @@ The Excel integration was rebuilt to address prior limitations and now supports 
 
 ### 📈 PSRIO dashboards: new template and controls
 
-SDDP 18.1 includes a redesigned PSRIO dashboard template and new visualization controls, enabling richer charts and additional options for exploring results.
+SDDP 19.0 includes a redesigned PSRIO dashboard template and new visualization controls, enabling richer charts and additional options for exploring results.
 
 ### 🧩 Add-ins system
 
@@ -98,7 +98,7 @@ We are available and interested in hearing client feedback and practical experie
 
 ### 🛡️ Reserve direction: up, down, or both
 
-Previously, the time block representation only supported reserve provision in the **upward** direction. SDDP 18.1 extends the block model to match the hourly capability, enabling **up**, **down**, or **both** reserve directions.
+Previously, the time block representation only supported reserve provision in the **upward** direction. SDDP 19.0 extends the block model to match the hourly capability, enabling **up**, **down**, or **both** reserve directions.
 
 ## 📈 Expansion planning (OptGen)
 
