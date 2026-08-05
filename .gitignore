@@ -1,0 +1,15 @@
+# Cookie de sessao do psr-inc.com em texto puro (gerado por login-psr.bat).
+# NUNCA commitar.
+/.psr-cookie
+
+# Perfil do Chrome usado pelo login assistido (contem a sessao logada)
+/.psr-profile/
+
+# Relatorios gerados
+/link-report.md
+/link-report.json
+/kh-sync-snippets.md
+
+# Cache do Python
+__pycache__/
+*.pyc
