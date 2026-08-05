@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.11rc1
-📅 Date: 2026-08-04<br>
+📅 Date: 2026-08-05<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc1-setup.zip)
 \|
@@ -17,11 +17,16 @@ layout: default
 ## Operation Planning Module (SDDP)
 ###  Fixed issues
   * Fixed issue with circuit names with length greater than 20 characters
+  * Fixed issue that caused the execution to freeze when restarting it
 
 ## Reliability Module (Coral)
 ###  Fixed issues
   * Fix Graphmodule integration
   * Fix buses capacity calculation
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed saving of N/I agent associations with OptGen generic constraints
 
 # SDDP 18.0.10
 📅 Date: 2026-07-22<br>
