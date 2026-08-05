@@ -599,19 +599,20 @@ def hide_pass(text, links, actions, path, today):
             # There is real text on this line -- a fix, a feature, a date -- so
             # only the links themselves come out, never the prose around them.
             new_line = line
-            for (s_start, s_end), (_, _, url) in sorted(
-                    zip(removal_intervals(line, bad),
-                        sorted(bad, key=lambda s: s[0])),
-                    key=lambda pair: pair[0][0], reverse=True):
+            for s_start, s_end, urls in sorted(removal_intervals(line, bad),
+                                               key=lambda iv: iv[0], reverse=True):
                 original = line[s_start:s_end]
                 if _marker_unsafe(original):
-                    actions.append(("skipped", path, url))
+                    for url in urls:
+                        actions.append(("skipped", path, url))
                     continue
-                m2 = f" status={_slug(reason.get(url, 'broken'))} checked={today}"
+                m2 = (f" status={_slug(reason.get(urls[0], 'broken'))}"
+                      f" checked={today}")
                 new_line = (new_line[:s_start]
                             + f"<!--{MARKER}{m2} :: {original}-->"
                             + new_line[s_end:])
-                actions.append(("hidden-inline", path, url))
+                for url in urls:
+                    actions.append(("hidden-inline", path, url))
             out[idx] = new_line
             consumed.add(idx)
 
@@ -633,12 +634,17 @@ def line_is_only_links(line, bad, spans):
 
 
 def removal_intervals(line, bad):
-    """Slices to hide: each broken link plus the `\\|` that binds it to a
-    neighbour, so hiding one of several links leaves no dangling separator."""
+    """Slices to hide, as (start, end, [urls]).
+
+    Each broken link takes with it the `\\|` that binds it to a neighbour, so
+    hiding one of several links leaves no dangling separator. And when the links
+    sat inside a `(...)` group that is now empty, the brackets go too -- otherwise
+    the page renders a bare `( )`.
+    """
     ordered = sorted(bad, key=lambda s: s[0])
     intervals = []
     cursor = 0
-    for s_start, s_end, _url in ordered:
+    for s_start, s_end, url in ordered:
         start, end = s_start, s_end
         after = SEP_AFTER_RE.match(line[end:])
         if after:
@@ -647,9 +653,35 @@ def removal_intervals(line, bad):
             before = SEP_BEFORE_RE.search(line[cursor:start])
             if before:
                 start = cursor + before.start()
-        intervals.append((max(start, cursor), end))
+        intervals.append((max(start, cursor), end, [url]))
         cursor = end
-    return intervals
+    return absorb_empty_group(line, intervals)
+
+
+def absorb_empty_group(line, intervals):
+    """Merge the intervals and take the enclosing brackets when nothing is left
+    between them -- `Release notes ([Eng] \\| [Esp])` must not become
+    `Release notes ( )`."""
+    if not intervals:
+        return intervals
+    start = min(s for s, _, _ in intervals)
+    end = max(e for _, e, _ in intervals)
+
+    covered = set()
+    for s, e, _ in intervals:
+        covered.update(range(s, e))
+    between = "".join(ch for i, ch in enumerate(line[start:end], start)
+                      if i not in covered)
+    if between.strip():
+        return intervals            # something visible survives between them
+
+    opener = re.search(r"\s*\(\s*$", line[:start])
+    closer = re.match(r"^\s*\)", line[end:])
+    if not (opener and closer):
+        return intervals
+
+    urls = [u for _, _, group in intervals for u in group]
+    return [(opener.start(), end + closer.end(), urls)]
 
 
 def _slug(detail):
