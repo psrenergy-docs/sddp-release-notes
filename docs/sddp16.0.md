@@ -1382,6 +1382,12 @@ Official release
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-16.0-setup-linux.zip)
 
 Please refer to the "# SDDP 16.0 Readme" file for the release notes:
+<!--broken-link status=404 checked=2026-08-04
 * [English](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEng-16.0.pdf)
+-->
+<!--broken-link status=404 checked=2026-08-04
 * [Español](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesEsp-16.0.pdf)
+-->
+<!--broken-link status=404 checked=2026-08-04
 * [Português](https://www.psr-inc.com/wp-content/uploads/softwares/sddp/SddpReleaseNotesPor-16.0.pdf)
+-->
