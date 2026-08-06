@@ -423,6 +423,65 @@ def load_cookie():
     return value or None
 
 
+def confirm_downloads(results, suspects, gated_todo, cookie, args):
+    """Re-test each failed download, but only while the server is demonstrably
+    still serving files.
+
+    The bulk sweep leaves the endpoint throttled, and a throttled request is
+    answered with the very same "acessonegado" as a missing file -- so simply
+    asking again proves nothing. Instead a control URL is used: a download that
+    already succeeded in this run. Before each batch of re-tests the control is
+    fetched again; while it comes back, a failure really is that file missing.
+    The moment the control fails too, the server is refusing everyone, so the
+    remaining verdicts are downgraded to ERROR rather than believed.
+    """
+    control = next((url for (kind, url), (st, _) in results.items()
+                    if kind == "gated" and st == OK), None)
+    if control is None:
+        for key in suspects:
+            results[key] = (ERROR, "no download succeeded in this run, so a "
+                                   "failure cannot be told apart from throttling")
+        if not args.quiet:
+            print("  no working download to calibrate against -- "
+                  f"{len(suspects)} failure(s) left unconfirmed", file=sys.stderr)
+        return
+
+    control_link = Link("(control)", 0, control, "", "gated")
+
+    def control_healthy():
+        for attempt in range(3):
+            status, _ = check_gated(control_link, cookie, args.timeout, 0)
+            if status == OK:
+                return True
+            if not args.quiet:
+                print(f"    server is refusing the control download; "
+                      f"waiting {args.cooldown:.0f}s", file=sys.stderr)
+            time.sleep(args.cooldown)
+        return False
+
+    if not args.quiet:
+        print(f"  confirming {len(suspects)} download failure(s) one at a time, "
+              f"against a control that must keep working", file=sys.stderr)
+    time.sleep(args.cooldown)
+
+    for i, key in enumerate(suspects, 1):
+        if (i - 1) % args.control_every == 0 and not control_healthy():
+            for rest in suspects[i - 1:]:
+                results[rest] = (ERROR, "server was throttling; cannot tell a "
+                                        "missing file from a refused request")
+            if not args.quiet:
+                print(f"    gave up at {i - 1}/{len(suspects)}: the control "
+                      "download stopped working too", file=sys.stderr)
+            return
+        time.sleep(args.confirm_delay)
+        status, detail = check_gated(gated_todo[key], cookie, args.timeout, 1)
+        if status != BROKEN:
+            detail += " [the bulk pass called this broken; not reproducible]"
+        results[key] = (status, detail)
+        if not args.quiet and (i % 10 == 0 or i == len(suspects)):
+            print(f"    confirmed {i}/{len(suspects)}", file=sys.stderr)
+
+
 def check_all(links, args, site_index):
     """Resolve every distinct (kind, url) once, then fan the result back out."""
     cookie = load_cookie()
@@ -472,22 +531,10 @@ def check_all(links, args, site_index):
     # Keep the pressure low here.
     sweep(gated_todo, max(1, min(args.jobs, args.download_jobs)), "download links")
 
-    # ...and never trust a single failure: re-test each one on its own, spaced
-    # out. A genuinely missing file fails again; a throttled request does not.
     suspects = [k for k, (st, _) in results.items()
                 if k[0] == "gated" and st == BROKEN]
     if suspects and not args.no_confirm:
-        if not args.quiet:
-            print(f"  confirming {len(suspects)} download failure(s), one at a time",
-                  file=sys.stderr)
-        for i, key in enumerate(suspects, 1):
-            time.sleep(args.confirm_delay)
-            status, detail = check_gated(gated_todo[key], cookie, args.timeout, 1)
-            if status != BROKEN:
-                detail += " [the bulk pass called this broken; not reproducible]"
-            results[key] = (status, detail)
-            if not args.quiet and (i % 10 == 0 or i == len(suspects)):
-                print(f"    confirmed {i}/{len(suspects)}", file=sys.stderr)
+        confirm_downloads(results, suspects, gated_todo, cookie, args)
 
     for link in links:
         status, detail = results.get((link.kind, link.url), (SKIPPED, "not checked"))
@@ -872,6 +919,11 @@ def main(argv=None):
                         "(default 3; the endpoint throttles into false failures)")
     p.add_argument("--confirm-delay", type=float, default=2.0,
                    help="seconds between the serial re-tests of failed downloads")
+    p.add_argument("--cooldown", type=float, default=60.0,
+                   help="seconds to let the download endpoint settle before "
+                        "re-testing, and after it refuses the control download")
+    p.add_argument("--control-every", type=int, default=10,
+                   help="re-check the control download every N confirmations")
     p.add_argument("--no-confirm", action="store_true",
                    help="skip the serial re-test of failed downloads (faster, "
                         "but a throttled request can then look like a dead link)")

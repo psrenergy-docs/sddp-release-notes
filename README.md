@@ -82,20 +82,30 @@ A real file comes back as an attachment; an unavailable one lands on
 
 **That page is not proof of anything on its own.** It means "cannot be served",
 which covers "not published yet", "your account has no access", *and* "you are
-asking too fast" — the endpoint starts returning it under concurrency. A run at
-eight parallel requests produced hundreds of failures that a slow re-probe could
-not reproduce. So downloads are checked gently and every failure is re-tested on
-its own before it is believed:
+asking too fast" — the endpoint returns it once it has been hit enough times.
+Two separate full runs produced hundreds of failures, among them the installers
+of shipped releases like 17.3.12 and 18.0.9, that a slow re-probe served
+perfectly. Asking again is not enough either: right after a full sweep the
+server is still refusing, so a naive re-test just repeats the wrong answer.
+
+So a failure is only believed while the server is **provably still serving**.
+The checker picks a control — a download that already succeeded in the same run
+— and re-fetches it alongside the re-tests. While the control keeps coming back,
+a failure really is that file missing. As soon as the control fails too, every
+remaining verdict is downgraded to `ERROR` instead of being trusted.
 
 ```
 --download-jobs 3     # parallel requests for download links (default 3)
---confirm-delay 2     # seconds between the serial re-tests of failures
---no-confirm          # skip the re-test (fast, but throttling looks like a dead link)
+--cooldown 60         # settle time before re-testing, and after a refusal
+--confirm-delay 2     # seconds between the serial re-tests
+--control-every 10    # re-check the control download every N re-tests
+--no-confirm          # skip all of it (fast, and unsafe for anything that writes)
 --no-downloads        # do not check download links at all
 ```
 
-Keep the confirmation pass on for anything that writes. It is what stops a busy
-server from quietly commenting out working links.
+A full download audit therefore takes a while — tens of minutes when many links
+fail. That is the price of not commenting out working links. Never pass
+`--no-confirm` together with `--fix`.
 
 Do not paste the cookie into a `.bat`: it contains `%` characters and `cmd`
 would expand them, silently corrupting the value. Use `.psr-cookie`.
