@@ -5,6 +5,23 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc2
+📅 Date: 2026-08-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc2-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc2-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc2-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Fixed OptGen cuts for energy efficiency projects when representing
+    demand variation factors, secondary reserve, and generic constraints
+    associated with their demands
+  * Added validation for final simulation selected scenario indices
+  * Added agent-wise spillage violation report in the standard SDDP dashboard
+
 # SDDP 18.0.11rc1
 📅 Date: 2026-08-05<br>
 🔗 Download:
