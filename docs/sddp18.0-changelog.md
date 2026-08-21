@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc4
+📅 Date: 2026-08-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc4-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Non-controllable spillage with typical days: added a new set of constraints to capture intraday spillage and avoid possible infeasibilities
+
+
 # SDDP 18.0.11rc3
 📅 Date: 2026-08-19<br>
 🔗 Download:
