@@ -21,6 +21,10 @@ layout: default
 ###  Fixed issues
   * Added missing descriptions of variables and constraints for the infeasibility report
 
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed an issue with generic expansion constraint outputs involving NID elements.
 
 # SDDP 18.0.11rc4
 📅 Date: 2026-08-21<br>
