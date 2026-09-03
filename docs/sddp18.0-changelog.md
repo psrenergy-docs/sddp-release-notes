@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc7
+📅 Date: 2026-09-03<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc7-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed the possibility of free fuel contracts injecting into fuel reservoirs
+
 # SDDP 18.0.11rc6
 📅 Date: 2026-09-01<br>
 🔗 Download:
