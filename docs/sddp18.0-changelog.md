@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc8
+📅 Date: 2026-09-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc8-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc8-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc8-setup-linux.bin)
+
+## Reliability Module (Coral)
+###  Fixed issues
+  * Fix threewinding transformer modeling outside NetPlan mode.
+  * Disable Netplan mode in SDDP 18 base.
+
+
 # SDDP 18.0.11rc7
 📅 Date: 2026-09-03<br>
 🔗 Download:
