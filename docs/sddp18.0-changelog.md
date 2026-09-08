@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc9
+📅 Date: 2026-09-08<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc9-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc9-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc9-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed an issue affecting cases with electrical network representation when there was selected line monitoring
+
 # SDDP 18.0.11rc8
 📅 Date: 2026-09-04<br>
 🔗 Download:
