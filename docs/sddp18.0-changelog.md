@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc10
+📅 Date: 2026-09-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc10-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc10-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc10-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Removed validation that prevented a user from configuring a combined cycle per unit with more than one steam unit
+
+
 # SDDP 18.0.11rc9
 📅 Date: 2026-09-08<br>
 🔗 Download:
