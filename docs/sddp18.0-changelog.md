@@ -14,6 +14,11 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc11-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed bus balance in cases with fixed converters connected to an electrical bus.
+
 ## Reliability Module (Coral)
 ###  Fixed issues
   * Fixed an error in which network elements marked as out of service (Decommissioned) in SDDP 18 studies were still represented in the optimization problem.
@@ -48,6 +53,7 @@ layout: default
 #### OptGen 2
   * Fixed an issue affecting cases with electrical network representation when there was selected line monitoring
 
+
 # SDDP 18.0.11rc8
 📅 Date: 2026-09-04<br>
 🔗 Download:
@@ -77,6 +83,7 @@ layout: default
   * Hourly representation
     * Fixed the possibility of free fuel contracts injecting into fuel reservoirs
 
+
 # SDDP 18.0.11rc6
 📅 Date: 2026-09-01<br>
 🔗 Download:
@@ -90,6 +97,7 @@ layout: default
 ###  Fixed issues
 #### OptGen 2
   * Fixed an issue with AC transmission lines in generic constraints.
+
 
 # SDDP 18.0.11rc5
 📅 Date: 2026-08-31<br>
@@ -111,6 +119,7 @@ layout: default
 ###  Fixed issues
 #### OptGen 2
   * Fixed an issue with generic expansion constraint outputs involving NID elements.
+
 
 # SDDP 18.0.11rc4
 📅 Date: 2026-08-21<br>
@@ -158,6 +167,7 @@ layout: default
   * Added validation for final simulation selected scenario indices
   * Added agent-wise spillage violation report in the standard SDDP dashboard
 
+
 # SDDP 18.0.11rc1
 📅 Date: 2026-08-05<br>
 🔗 Download:
@@ -180,6 +190,7 @@ layout: default
 ## Graphical user interface
 ###  Fixed issues
   * Fixed saving of N/I agent associations with OptGen generic constraints
+
 
 # SDDP 18.0.10
 📅 Date: 2026-07-22<br>
@@ -208,6 +219,7 @@ layout: default
   * Fixed an error when processing planned decisions for battery, flow controller, and supply-chain projects.
   * Fixed the calculation of electrical area demand.
   * Fixed the handling of Dynamic Probabilistic Reserve (DPR) coefficients in constraints introduced in version 18.0.9.
+
 
 # SDDP 18.0.10rc15
 📅 Date: 2026-07-11<br>
