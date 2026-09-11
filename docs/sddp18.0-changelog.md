@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc11
+📅 Date: 2026-09-11<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc11-setup-linux.bin)
+
+## Reliability Module (Coral)
+###  Fixed issues
+  * Fixed an error in which network elements marked as out of service (Decommissioned) in SDDP 18 studies were still represented in the optimization problem.
+  * Fixed the operating status convention for SDDP 18 studies, which was only interpreted correctly when the legacy Netplan network mode was active.
+
+
 # SDDP 18.0.11rc10
 📅 Date: 2026-09-10<br>
 🔗 Download:
