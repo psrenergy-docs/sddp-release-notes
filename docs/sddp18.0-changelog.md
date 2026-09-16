@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc13
+📅 Date: 2026-09-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc13-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc13-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc13-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Hourly representation
+    * Fixed water travel time initial conditions
+
 # SDDP 18.0.11rc12
 📅 Date: 2026-09-16<br>
 🔗 Download:
