@@ -15,6 +15,9 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc12-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved non-controllable spilling representation in typical days.
+
 ###  Fixed issues
   * Hourly representation
     * Fixed an issue where a future fixed converter could convert.
