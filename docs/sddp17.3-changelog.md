@@ -5,6 +5,30 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 17.3.13
+
+📅 Date: 2026-09-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.13-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-17.3.13-setup-linux.zip)
+
+## New features and improvements
+* Model
+  * Hourly representation
+    * Created option to define hydro initial storage for run-of-river plants
+
+## Fixed bugs
+* Model
+  * Fixed consideration of reserve constraints in the calculation of investment cuts for OptGen integration
+  * Fixed the calculation of multi-fuel thermal plants investment cuts for OptGen integration
+  * Fixed the calculation of circuits investment cuts for OptGen integration
+  * Fixed possible execution freezing during restart executions
+  * Fixed the FCF cuts calculation in cases with chronological blocks or typical days
+  * Hourly representation
+    * Fixed the possibility of free fuel contracts injecting into fuel reservoirs
+
+
 # SDDP 17.3.12
 
 📅 Date: 2025-06-18<br>
@@ -837,7 +861,7 @@ Official release
 ## Fixed bugs
 
 * Model
-  * Fixed investment cuts for Optgen integration for circuits in generic constraints
+  * Fixed investment cuts for OptGen integration for circuits in generic constraints
 
 
 # SDDP 17.3.7rc5
@@ -909,7 +933,7 @@ Official release
 ## Fixed bugs
 
 * Model
-  * Fixed the coupling between different Optgen rolling horizons for cases with the typical
+  * Fixed the coupling between different OptGen rolling horizons for cases with the typical
     day representation or with state variables other than hydro reservoirs
   * Hourly representation
     * Adjusted the initial conditions for pumping hydro stations
@@ -1538,7 +1562,7 @@ Official release
 ## Fixed bugs
 
 * Model
-  * Fixed storage investment cuts for Optgen integration
+  * Fixed storage investment cuts for OptGen integration
   * Fixed an issue that prevented executing cases with agent's name including single quotes
 
 
