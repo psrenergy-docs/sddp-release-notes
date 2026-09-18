@@ -22,6 +22,7 @@ layout: default
 ###  Fixed issues
   * Hourly representation
     * Fixed water travel time initial conditions
+    * Fixed DPR reserve consideration
 
 # SDDP 18.0.11rc12
 📅 Date: 2026-09-16<br>
