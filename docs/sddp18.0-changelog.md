@@ -15,7 +15,7 @@ layout: default
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc13-setup-linux.bin)
 
 ## Operation Planning Module (SDDP)
-## New features and improvements
+### New features and improvements
   * Hourly representation
     * Added output reporting AC losses per bus
 
