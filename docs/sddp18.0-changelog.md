@@ -5,6 +5,19 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc14
+📅 Date: 2026-09-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc14-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc14-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc14-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed an error in the conversion of generic expansion constraint data.
+
 # SDDP 18.0.11rc13
 📅 Date: 2026-09-18<br>
 🔗 Download:
