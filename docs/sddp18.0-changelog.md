@@ -14,9 +14,15 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc14-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Hourly representation
+    * Fix fuel reservoir final storage participation in stage-wise generic constraints
+
 ## Graphical user interface
 ###  Fixed issues
   * Fixed an error in the conversion of generic expansion constraint data.
+
 
 # SDDP 18.0.11rc13
 📅 Date: 2026-09-18<br>
@@ -36,6 +42,7 @@ layout: default
   * Hourly representation
     * Fixed water travel time initial conditions
     * Fixed DPR reserve consideration
+
 
 # SDDP 18.0.11rc12
 📅 Date: 2026-09-16<br>
