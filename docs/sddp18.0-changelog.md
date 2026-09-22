@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11rc15
+📅 Date: 2026-09-XX<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc15-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc15-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc15-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed an issue related to thermal plants associated with free contracts.
+
 # SDDP 18.0.11rc14
 📅 Date: 2026-09-21<br>
 🔗 Download:
