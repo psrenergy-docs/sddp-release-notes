@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.11rc15
-📅 Date: 2026-09-XX<br>
+📅 Date: 2026-09-22<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc15-setup.zip)
 \|
@@ -14,6 +14,10 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11rc15-setup-linux.bin)
 
+## Operation Planning Module (SDDP)
+### Fixed issues
+    * Fixed hourly maintenance aggregation factor
+    
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 2
