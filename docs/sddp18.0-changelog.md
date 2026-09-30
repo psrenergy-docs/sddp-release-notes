@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.11
+📅 Date: 2026-09-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Fixed FCF cut calculation for fuel reservoirs, fuel contracts and emission budget constraints in chronological executions
+
+
 # SDDP 18.0.11rc15
 📅 Date: 2026-09-22<br>
 🔗 Download:
@@ -16,12 +30,13 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ### Fixed issues
-    * Fixed hourly maintenance aggregation factor
+  * Fixed hourly maintenance aggregation factor
     
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
 #### OptGen 2
   * Fixed an issue related to thermal plants associated with free contracts.
+
 
 # SDDP 18.0.11rc14
 📅 Date: 2026-09-21<br>
