@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.11
-📅 Date: 2026-09-30<br>
+📅 Date: 2026-10-01<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.11-setup.zip)
 \|
@@ -18,6 +18,23 @@ layout: default
 ### Fixed issues
   * Fixed FCF cut calculation for fuel reservoirs, fuel contracts and emission budget constraints in chronological executions
 
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed solutions within tolerance of 100% are now rounded to 100% for all projects. Before, continuous projects were left out of this rounding.
+  * Improved handling of special characters in element names: Names containing apostrophes (`'`), asterisks (`*`) or braces (`{}`) are now read and printed correctly. Before, `*` could be read as a repetition (e.g. `2*T4`), and names with braces (e.g. `Plant{1}`) could hang the execution. Project names containing commas, semicolons or TAB characters now stop the run with an error message, as in SDDP.
+  * Fixed the names printed in the log for selected and non-selected generic constraints. Names could be matched to the wrong constraint, and some non-selected constraints were left out.
+#### OptGen 2
+  * Fixed the take-or-pay cost of fuel contracts, which could be calculated incorrectly in studies with multiple scenarios.
+  * Free (non-integral) fuel contracts now supply fuel as expected. Their maximum offtake rate and extra take-or-pay cost are now also taken into account.
+  * Fuel contracts with no contracted amount (unlimited) no longer make the study infeasible.
+  * Fixed generic constraints on circuit flows, with and without interpolation. Before, they could stop the execution with an error or have no effect on the results.
+  * Minimum/maximum constraints on installed capacity, firm capacity and firm energy now use each project's commissioning schedule at the constraint's target date. Before, with seasonal aggregation, projects entering operation later in the year could be left out, which could make the study infeasible.
+  * Fixed battery reserve terms in generic constraints, which were not applied correctly to each demand block.
+  * Fixed incremental minimum/maximum constraints in studies with PFCA, whose requirements could be reset along the planning horizon.
+  * Fixed user-defined plans that add planned capacity in installments over several years. Before, only the last installment was considered.
+  * Fixed energy efficiency projects. Before, projects that were not built could still be counted at full capacity, and other energy efficiency elements could be affected.
+  * Projects with multiple modules no longer lose capacity after their construction window. Before, this could make the study infeasible once their operating lifetime ended.
 
 # SDDP 18.0.11rc15
 📅 Date: 2026-09-22<br>
