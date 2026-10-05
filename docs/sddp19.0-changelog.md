@@ -127,7 +127,7 @@ The 19.0 database adds the following input data. The models that use each item a
 - **Reserves**: a reserve direction (up, down or both) for joint and primary reserves. Lines and transformers can have a maximum secondary reserve that can be shared through them, and a price for it. *SDDP, NCP.*
 - **Data centers / large loads**: flexible demands can be marked as data centers, with an existing flag and a deployment level over time. *SDDP, OptGen 1 and 2.*
 - **Fuels and fuel contracts**: hourly fuel price scenarios, hourly fuel-contract availability, a minimum offtake rate per stage, a take-or-pay cost that varies over time, and SOx/NOx emission factors. *SDDP; time-varying take-or-pay also in OptGen 2.*
-- **Energy supply chain**: hourly demand scenarios, and a balance coefficient for thermal plants. *SDDP.*
+- **Energy supply chain**: hourly demand scenarios. *SDDP.*
 - **Interconnections**: capacity, losses and cost each have their own dates per direction, and interconnection-sum constraints have their own lower and upper bounds. *SDDP.*
 - **Generation and generic constraints**: a flag to disable them, a constraint unit and a constraint type. *SDDP.*
 - **Hydro**: fractional travel times (fractions of an hour), mean forebay level, a unit precedence order, and tables with any number of points. *SDDP, NCP.*
@@ -254,7 +254,6 @@ The 19.0 database adds the following input data. The models that use each item a
 - New execution option **"Use energy supply chain modelling"** (on by default). Turn it off to ignore the energy supply chain data in the case.
 - New generic-constraint terms: supply-chain transport flow and supply-chain final storage.
 - **Hourly demand scenarios** for supply-chain demands.
-- Thermal plants have a **balance coefficient** in the supply-chain node balance.
 - The energy supply chain replaces the legacy gas network, which was removed (cases are converted automatically).
 
 ### Hydro and inflows
