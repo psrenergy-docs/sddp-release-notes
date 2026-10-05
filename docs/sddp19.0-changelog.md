@@ -484,15 +484,13 @@ SDDP 19.0 ships **PSRIO 5.0** (18.0.x shipped 4.0.x).
 
 ## Documentation: the new Knowledge Hub
 
-The [PSR Knowledge Hub](https://docs.psr-inc.com/knowledge/index.html) has been restructured. It is available online, separately from the SDDP installer:
+The [PSR Knowledge Hub](Single Sign-On) has been restructured. It is now available online, separately from the SDDP installer:
 - **Organized by product**: documentation is grouped by product (SDDP, OptGen, NCP, Time Series Lab and others) rather than by manual type (user manual, methodology manual, input file manual). It has about 600 articles across more than 10 products.
-- **The same learning path for every product**: Get started, Interface guide, How-to articles (for example, how to model a hybrid plant in SDDP), Methodology, and Sample cases.
+- **The same learning path for every product**: Get started, Interface guide, How-to articles, Methodology, and Sample cases.
 - **Better search**: it tolerates typos, can be filtered by product, topic and article type, and shows results as you type.
-- **Short video tutorials**: task-focused videos of up to 5 minutes, published progressively.
-- Articles follow a common editorial standard, and the hub can be read on computers, tablets and phones.
-- **Coming next**: an AI chatbot that answers product questions in natural language, a video library for every product, and sign-in with company credentials (SSO).
-
-> ⚠️ **Pending confirmation:** video publishing and the "coming next" items follow the plan announced at the PSR User Meeting 2026.
+- **Integrated AI chatbot** that answers product questions in natural language.
+- New secure and seamless access via **SSO login** (Single Sign-On).
+- Articles follow a **common editorial standard**, and the hub can be read on computers, tablets and phones.
 
 ---
 
