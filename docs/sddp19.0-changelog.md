@@ -70,14 +70,9 @@ SDDP 19.0 changes the study database format and its installation requirements. P
   - When you run a tool whose add-in is missing, the Add-in Manager opens automatically.
   - The SDDP uninstaller asks whether installed add-ins should also be removed.
   - Add-ins available for 19.0: **OptNet**, **NetPlan – AC optimal power flow** (formerly OptFlow), **PSRNetworkReport** (formerly built into the installation) and **PSRClustering** (formerly an optional installer component).
-- **New in the installation**: the NCP short-term model (see [NCP](#short-term-model-ncp)) and bin3csv, a new command-line result converter (see [below](#new-tools)).
+- **New in the installation**: the NCP short-term model (see [NCP](#short-term-model-ncp))).
 - **Example cases** have been re-saved in the 19.0 data format. They can no longer be opened with 18.0.
 - The installer now checks that the components it downloads are signed by PSR.
-
-### Linux
-- The Linux distribution now includes **NCP**.
-- **Coral on Linux now checks the license**, the same way as on Windows. Before, the Linux build ran unlicensed.
-- Coral on Linux uses Xpress 9.1, and OptGen and NCP use Xpress 9.9.
 
 ### Changed requirements
 - The minimum Windows version is now Windows 10 1607 / Windows Server 2016 (18.0 accepted Windows 8.1 / Server 2012 R2).
@@ -89,9 +84,8 @@ SDDP 19.0 changes the study database format and its installation requirements. P
 ## Database and file structure
 
 ### Longer names and codes
-- **Names are no longer limited to 12 characters**. This applies to all elements, in input files, terminal FCF files, logs, reports and output files. Output agent names can be up to 1000 characters, in SDDP and in bin2csv.
+- **Names are no longer limited to 12 characters**. This applies to all elements, in input files, terminal FCF files, logs, reports and output files.
 - **Element codes can have up to 9 digits** (they had 4 before).
-- Long names are supported across SDDP, OptGen 1 and 2, NCP, the hourly representation and the GUI.
 
 ### New CSV-based file structure
 - **About 60 input files moved to a CSV format**, with a version line and a header row instead of fixed-width columns. This includes the configuration of systems, hydro and thermal plants, fuels, interconnections, batteries, reserves and fuel contracts.
@@ -129,15 +123,14 @@ The conversion cannot be undone. Older SDDP 17 cases without a network, NetPlan 
 
 ### New input data
 The 19.0 database adds the following input data. The models that use each item are shown in italics, and the features are described in the module sections:
-- **Inertia**: an inertia constant for hydro and thermal plants, and inertia requirement elements. *SDDP (including the hourly representation), NCP.*
-- **Batteries**: a stored-energy loss factor, the cycle-counting option, reserve direction parameters and battery generation offers. *SDDP (including the hourly representation), OptGen 2, NCP.*
-- **Reserves**: a reserve direction (up, down or both) for joint and primary reserves. Lines and transformers can have a maximum secondary reserve that can be shared through them, and a price for it. *SDDP (including the hourly representation), NCP.*
-- **Data centers / large loads**: flexible demands can be marked as data centers, with an existing flag and a deployment level over time. *SDDP (including the hourly representation), OptGen 1 and 2.*
-- **Fuels and fuel contracts**: hourly fuel price scenarios, hourly fuel-contract availability, a minimum offtake rate per stage, a take-or-pay cost that varies over time, and SOx/NOx emission factors. *SDDP (including the hourly representation); time-varying take-or-pay also in OptGen 2.*
-- **Energy supply chain**: hourly demand scenarios, and a balance coefficient for thermal plants. *SDDP (including the hourly representation).*
+- **Batteries**: a stored-energy loss factor, the cycle-counting option, reserve direction parameters and battery generation offers. *SDDP, OptGen 2, NCP.*
+- **Reserves**: a reserve direction (up, down or both) for joint and primary reserves. Lines and transformers can have a maximum secondary reserve that can be shared through them, and a price for it. *SDDP, NCP.*
+- **Data centers / large loads**: flexible demands can be marked as data centers, with an existing flag and a deployment level over time. *SDDP, OptGen 1 and 2.*
+- **Fuels and fuel contracts**: hourly fuel price scenarios, hourly fuel-contract availability, a minimum offtake rate per stage, a take-or-pay cost that varies over time, and SOx/NOx emission factors. *SDDP; time-varying take-or-pay also in OptGen 2.*
+- **Energy supply chain**: hourly demand scenarios, and a balance coefficient for thermal plants. *SDDP.*
 - **Interconnections**: capacity, losses and cost each have their own dates per direction, and interconnection-sum constraints have their own lower and upper bounds. *SDDP.*
-- **Generation and generic constraints**: a flag to disable them, a constraint unit and a constraint type. *SDDP (including the hourly representation).*
-- **Hydro**: fractional travel times (fractions of an hour), mean forebay level, a unit precedence order, and tables with any number of points. *SDDP (including the hourly representation), NCP.*
+- **Generation and generic constraints**: a flag to disable them, a constraint unit and a constraint type. *SDDP.*
+- **Hydro**: fractional travel times (fractions of an hour), mean forebay level, a unit precedence order, and tables with any number of points. *SDDP, NCP.*
 - **Thermal**: installed capacity with its own date index, self-consumption, and combined-cycle options. *SDDP, NCP.*
 - **OptGen projects**: a degradation factor by year of operation, and resilience days. *OptGen 1 and 2 (resilience days: C++ engine of OptGen 2 only).*
 - **AC network**: per-plant reactive-power limits, voltage control data and short-circuit data. *NetPlan – AC optimal power flow.*
@@ -145,7 +138,7 @@ The 19.0 database adds the following input data. The models that use each item a
 - **Georeference**: plants, systems and circuits can be georeferenced. *Graphical interface (Energy map).*
 
 ### Performance
-- Cases load and save faster and use less memory: indexes speed up element lookup, many memory leaks were fixed, and a long text line full of empty fields no longer takes seconds to read.
+- Cases load and save faster and use less memory.
 
 ---
 
@@ -227,10 +220,6 @@ The 19.0 database adds the following input data. The models that use each item a
 ### Removed
 - The legacy **Graph** tab and graph module (replaced by the Results tab).
 - The old **PowerView** network map (replaced by the Energy map).
-- The "publish to S3" option of the case comparator.
-
-### New tools
-- **bin3csv**: a command-line converter between CSV, HDR/BIN and single-file binary result formats. It can also compare result files within a tolerance and pack or unpack HDR/BIN pairs. It accepts the same syntax as bin2csv.
 
 ---
 
@@ -250,12 +239,6 @@ The 19.0 database adds the following input data. The models that use each item a
   - All requirements in a reserve-sharing group must have the same direction, and reserve sharing cannot be combined with requirements in both directions.
 - **Reserve limited by ramp rates** in chronological block and typical-day runs, as in the hourly model: up-reserve by the ramp-up rate, and down-reserve by the ramp-down rate.
 - **Reserve sharing through circuits**: lines and transformers can have a maximum secondary reserve that can be shared through them, and a price for it.
-- In the hourly representation, shared and non-shared (exclusive and non-exclusive) reserve requirements were reformulated, and reserve constraints on AC circuits, interconnections and DC links were adjusted.
-
-### Inertia (new)
-As renewables displace synchronous generators, systems have less inertia and frequency deviations after a disturbance develop faster. SDDP now co-optimizes energy, reserves and inertia, so the dispatch is both cost-effective and frequency-aware.
-- **Inertia requirements**: a new element defines a minimum system inertia (MW·s) per block or per hour, with a violation penalty. Hydro and thermal plants have an **inertia constant** and can be assigned as providers. For each requirement, the sum of the providers' inertia constants, weighted by their commitment decisions, must be at least the required value. Providers are added to the unit commitment representation automatically.
-- New outputs: inertia violation, its cost and marginal cost, and the inertia provided by hydro and thermal plants. Inertia violations also appear in the SDDP dashboard.
 
 ### Large loads and data centers (new)
 - Flexible demands can be marked as **data centers**. A data center can shift load between blocks or hours within limits around its reference profile. Instead of a deficit, its curtailment is unlimited and penalized at its willingness to pay. Its existence status and deployment level can change over time.
@@ -264,11 +247,9 @@ As renewables displace synchronous generators, systems have less inertia and fre
 
 ### Fuels and fuel contracts
 - **Minimum offtake rate per stage** for fuel contracts (chronological data), with a penalized violation. New outputs for the violation and its cost, also shown in the dashboard.
-- **Hourly availability of fuel contracts** limits the total offtake from a contract in each hour. It requires the hour-block mapping.
+- **Hourly availability of fuel contracts** limits the total offtake from a contract in each hour..
 - **Hourly fuel price scenarios**: they are averaged into block prices, or used hour by hour in the hourly representation.
 - The take-or-pay cost of fuel contracts can now change over time, and is defined per year.
-- Duplicate fuel names are now allowed (codes must still be unique within a system).
-
 ### Energy supply chain
 - New execution option **"Use energy supply chain modelling"** (on by default). Turn it off to ignore the energy supply chain data in the case.
 - New generic-constraint terms: supply-chain transport flow and supply-chain final storage.
@@ -278,18 +259,13 @@ As renewables displace synchronous generators, systems have less inertia and fre
 
 ### Hydro and inflows
 - **Inflow model estimated from an hourly inflow history**: ESTIMA can read the history in hourly resolution and aggregate it to stage values. Each station can use its own resolution. ESTIMA also accepts the case path as a command-line argument.
-- **Modifications in additional years**: new execution option (off by default). When it is on, configuration modifications and dead-storage fill-ups dated in the additional years are applied (before, they stopped at the end of the study horizon).
 - Water travel times can be fractions of an hour (for example 0.5 h), so they can be represented exactly in 15- or 30-minute runs.
-- The outflow × tailwater table is no longer limited to 5 points.
-- New hourly output: tailwater elevation.
-- Inflows are no longer generated for gauging stations that are not linked to any hydro plant. In cases with such stations, the synthetic inflows of the other stations may differ from 18.0.
+- The seasonal outflow × tailwater table is no longer limited to 5 points.
 
 ### Network
-- New option for the representation of the 2nd Kirchhoff law: it can be represented for every circuit except those tied to an expansion project. It is not allowed with the complete network model.
 - **New outputs by device type**: flow, capacity, available capacity, marginal cost, losses, flow under contingency and loading for AC interconnections, DC lines, LCC converters and VSC converters. Also new: loading of AC lines, transformers, series capacitors and 3-winding transformers, and the phase-shifter angle of 2- and 3-winding transformers. The generic circuit flow, circuit loading, DC link flow and DC link loading outputs are no longer offered in the output selection.
 - The DC link transmission cost output was renamed to **AC interconnection transmission cost**.
 - New execution option **"Generate outputs for NetPlan/OptNet"** (off by default) produces the outputs that a later NetPlan AC optimal power flow or OptNet run needs.
-- Network calculations are now always done by PSRNetwork, so the option to choose them was removed. Features that the complete network model does not support are rejected with a clear message.
 - In the hourly representation, transformer, capacitor and AC line flow outputs are now also produced when losses are not modelled (before, they required modelling losses).
 
 ### Generic constraints
@@ -313,23 +289,10 @@ Cut dominance filtering no longer normalizes cuts.
 ### Simulation and integration with OptGen
 - **Scenario probabilities in runs chained with OptGen**: they are now read only when the new execution option **"Consider scenario probability data"** is on. In 18.0 they were read automatically.
 
-### Outputs and dashboard
-- **SDDP dashboard**:
-  - new violation categories: inertia, and fuel-contract minimum offtake per stage;
-  - a table describing the execution nodes and processes;
-  - "Lower bound", "Upper bound" and "Tolerance" labels in the convergence chart, in each interface language;
-  - "k$" in the final cost table;
-  - faster generation of the generation report.
-- Post-processed outputs no longer include the additional (buffer) years, unless additional years are selected for the final simulation.
-- The infeasibility report shows each constraint's short code next to its description (for example "HGuideC: Hydro plant - Guide curve").
-- A new **electrical losses analysis** report shows losses in total and per bus, for AC circuits, DC lines, transformers and series capacitors.
-- The **DPR** dashboard uses the current dashboard layout.
-
-### Performance and security
+### Performance
 - **Redesigned cut management engine**: in the policy phase, the time per iteration grows with the number of stages, scenarios and state variables, and with the cuts accumulated in the future cost function, so performance degrades as iterations go on. The engine that stores and manages cuts was fully redesigned to make building the future cost function faster and more scalable. This makes it practical to run more scenarios and iterations, which improves policy quality. In a preliminary benchmark on a Brazilian case (165 hydro plants, 116 stages, about 1,080 state variables, 2,000 forward scenarios, 12 iterations), the total policy time fell by about 40%.
   > ⚠️ **Pending confirmation:** this engine is still being finalized in a separate development branch and is not yet part of the 19.0 release branch. The 40% figure is a preliminary result.
-- Lower memory use: output buffers are sized to the case instead of a fixed maximum.
-- The system calls that copy, rename and delete files and launch runs were hardened against command injection. Paths with spaces in the MPI configuration now work.
+
 
 ---
 
@@ -555,20 +518,10 @@ The [PSR Knowledge Hub](https://docs.psr-inc.com/knowledge/index.html) has been 
 
 | Model / module | Feature (18.0.x) | Status in 19.0 | Replacement / action |
 |---|---|---|---|
-| SDDP (including the hourly representation) and OptGen | Gas network (gas nodes, pipelines, gas outputs, OptGen gas cuts and gas projects) | Removed | Energy Supply Chain. Converted automatically. |
-| SDDP (including the hourly representation) | Legacy CO2 emission factor per fuel, system carbon cost and their CO2 cost and emission outputs | Removed | Emission elements. Converted automatically. |
-| SDDP (including the hourly representation) | POCP target storage ("Nível Meta") and its outputs | Removed | — |
-| SDDP | 13-month policy grouping | Removed | — |
-| SDDP | Quarterly stages | Removed | Monthly or weekly stages. |
-| SDDP (ESTIMA) | Principal-components inflow model and non-parametric inflow model | Removed | Standard inflow model in ESTIMA. |
-| SDDP | FCF cycles option | Removed | — |
-| SDDP | Network calculations without PSRNetwork | Removed | PSRNetwork is always used. |
-| SDDP | DC link transmission cost output | Renamed | AC interconnection transmission cost. |
+| SDDP and OptGen | Gas network (gas nodes, pipelines, gas outputs, OptGen gas cuts and gas projects) | Removed | Energy Supply Chain. Converted automatically. |
+| SDDP and OptGen | Legacy CO2 emission factor per fuel, system carbon cost and their CO2 cost and emission outputs | Removed | Emission elements. Converted automatically.  |
 | SDDP | Generic circuit and DC link flow and loading outputs in the output selection | No longer offered | New outputs by device type. |
 | SDDP | Convergence screen (SDDPScr) and its command-line option | Removed | Progress shown in the execution window. |
-| SDDP | Multi-disk architecture option | Removed | — |
-| SDDP and PSRIO | Direct output to Amazon S3, and the PSRIO S3 options | Removed | — |
-| OptGen 1 | Option to include additional years in Benders cuts | Replaced | Considered by default; a new option excludes them. |
 | OptGen | Inflow scenarios with one file per scenario | Replaced | Single scenario file plus a scenario-weight table. Converted automatically. |
 | PSRIO | Old dashboard template and number-of-threads options | Removed | — |
 | Graphical interface | Legacy Graph tab / graph module | Removed | Results tab. Saved graphs are converted. |
@@ -589,11 +542,6 @@ These issues existed in SDDP 18.0.x and are fixed in 19.0.
 - Fixed names containing commas, which could corrupt CSV files on the next save and make a case reload silently with missing data.
 - Fixed a value too wide for a fixed column overflowing into the next column when saving.
 - Fixed malformed case or result files crashing the GUI or the model. They are now rejected with a message.
-
-### Operation Planning Module (SDDP)
-- Losses are ranked by absolute value when circuits are selected for loss representation.
-- Fixed the battery storage percentage output.
-- In dashboard charts, labels and tooltips now show the original scenario and block numbers after a selection, instead of their position in the selection.
 
 ### Expansion Planning Module (OptGen)
 - OptGen 1:
