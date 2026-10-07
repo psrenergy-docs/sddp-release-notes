@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc2
+📅 Date: 2026-10-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc2-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc2-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc2-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Hourly representation
+    * Fixed output writing for elements with the same name linked to the same fixed converter
+
+
 # SDDP 18.0.11
 📅 Date: 2026-10-01<br>
 🔗 Download:
@@ -35,6 +50,7 @@ layout: default
   * Fixed user-defined plans that add planned capacity in installments over several years. Before, only the last installment was considered.
   * Fixed energy efficiency projects. Before, projects that were not built could still be counted at full capacity, and other energy efficiency elements could be affected.
   * Projects with multiple modules no longer lose capacity after their construction window. Before, this could make the study infeasible once their operating lifetime ended.
+
 
 # SDDP 18.0.11rc15
 📅 Date: 2026-09-22<br>
