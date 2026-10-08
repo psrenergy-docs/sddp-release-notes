@@ -22,6 +22,8 @@ layout: default
 ## Graphical user interface
 ### Fixed issues
   * Fixed an error generating dynamic probabilistic reserve dashboard through the interface
+  * Fixed available variables of power injection and interconnection in generic interpolation constraints
+
 
 # SDDP 18.0.12rc1
 📅 Date: 2026-10-04<br>
@@ -37,6 +39,7 @@ layout: default
 #### OptGen 2
   * Fixed an error related to generic constraints including interconnection when the simulation has the network modelling turned on
   * Fixed an error related to tree winding transformer modelling
+
 
 # SDDP 18.0.11
 📅 Date: 2026-10-01<br>
