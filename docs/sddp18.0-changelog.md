@@ -19,6 +19,24 @@ layout: default
   * Hourly representation
     * Fixed output writing for elements with the same name linked to the same fixed converter
 
+## Graphical user interface
+### Fixed issues
+  * Fixed an error generating dynamic probabilistic reserve dashboard through the interface
+
+# SDDP 18.0.12rc1
+📅 Date: 2026-10-04<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc1-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed an error related to generic constraints including interconnection when the simulation has the network modelling turned on
+  * Fixed an error related to tree winding transformer modelling
 
 # SDDP 18.0.11
 📅 Date: 2026-10-01<br>
