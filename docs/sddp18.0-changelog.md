@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc3
+📅 Date: 2026-10-09<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc3-setup-linux.bin)
+
+## Graphical user interface
+### Fixed issues
+  * Fixed an error generating dynamic probabilistic reserve dashboard through the interface
+
+
 # SDDP 18.0.12rc2
 📅 Date: 2026-10-07<br>
 🔗 Download:
@@ -21,7 +35,6 @@ layout: default
 
 ## Graphical user interface
 ### Fixed issues
-  * Fixed an error generating dynamic probabilistic reserve dashboard through the interface
   * Fixed available variables of power injection and interconnection in generic interpolation constraints
 
 
