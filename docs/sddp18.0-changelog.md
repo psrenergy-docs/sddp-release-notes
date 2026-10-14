@@ -5,6 +5,26 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc4
+📅 Date: 2026-10-14<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc4-setup-linux.bin)
+
+## Reliability Module (Coral)
+### New features and improvements
+  * Added dedicated expected flow and availability outputs for two-winding transformers and three-winding transformer windings, plus operation-point flow outputs. Circuit flow and availability outputs now cover AC lines only.
+  * Added the effective circuit availability output (`circuitavail_effective`), while keeping `circuitavail` unchanged.
+
+### Fixed issues
+  * Fixed interconnection sum constraints that could unintentionally force selected directional flows to zero.
+  * Fixed battery injection bounds in stages before the battery exists.
+  * Fixed circuit availability handling before the first `DateStatus` record.
+
+
 # SDDP 18.0.12rc3
 📅 Date: 2026-10-09<br>
 🔗 Download:
