@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc5
+📅 Date: 2026-10-16<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc5-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Hourly representation
+    * Fixed AC interconnection reserve margin application
+
+
 # SDDP 18.0.12rc4
 📅 Date: 2026-10-14<br>
 🔗 Download:
