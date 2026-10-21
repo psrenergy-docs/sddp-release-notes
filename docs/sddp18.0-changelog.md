@@ -5,6 +5,29 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc6
+📅 Date: 2026-10-21<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### New features and improvements
+  * Created option to allow definition of battery charge/discharge capacity reference point
+  * Improved validations when the inflow outlier filter is enabled
+
+### Fixed issues
+  * Fixed representation of variables that are not model decisions in multi-stage generic constraints
+  * Fixed CSP marginal cost outputs unit
+
+## Graphical user interface
+### Fixed issues
+  * Allowed definition of connection to the sea for hydro bypass
+
+
 # SDDP 18.0.12rc5
 📅 Date: 2026-10-16<br>
 🔗 Download:
