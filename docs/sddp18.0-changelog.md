@@ -20,6 +20,14 @@ layout: default
   * Energy Efficiency firm capacity and/or energy no longer being considered for unexpanded future non-project elements.
   * Automatic calculation of Energy Efficiency firm capacity and/or energy now considers a deployment level different than one.
 
+## Reliability Module (Coral)
+### New Features and Improvements
+  * missing required SDDP scenario files are now reported with their full paths
+  * added the coral_solved output, flagging which blocks were solved per stage
+  * blocks not solved due to TBLK or coral_filter.dat are now written as NaN instead of zero
+  * combined cycles by unit now limit the steam unit generation to the gas units generation, as in SDDP
+
+
 # SDDP 18.0.12rc6
 📅 Date: 2026-10-21<br>
 🔗 Download:
