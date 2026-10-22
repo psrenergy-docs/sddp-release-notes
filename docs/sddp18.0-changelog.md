@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc7
+📅 Date: 2026-10-22<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc7-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc7-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc7-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Energy Efficiency firm capacity and/or energy no longer being considered for unexpanded future non-project elements.
+  * Automatic calculation of Energy Efficiency firm capacity and/or energy now considers a deployment level different than one.
+
 # SDDP 18.0.12rc6
 📅 Date: 2026-10-21<br>
 🔗 Download:
