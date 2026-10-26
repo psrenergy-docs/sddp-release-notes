@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc8
+📅 Date: 2026-10-26<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc8-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc8-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc8-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Fixed hydro bypass consideration in hydro plant outflow ramp constraints
+
+
 # SDDP 18.0.12rc7
 📅 Date: 2026-10-22<br>
 🔗 Download:
