@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.12rc8
-📅 Date: 2026-10-26<br>
+📅 Date: 2026-10-27<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc8-setup.zip)
 \|
@@ -17,6 +17,11 @@ layout: default
 ## Operation Planning Module (SDDP)
 ### Fixed issues
   * Fixed hydro bypass consideration in hydro plant outflow ramp constraints
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixes on loading and processing of project O&M costs
 
 
 # SDDP 18.0.12rc7
