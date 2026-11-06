@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12rc11
+📅 Date: 2026-11-06<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 2
+  * Fixed an issue with batteries in generic interpolation constraints
+  * Fixed an issue with energy supply chain demand in generic operating constraints
+  * Fixed an issue where circuits set as non-operational by the user could still have nonzero power flow
+
 # SDDP 18.0.12rc8
 📅 Date: 2026-10-27<br>
 🔗 Download:
