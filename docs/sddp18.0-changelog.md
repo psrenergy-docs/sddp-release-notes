@@ -5,14 +5,22 @@ nav_order: 2
 layout: default
 ---
 
-# SDDP 18.0.12rc11
+# SDDP 18.0.12rc10
 📅 Date: 2026-11-06<br>
 🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc10-setup.zip)
 \|
-[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup-offline.zip)
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc10-setup-offline.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc11-setup-linux.bin)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc10-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Fix hydro capacity counted twice in reserve constraints for plants with inflow x maximum turbining table
+  * Fix wrong behavior of future energy supply chain storages with minimum or initial storage greater than 0
+  * Fix energy supply chain storage outputs (final storage, marginal cost and OptGen cut coefficients)
+  * Hourly representation
+    * Adapted energy supply chain storage modelling to make it consistent with the block representation
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
@@ -20,6 +28,21 @@ layout: default
   * Fixed an issue with batteries in generic interpolation constraints
   * Fixed an issue with energy supply chain demand in generic operating constraints
   * Fixed an issue where circuits set as non-operational by the user could still have nonzero power flow
+
+
+# SDDP 18.0.12rc9
+📅 Date: 2026-11-02<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc9-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc9-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12rc9-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed some translations
+
 
 # SDDP 18.0.12rc8
 📅 Date: 2026-10-27<br>
@@ -1074,6 +1097,7 @@ layout: default
 ###  Fixed issues
   * Fixed thermal plant x energy chain node association saving
 
+
 # SDDP 18.0.8rc13
 📅 Date: 2026-02-27<br>
 🔗 Download:
@@ -1112,6 +1136,7 @@ layout: default
 ## Post processing tool (PSRIO)
 ###  Fixed issues
   * Dashboard generation
+
 
 # SDDP 18.0.8rc7
 📅 Date: 2026-02-09<br>
