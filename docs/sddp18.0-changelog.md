@@ -16,6 +16,7 @@ layout: default
 
 ## Operation Planning Module (SDDP)
 ### Fixed issues
+  * Fix FCF cut coefficients of inflow lags in monthly studies
   * Fix hydro capacity counted twice in reserve constraints for plants with inflow x maximum turbining table
   * Fix wrong behavior of future energy supply chain storages with minimum or initial storage greater than 0
   * Fix energy supply chain storage outputs (final storage, marginal cost and OptGen cut coefficients)
