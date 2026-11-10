@@ -7,8 +7,8 @@ layout: default
 
 # SDDP 19.0 – Advanced transmission modeling, now with AC OPF (OptFlow)
 
-🌐 Please refer to the release site and check out the most important features developed on this release.  
-📝 For the detailed changelog and download links, please visit the changelog page.
+🌐 Please refer to the [release site](http://psr-energy.com/software/sddp-19.0.html) and check out the most important features developed on this release.  
+📝 For the detailed changelog and download links, please visit [this page](sddp19.0-changelog.md).
 
 SDDP 19.0 brings **advanced transmission network assessment with AC optimal power flow (OptFlow)**, **more flexible database naming and coding** (with a modernized file structure), and a set of **GUI and performance refinements** that improve day-to-day workflows.
 
@@ -114,7 +114,7 @@ Performance was improved for transmission expansion cases by introducing **autom
 
 Energy efficiency programs can now be included in **generic firm energy / firm capacity constraints**, improving the consistency of adequacy-style formulations that combine supply-side and demand-side resources.
 
-## 🌤️ Time Series Lab 2.2 (TSL)
+## 🌤️ Time Series Lab 2.3 (TSL)
 
 - **Bifacial PV panels modeling**  
   New support for representing bifacial PV behavior in renewable generation time series and scenarios.

@@ -7,14 +7,22 @@ psr_model: "SDDP"
 toc:
   - title: Current version
     subfolderitems:
+      - title: SDDP 19.0
+        subfolderitems:
+          - page: Release notes
+            url: /sddp19.0-release-notes
+          - page: Detailed changelog
+            url: /sddp19.0-changelog
+  - title: Previous versions
+    subfolderitems:
       - title: SDDP 18.0
         subfolderitems:
           - page: Release notes
             url: /sddp18.0-release-notes
           - page: Detailed changelog
             url: /sddp18.0-changelog
-  - title: Previous versions
-    subfolderitems:
+      - page: SDDP 18.0
+        url: /sddp18.0
       - title: SDDP 17.3
         subfolderitems:
           - page: Release notes
