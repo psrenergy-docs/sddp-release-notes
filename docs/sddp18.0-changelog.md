@@ -25,6 +25,9 @@ layout: default
 
 ## Expansion Planning Module (OptGen)
 ###  Fixed issues
+#### OptGen 1
+  * Fixed an issue when running OptGen with hourly SDDP simulation and DPR activated
+
 #### OptGen 2
   * Fixed an issue with batteries in generic interpolation constraints
   * Fixed an issue with energy supply chain demand in generic operating constraints
