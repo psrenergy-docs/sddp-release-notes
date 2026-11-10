@@ -13,6 +13,8 @@ toc:
             url: /sddp19.0-release-notes
           - page: Detailed changelog
             url: /sddp19.0-changelog
+      - page: SDDP 19.0
+        url: /sddp19.0
   - title: Previous versions
     subfolderitems:
       - title: SDDP 18.0

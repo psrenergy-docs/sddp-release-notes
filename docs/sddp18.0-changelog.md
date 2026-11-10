@@ -5,6 +5,15 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.12
+📅 Date: 2026-11-10<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup-linux.bin)
+
 # SDDP 18.0.12rc10
 📅 Date: 2026-11-06<br>
 🔗 Download:
