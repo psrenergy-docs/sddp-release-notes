@@ -7,7 +7,7 @@ layout: default
 
 # SDDP 19.0
 
-📅 Date: to be announced<br>
+📅 Date: 2026-11-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0-setup.zip)
 \|
@@ -132,7 +132,7 @@ The 19.0 database adds the following input data. The models that use each item a
 - **Generation and generic constraints**: a flag to disable them, a constraint unit and a constraint type. *SDDP.*
 - **Hydro**: fractional travel times (fractions of an hour), mean forebay level, a unit precedence order, and tables with any number of points. *SDDP, NCP.*
 - **Thermal**: installed capacity with its own date index, self-consumption, and combined-cycle options. *SDDP, NCP.*
-- **OptGen projects**: a degradation factor by year of operation, and resilience days. *OptGen 1 and 2 (resilience days: C++ engine of OptGen 2 only).*
+- **OptGen projects**: a degradation factor by year of operation, and resilience days. *OptGen 1 and 2.*
 - **AC network**: per-plant reactive-power limits, voltage control data and short-circuit data. *NetPlan – AC optimal power flow.*
 - **Short-term data**: the detailed short-term data of each element (hydro units and hill curves, start-up types, forbidden zones, initial conditions, terminal functions and others). *NCP.*
 - **Georeference**: plants, systems and circuits can be georeferenced. *Graphical interface (Energy map).*
@@ -315,11 +315,9 @@ Cut dominance filtering no longer normalizes cuts.
 - **Automatic firm capacity of renewables (PFCA)**: the firm capacity of each renewable candidate is computed automatically, year by year. OptGen 2 identifies the most critical hours of the year (the hours with the highest net demand, that is, demand minus renewable generation) and averages each candidate's available generation over those hours. The firm capacity therefore adapts to the system and to the renewable mix being built. For example, as more solar is built, the critical hours move into the evening and the firm capacity of new solar plants falls. Previously in beta, the option is now available in the OptGen configuration screen, together with the number of critical hours (100 by default).
 - **Ward network reduction**: in studies with a detailed network, the network is split into an internal area (the buses of the monitored circuits), its boundary, and the external area. The external area is replaced by an equivalent network with the same electrical behaviour at the boundary, but far fewer buses and circuits. This makes integrated generation and transmission studies with realistic topologies tractable in OptGen 2. Methodology: Castro et al., "Ward reduction in unit-commitment problems", *Electric Power Systems Research*, 2024.
 - The take-or-pay cost of fuel contracts can vary over time.
-- **New C++ engine (preview)**: SDDP 19.0 also includes a new C++ implementation of OptGen 2. The Julia engine is still the one used by default. The C++ engine does not yet support every OptGen 2 feature, and it is the only engine that supports **resilience (stress) days** (new "Resilience days" option and screen). Resilience days model the hourly operation of selected critical days (peak net demand, lowest renewable generation and similar) alongside the base case. With the default Julia engine, the resilience-days option has no effect.
 
 ### OptGen 2 operational results in the Results tab
 - The operational module of OptGen 2 writes a family of results (dispatch, reserves, battery use and more), which help explain why the model chooses one technology over another. Until now, reading them required custom scripts. A dedicated module of the [Results tab](#results-tab-charts-and-dashboards) loads these files, so you can chart and browse them interactively, in the same way as SDDP results.
-  > ⚠️ **Pending confirmation:** this module was announced at the PSR User Meeting 2026, but we could not yet confirm it in the 19.0 code.
 
 ### New expansion planning dashboard
 - A new expansion planning dashboard replaces the previous one. It has the following tabs:
@@ -503,7 +501,7 @@ The [PSR Knowledge Hub](Single Sign-On) has been restructured. It is now availab
   - **SDDP to PSS/E and Anarede**: export of transmission data and AC optimal power flow set points to other database formats.
 - **NCP**:
   - **Time Series Lab integration**: stochastic renewable and inflow scenarios from TSL fed directly to NCP.
-  - **Probabilistic dynamic reserve**: reserves sized from forecast distributions instead of fixed margins.
+  - **Dynamic probabilistic reserve**: reserves sized from forecast distributions instead of fixed margins.
   - **Maintenance optimizer**: maintenance schedules co-optimized with the short-term dispatch.
   - **AC optimal power flow** inside the dispatch, for voltage, reactive support and losses.
   - **Stochastic dispatch**: short-term decisions that hedge against renewable and demand uncertainty.
@@ -539,16 +537,6 @@ These issues existed in SDDP 18.0.x and are fixed in 19.0.
 - Fixed names containing commas, which could corrupt CSV files on the next save and make a case reload silently with missing data.
 - Fixed a value too wide for a fixed column overflowing into the next column when saving.
 - Fixed malformed case or result files crashing the GUI or the model. They are now rejected with a message.
-
-### Expansion Planning Module (OptGen)
-- OptGen 1:
-  - Fixed the accumulation of previous-decision capacity for projects with a fixed date before the study horizon.
-  - Fixed the index of projects ignored because of precedence constraints.
-  - Fixed a memory error when reading exclusivity constraints.
-  - Fixed the "Existing" flag of flow controllers.
-  - Fixed the minimum/maximum storage mapping and the storage modifications of batteries.
-  - Removed warnings that were repeated at every iteration.
-- OptGen 2: a missing battery charge or discharge efficiency is now taken as 1. Before, future batteries could produce invalid bounds.
 
 ### Reliability Module (Coral)
 - Fixed generation being counted twice for plants that already have explicit generator units.
