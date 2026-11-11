@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.12
-📅 Date: 2026-11-10<br>
+📅 Date: 2026-11-11<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup.zip)
 \|
