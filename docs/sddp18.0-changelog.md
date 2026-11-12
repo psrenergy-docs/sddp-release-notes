@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.13rc1
+📅 Date: 2026-11-12<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc1-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc1-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc1-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+#### OptGen 1
+  * Fixed an issue with battery modifications when expanding transmission and batteries
+
+
 # SDDP 18.0.12
 📅 Date: 2026-11-11<br>
 🔗 Download:
@@ -13,6 +28,7 @@ layout: default
 [Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup-offline.zip)
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.12-setup-linux.bin)
+
 
 # SDDP 18.0.12rc10
 📅 Date: 2026-11-06<br>
