@@ -7,10 +7,10 @@ layout: default
 
 # SDDP 19.0
 
-📅 Date: to be announced<br>
+📅 Date: 2026-11-12<br>
 🔗 Download:
-[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0-setup.zip)
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.0-setup.zip)
 \|
-[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0-setup-linux.bin)
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.0-setup-linux.bin)
 
 Official release
