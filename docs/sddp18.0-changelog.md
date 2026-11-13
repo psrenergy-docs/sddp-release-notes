@@ -6,7 +6,7 @@ layout: default
 ---
 
 # SDDP 18.0.13rc1
-📅 Date: 2026-11-12<br>
+📅 Date: 2026-11-13<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc1-setup.zip)
 \|
@@ -18,6 +18,10 @@ layout: default
 ###  Fixed issues
 #### OptGen 1
   * Fixed an issue with battery modifications when expanding transmission and batteries
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed psrgraph module
 
 
 # SDDP 18.0.12
