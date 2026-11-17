@@ -26,9 +26,9 @@ layout: default
 \|
 [Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc1-setup-linux.bin)
 
-## Graphical user interface
-###  Fixed issues
-  * Fixed an issue that caused the application to crash when clicking the “Request license” button
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Improved the representation of proportional gauging stations in the inflow scenario generation
 
 
 # SDDP 19.0
