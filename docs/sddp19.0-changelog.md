@@ -5,6 +5,32 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 19.0.1rc2
+📅 Date: 2026-11-17<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc2-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc2-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Added generation offers in percentage of the available capacity
+###  Fixed issues
+  * Fixed an issue with the handling of default parameters for DPR-type reserves when parameter fields are empty
+
+
+# SDDP 19.0.1rc1
+📅 Date: 2026-11-13<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc1-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc1-setup-linux.bin)
+
+## Graphical user interface
+###  Fixed issues
+  * Fixed an issue that caused the application to crash when clicking the “Request license” button
+
+
 # SDDP 19.0
 
 📅 Date: 2026-11-12<br>
