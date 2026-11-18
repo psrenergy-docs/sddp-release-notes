@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 19.0.1rc3
+📅 Date: 2026-11-18<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc3-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc3-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Hourly representation
+    * Enhancement in the full transmission network representation model
+    * Hourly solution status now distinguishes infeasible problems from problems without a solution for other reasons,
+      such as the time limit
+
+
 # SDDP 19.0.1rc2
 📅 Date: 2026-11-17<br>
 🔗 Download:
