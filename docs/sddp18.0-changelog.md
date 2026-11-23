@@ -5,6 +5,21 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.13rc4
+📅 Date: 2026-11-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc4-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc4-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc4-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Hourly representation
+    * Fixed issue with water travel time valuation
+
+
 # SDDP 18.0.13rc3
 📅 Date: 2026-11-23<br>
 🔗 Download:
