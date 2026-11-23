@@ -5,6 +5,18 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 19.0.1rc6
+📅 Date: 2026-11-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc6-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  Fixed issues
+  * Generation offers relative to the available capacity are now given in p.u. instead of percentage
+
+
 # SDDP 19.0.1rc5
 📅 Date: 2026-11-23<br>
 🔗 Download:
@@ -16,6 +28,7 @@ layout: default
 ### Fixed issues
   * Fixed issue on internal data loading procedure that could lead to memory corruption and crash the execution  
 
+
 # SDDP 19.0.1rc4
 📅 Date: 2026-11-19<br>
 🔗 Download:
@@ -26,6 +39,7 @@ layout: default
 ## Operation Planning Module (SDDP)
 ### Fixed issues
   * Fixed issue with the historical scenarios generation in TSL module
+
 
 # SDDP 19.0.1rc3
 📅 Date: 2026-11-18<br>
