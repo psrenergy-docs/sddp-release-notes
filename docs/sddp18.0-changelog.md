@@ -5,6 +5,24 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.13rc3
+📅 Date: 2026-11-23<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc3-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc3-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc3-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+###  New Features and Improvements
+  * Hourly representation
+    * Enhancement in the full transmission network representation model
+### Fixed issues
+  * Hourly representation
+    * Fixed issue with water travel time representation
+
+
 # SDDP 18.0.13rc2
 📅 Date: 2026-11-17<br>
 🔗 Download:
