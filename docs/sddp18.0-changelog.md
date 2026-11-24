@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.13rc5
+📅 Date: 2026-11-24<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc5-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc5-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc5-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Hourly representation
+    * Fixed an issue with water travel time valuation
+    * Fixed an issue with units of variables related to water flow in generic contraints
+
+
 # SDDP 18.0.13rc4
 📅 Date: 2026-11-23<br>
 🔗 Download:
