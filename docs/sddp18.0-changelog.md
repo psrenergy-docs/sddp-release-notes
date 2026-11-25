@@ -5,6 +5,20 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 18.0.13rc6
+📅 Date: 2026-11-25<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc6-setup.zip)
+\|
+[Windows (Offline)](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc6-setup-offline.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-18.0.13rc6-setup-linux.bin)
+
+## Operation Planning Module (SDDP)
+### Fixed issues
+  * Fixed an issue when using initial storages from the state file
+
+
 # SDDP 18.0.13rc5
 📅 Date: 2026-11-24<br>
 🔗 Download:
