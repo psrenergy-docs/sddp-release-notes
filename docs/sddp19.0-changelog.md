@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 19.0.1rc8
+📅 Date: 2026-11-30<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc8-setup-linux.bin)
+
+## Expansion Planning Module (OptGen)
+###  Fixed issues
+  * Fixed the renewable modification file written by OptGen.
+
+## Graphical user interface
+###  Fixed issues
+  * Reloading the case after an OptGen run no longer deletes some files the run created.
+
+
 # SDDP 19.0.1rc7
 📅 Date: 2026-11-26<br>
 🔗 Download:
