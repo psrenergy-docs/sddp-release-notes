@@ -5,6 +5,22 @@ nav_order: 2
 layout: default
 ---
 
+# SDDP 19.0.1rc8
+📅 Date: 2026-11-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc8-setup.zip)
+\|
+[Linux](https://www.psr-inc.com/app/link/?t=d&f=sddp-19.0.1rc8-setup-linux.bin)
+
+## Reliability Module (Coral)
+### Fixed issues
+  * Corrected the pseudo-sequential loss of load duration (LOLD) and frequency (LOLF) estimates, using stationary outage reconstruction and the inverse of the reconstructed hours with load shedding
+  * Corrected the loss of load frequency annualization to use the full stage duration
+  * Corrected the stationary initialization of sequential outages
+  * Fixed the preservation of transition timing across hourly steps
+  * Fixed the forward state restoration offset
+  
+
 # SDDP 19.0.1rc7
 📅 Date: 2026-11-26<br>
 🔗 Download:
